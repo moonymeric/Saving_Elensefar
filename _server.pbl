@@ -1,0 +1,15 @@
+#textdomain wesnoth-Saving_Elensefar
+title= _ "Saving Elensefar"
+type="campaign"
+icon="units/transport/transport-galleon.png~RC(magenta>red)"
+version="2.0.0"
+author="turin"
+passphrase=
+email=
+description= _ "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who attacked the city. He must gather an army willing to fight for him to regain Elensefar, his adopted homeland.
+"+"
+"+"This version of 'Saving Elensefar' is a fork from turin's original on the Wesnoth 1.2 add-ons server. It was created to serve as a simpler alternative to trewe's version and to emphasize more traditional gameplay and up-to-date graphics."
+
+[feedback]
+    topic_id=3072
+[/feedback]
