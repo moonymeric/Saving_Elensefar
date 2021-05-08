@@ -1,18 +1,23 @@
+#
+# Catalan translations for Battle for Wesnoth package.
+# Copyright (C) 2006 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo <kilder@hotmail.com>, 2006.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-08 01:52 UTC\n"
-"PO-Revision-Date: 2007-07-25 18:00+0200\n"
-"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
-"DOT com>\n"
-"Language-Team: Swedish\n"
+"PO-Revision-Date: 2006-09-20 08:41+0200\n"
+"Last-Translator: Jose Gordillo\n"
+"Language-Team: Català <wesnoth-ca@lists.ettin.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
 
 #. [unit_type]: id=Caravel, race=mechanical
 #: Saving_Elensefar/units/Caravel.cfg:4
@@ -32,7 +37,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:550
 msgid "Orc Mountain"
-msgstr "Orchberget"
+msgstr "La muntanya dels orcs"
 
 #. [unit]: type=Orcish Warrior, id=Dur-Kal
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:68
@@ -52,7 +57,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:88
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:91
 msgid "Defeat enemy leader"
-msgstr "Besegra fiendens ledare"
+msgstr "Derrota el líder enemic"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:94
@@ -74,7 +79,7 @@ msgstr "Besegra fiendens ledare"
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:92
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:95
 msgid "Death of Meneldur"
-msgstr "Meneldur dör"
+msgstr "Mort de Meneldur"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:98
@@ -96,7 +101,7 @@ msgstr "Meneldur dör"
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:96
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:99
 msgid "Death of Madru"
-msgstr "Madru dör"
+msgstr "Mort de Madru"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:102
@@ -117,22 +122,22 @@ msgstr "Madru dör"
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:100
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:103
 msgid "Death of Black the Red"
-msgstr "Black Röde dör"
+msgstr "Mort de Negre el Roig"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:116
 msgid "Orcs are here! Orcs, what do you know about the fall of Elensefar?"
-msgstr "Det finns orcher här! Orcher, vad vet ni om Elensefars fall?"
+msgstr "Hi ha orcs ací! Orcs, què sabeu de la caiguda d'Elensefar?"
 
 #. [message]: speaker=Dur-Kal
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:120
 msgid "Nothing, but I am glad to hear of it! Now prepare to die!"
-msgstr "Inget, men jag är glad att få reda på det! Nu, bered dig att på dö!"
+msgstr "No res, però m'agrada sentir-lo! Ara prepareu-vos per morir!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:124
 msgid "Very well. Let battle commence."
-msgstr "Då så. Låt kampen börja."
+msgstr "Molt bé. Que comence la batalla."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:133
@@ -141,18 +146,18 @@ msgid ""
 "We have defeated all enemies, we have plenty of time to restock the ship "
 "now. We can train our troops here for a few days."
 msgstr ""
-"Vi har gott om tid att fylla våra förråd nu. Vi kan exercera våra trupper i "
-"några dagar."
+"Tenim temps de sobra per reomplir els queviures de la nostra nau. Podem "
+"entrenar les nostres tropes ací durant uns quants dies."
 
 #. [scenario]: id=sea_battle
 #: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:3
 msgid "Sea Battle"
-msgstr "Sjöslag"
+msgstr "Batalla marina"
 
 #. [scenario]: id=sea_voyage_-2
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:3
 msgid "A Naval Engagement"
-msgstr "En sammandrabbning till havs"
+msgstr "Encontre naval"
 
 #. [unit]: type=Shadow Mage, id=Black
 #. [unit]: type=Transport Galleon
@@ -161,7 +166,7 @@ msgstr "En sammandrabbning till havs"
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:88
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:755
 msgid "Black the Red"
-msgstr "Black Röde dör"
+msgstr "Negre el Roig"
 
 #. [unit]: type=Lieutenant, id=Aldran
 #. [unit]: type=Transport Galleon
@@ -176,15 +181,17 @@ msgid ""
 "Why do you stop us? We seek help. I come from Elensefar, which, as far as we "
 "can tell, was just captured by orcs!"
 msgstr ""
-"Varför stoppar du oss? Vi söker hjälp. Jag kommer från Elensefar, som såvitt "
-"vi vet precis har blivit erövrat av orcher!"
+"Per què ens atureu? Busquem ajuda. Vinc d'Elensefar, que, pel que sabem, "
+"acaba de ser capturada pels orcs!"
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:166
 msgid ""
 "You are interfering with our mission; we are trying to chase down this "
 "magician pirate."
-msgstr "Du stör vårt uppdrag. Vi försöker jaga rätt på den där magikerpiraten."
+msgstr ""
+"Estàs interferint en la nostra missió, estem intentant capturar eixe mag "
+"pirata."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:170
@@ -192,8 +199,8 @@ msgid ""
 "I'm not a pirate! I also come from Elensefar, and I must have left port a "
 "few days before it was attacked. This is the first I've heard of it."
 msgstr ""
-"Jag är inte någon pirat! Jag kommer från Elensefar och måste ha lämnat "
-"hamnen några dagar innan attacken. Det här är första gången jag hör om det."
+"No sóc cap pirata! També vinc d'Elensefar, i dec haver-la abandonada uns "
+"pocs dies abans que fóra atacada. És la primera cosa que he sentit d'açò."
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:174
@@ -201,8 +208,8 @@ msgid ""
 "You dog, don't bother us with your lies! You attacked a ship of the Royal "
 "Navy with your spells, and now you will pay for it!"
 msgstr ""
-"Din hund, kom inte här med en massa lögner! Du anföll ett skepp från den "
-"kungliga flottan med dina besvärjelser och nu skall du få betala för det!"
+"Tu, gos, no ens molestes amb les teues mentires! Vas atacar una nau de "
+"l'Armada Reial amb els teus conjurs, i ara ho pagaràs!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:178
@@ -210,20 +217,21 @@ msgid ""
 "I need loyal warriors from Elensefar to help me on my quest. Black the Red, "
 "do you want to join me in retaking Elensefar from these orcs?"
 msgstr ""
-"Jag behöver lojala soldater från Elensefar för att hjälpa mig på mitt "
-"uppdrag. Black Röde, vill du hjälpa mig att återta Elensefar från orcherna?"
+"Necessite lleials guerrers elensians que em puguen ajudar en la meua missió. "
+"Negre el Roig, voldries unir-te a mi per alliberar Elensefar d'aquestos orcs?"
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:182
 msgid ""
 "Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
 msgstr ""
-"Fredlösa menar du! Elenserna är likadana hela bunten. Trupper, förgör dem!"
+"Proscrits, sou tots uns proscrits! Tots els elensians sou iguals. Soldats, "
+"mateu-los!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:186
 msgid "Why is a ship from Elensefar carrying bandits and thieves?"
-msgstr "Varför är ett skepp från Elensefar bemannat med tjuvar och banditer?"
+msgstr "Què fa un vaixell d'Elensefar ple de bandits i lladres?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:190
@@ -232,9 +240,9 @@ msgid ""
 "fiercely loyal to it. They will be good fighters. I will join, if you'll "
 "have me."
 msgstr ""
-"De kommer från de.. mindre bemedlade delarna av Elensefar. Men de är "
-"fortfarande mycket lojala. De kommer att vara bra soldater. Jag ansluter mig "
-"till er, om ni accepterar."
+"Ells venen de... d'els districtes menys _rics_ d'Elensefar. Però són d'una "
+"lleialtat inqüestionable. Seran uns bons lluitadors. M'uniré a tu, si em "
+"deixes."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:194
@@ -242,8 +250,8 @@ msgid ""
 "Very well. Thats not so different from my own crew. Aldran - we will not "
 "fight you if you do not attack us, but you must let us go on our way."
 msgstr ""
-"Nåväl. Det är ungefär som min egen besättning. Aldran, vi kommer inte att "
-"slåss med er om ni inte anfaller oss, men du måste låta oss fortsätta."
+"Molt bé. Tampoc se'n van molt de la meua tripulació. Aldran - no lluitarem "
+"contra tu si no ens ataques, però deus deixar-nos anar."
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:198
@@ -252,14 +260,14 @@ msgid ""
 "it does not matter it is two boats to one; I have already sent a boat to "
 "inform the King, and get reinforcements."
 msgstr ""
-"Ha! Jag kommer att föra dig och dina allierade inför rätta i Weldyn för "
-"högförräderi. Det spelar inte någon roll att det är två båtar mot en. Jag "
-"har redan skickat en båt för att informera kungen och få förstärkningar."
+"Ha! Vos enduré a tu i al teu aliat a Weldyn per a que sigueu jutjats per "
+"traïció. I què més dóna si sou dos vaixells o un només, ja he enviat una "
+"altra nau per a informar el Rei i rebre reforços."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:207
 msgid "Well, what is it anyway that you people want? Why did you help us?"
-msgstr "Nå, vad är det ni vill egentligen? Varför hjälpte ni oss?"
+msgstr "Bé, què és el que voleu en veritat? Per què ens vau ajudar?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:211
@@ -268,10 +276,10 @@ msgid ""
 "You're an Elensian, right? I think you owe us your help. We did just save "
 "you from death, and now we have the men of Wesnoth against us in return."
 msgstr ""
-"Vi måste till sjöss för att bygga upp en arme som är tillräckligt stor för "
-"att återta Elensefar. Du är elenser, eller hur? Jag tycker att du är skyldig "
-"oss din hjälp. Vi räddade dig just från döden och fick till på köpet "
-"Wesnoths armé efter oss."
+"Ens hem llançat al mar per reunir un exèrcit prou gran per reconquistar "
+"Elensefar. Eres un elensià, veritat? Crec que ens deus un favor. Acabem de "
+"salvar-te d'una mort segura, i ara tenim també als hòmens de Wesnoth contra "
+"nosaltres."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:215
@@ -281,15 +289,15 @@ msgid ""
 "who will be willing to help you; I will join you, and try to convince those "
 "warriors to also, if you grant me one request."
 msgstr ""
-"Nå, jag har varit i Elensefar och är skyldig det en viss hjälp. Nåväl, detta "
-"är vad jag tänkte göra. Det finns en ö västerut som har en befolkning med "
-"många krigare som är villiga att hjälpa dig. Jag följer med dig och hjälper "
-"till att övertala de där krigarna, om du gör en sak för mig."
+"Bé, he estat en Elensefar unes quantes vegades i li dec alguna ajuda. Molt "
+"bé. Açò és el que pense fer. Hi ha una illa cap a l'oest habitada per molts "
+"guerres que estarien disposats a lluitar amb tu; m'uniré a tu i t'ajudaré a "
+"convèncer-los, amb una condició."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:219
 msgid "Which is?"
-msgstr "Vadå?"
+msgstr "Que és..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:223
@@ -297,8 +305,8 @@ msgid ""
 "I can't tell you until we reach the Western isle I told you about. That's "
 "part of the fun."
 msgstr ""
-"Det kan jag inte berätta förrän vi kommer till fram till ön. Det är en del "
-"av det roliga."
+"No t'ho puc dir fins que no arribem a eixa illa que t'he dit. És part de la "
+"diversió."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:227
@@ -307,9 +315,10 @@ msgid ""
 "will honor your request, whatever it may be, whenever we reach this Western "
 "island and you secure the help of the warriors that live there.' Happy?"
 msgstr ""
-"Åhå, nåväl... 'Jag svär vid min stad Elensefar och vid min heder som sjöman "
-"att jag kommer att uppfylla din begäran, vad det än vara må, när vi når den "
-"här västra ön och du har säkrat hjälpen från krigarna som bor där.' Nöjd?"
+"Val, val... 'Jure, per Elensefar, la meua ciutat, i el meu honor com a "
+"Mariner que compliré amb la teua condició, siga quina siga, quan arribem a "
+"aquesta illa occidental i aconseguisques l'ajuda dels guerres que allí "
+"viuen.' Content?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:231
@@ -317,15 +326,15 @@ msgid ""
 "Very much so. Now, I will move my troops to your boat (it is faster), and we "
 "will head on west..."
 msgstr ""
-"Exakt. Nu beordrar jag mina trupper över till ditt snabbare skepp, och så "
-"kan vi ge oss av mot väster..."
+"No et pots fer una idea. Ara conduiré les meues tropes al teu vaixell (és "
+"més ràpid), i navegarem cap a l'oest..."
 
 #. [scenario]: id=sea_voyage_9
 #. [label]
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:672
 msgid "Wesnothian Forces"
-msgstr "Wesnothiska styrkor"
+msgstr "Forces wesnothianes"
 
 #. [unit]: type=General, id=Thandor
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:64
@@ -339,9 +348,9 @@ msgid ""
 "Elensefar is not yet destroyed. The orcs are using it as their base for "
 "attacking us."
 msgstr ""
-"Var hälsade, förrädare. Jag har vad jag antar du tycker är goda nyheter. "
-"Elensefar är inte förstört än. Orcherna använder det som bas för att anfalla "
-"oss."
+"Benvingut, traïdor. Tinc el que supose tu consideres bones notícies; "
+"Elensefar encara no ha sigut destruïda. Els orcs la estan utilitzant com a "
+"base per atacar-nos."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:116
@@ -349,13 +358,13 @@ msgid ""
 "So that means you have heard of our suppposed rebellion. Let us not waste "
 "time; shall we commence battle?"
 msgstr ""
-"Så det betyder att du har hört om vårt påstådda uppror. Låt oss inte ödsla "
-"tid, utan börja striden direkt."
+"Això vol dir que has sentit parlar de la nostra suposada rebel·lió. No cal "
+"perdre més temps, podem començar la batalla?"
 
 #. [message]: speaker=Thandor
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:120
 msgid "Gladly. Prepare to die!"
-msgstr "Gärna. Bered dig på att dö!"
+msgstr "Amb molt de gust. Prepara't per morir!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:129
@@ -363,15 +372,15 @@ msgid ""
 "I fear we must wipe out all of the Wesnothian troops on this isle, or they "
 "will follow us and attack our ship. Onward!"
 msgstr ""
-"Jag fruktar att vi måste slå ut alla wesnothtrupper här på ön. Annars kommer "
-"de bara att följa efter oss och anfalla vårt skepp. Framåt!"
+"Tem que haurem d'eliminar tots les tropes wesnothianes a l'illa, o ens "
+"perseguiran i atacaran el nostre vaixell. Endavant!"
 
 #. [scenario]: id=sea_voyage_14
 #. [label]
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:748
 msgid "Blackmore the Black"
-msgstr "Blackmore den Svarte"
+msgstr "Blackmore la negra"
 
 #. [unit]: type=Lich, id=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:98
@@ -395,13 +404,13 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:139
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:281
 msgid "Defeat enemy leaders"
-msgstr "Besegra fiendeledarna"
+msgstr "Derrota els líders enemics"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:173
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:297
 msgid "Death of Ah-Reblak"
-msgstr "Ah-Reblak dör"
+msgstr "Mort d'Ah-Reblak"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:187
@@ -409,8 +418,8 @@ msgid ""
 "Black, why have you brought us here?!? This is just a remnant of a town, and "
 "there are no warriors here, just undead and orcs!"
 msgstr ""
-"Black, varför tog du oss hit? Det här är ju bara de raserade resterna av en "
-"stad, och det finns inga krigare här - bara vandöda och orcher!"
+"Negre, per què ens has dut ací?!? Només veig les ruïnes d'una ciutat, i no "
+"hi ha cap guerrer ací, només orcs i no morts!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:191
@@ -419,9 +428,9 @@ msgid ""
 "Black, and for the past seventy years it has been the home of the Wesfolk "
 "who remained on this island."
 msgstr ""
-"Nej, nej, du har fel. Det här är ingen ruinstad. Det här är Blackmore den "
-"Svarte, och de senaste sjuttio åren har det varit hemmet för de av "
-"wesfolkets som stannade kvar på ön."
+"No, no, estàs equivocat. Açò no és cap ciutat en ruïnes, aquesta és "
+"Blackmore la negra, i des de fa setanta anys ha sigut la casa dels wesfolk "
+"que van romandre en aquesta illa."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:195
@@ -429,8 +438,8 @@ msgid ""
 "You mean those undead over there are 'Wesfolk'? As in the Wesfolk who came "
 "over with Lady Jessica?"
 msgstr ""
-"Menar du att de vandöda där borta är 'wesfolk'? Som i det wesfolk som kom "
-"hit med Lady Jessica?"
+"Vols dir que aquestos no morts d'ací són 'wesfolk'? Els mateixos wesfolk que "
+"van arribar amb Na Jessica?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:199
@@ -438,13 +447,13 @@ msgid ""
 "I would assume that is what he means, yes. So, Black, you've brought us here "
 "to have these Wesfolk help us?"
 msgstr ""
-"Jag antar att det är det han menar, ja. Så, Black, förde du oss hit för att "
-"dessa wesfolk skulle hjälpa oss?"
+"Supose que això és el que vol dir, sí. Per tant, Negre, ens has tret ací per "
+"rebre l'ajuda d'aquestos wesfolk?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:203
 msgid "Well, yes, something like that."
-msgstr "Hm, ja, någonting ditåt."
+msgstr "Hum, bé, sí, això mateix."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:207
@@ -452,13 +461,13 @@ msgid ""
 "I see, brother, that you have returned with warriors. Are they to help us "
 "defeat these orcs?"
 msgstr ""
-"Jag ser att du har återvänt med krigare. Skall de hjälpa oss att besegra "
-"orcherna?"
+"Veig que has tornat amb guerrers, germà. Estan preparats per derrotar "
+"aquestos orcs?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:211
 msgid "What? That's not why we're here!"
-msgstr "Vad? Det är inte därför vi är här!"
+msgstr "Cóm? No estem ací per això!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:215
@@ -466,12 +475,13 @@ msgid ""
 "Well, yes it is. You have to help them secure this city before they will "
 "help you."
 msgstr ""
-"Jo, det är det. Ni måste hjälpa dem att säkra staden innan de hjälper er."
+"Bé, sí que esteu. Els haveu d'ajudar a assegurar aquesta ciutat abans que "
+"vos ajuden."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:219
 msgid "Help them? Help Islefolk? Why would we do that?"
-msgstr "Hjälpa dem? Hjälpa öfolk? Varför skulle vi göra det?"
+msgstr "Ajudar-los? Ajudar .......? Per què ho hauríem de fer?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:223
@@ -479,8 +489,8 @@ msgid ""
 "These are not Islefolk, brother, they are descendants of the Wesfolk who "
 "came over with Lady Jessica."
 msgstr ""
-"Detta är inte öfolk. Detta är ättlingarna till de av wesfolket som kom hit "
-"med Lady Jessica."
+"No són illencs, germà, són els descendents d'aquells wesfolk que van arribar "
+"amb Na Jessica."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:227
@@ -488,8 +498,8 @@ msgid ""
 "What!? Followers of that deserter!? I can't believe you think we would help "
 "them!"
 msgstr ""
-"Vad?! Anhängare till den där desertören?! Jag begriper inte hur du kan tro "
-"att vi hjälper dem!"
+"Cóm?! Són els seguidors d'aquella desertora?!? No em puc creure que hages "
+"pensat que els ajudaríem!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:231
@@ -497,8 +507,8 @@ msgid ""
 "I didn't have a choice, they needed help, so I made a deal that we would "
 "help them if they helped us."
 msgstr ""
-"Jag hade inget val. De behövde hjälp själva, så jag träffade ett avtal med "
-"dem, om att vi skulle hjälpa dem om de hjälpte oss först."
+"No tenia cap altra alternativa, necessitaven ajuda i vaig fer un tracte amb "
+"ells, si els ajudaven, nosaltres els ajudaríem."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:235
@@ -506,8 +516,8 @@ msgid ""
 "Trust me, we don't like helping undead any more than you like helping us "
 "'deserters'."
 msgstr ""
-"Lita på mig, vi tycker inte om att hjälpa vandöda än ni tycker om att hjälpa "
-"oss 'desertörer'."
+"Creu-me, no ens agrada ajudar als no morts més que a tu ajudar-nos a "
+"nosaltres, 'desertors'."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:239
@@ -515,13 +525,14 @@ msgid ""
 "Fine. I'll help you do whatever it is you want to do, once we clear this "
 "land of the orcs."
 msgstr ""
-"Då så. Jag hjälper er med vad det nu är så snart vi rensat ut orcherna ur "
-"det här landet."
+"Val. Faré tot el que puga per ajudar-vos una vegada netegem aquesta illa de "
+"l'escòria orca."
 
 #. [message]: speaker=Ahtanuk
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:243
 msgid "Int'resting council! But now, little men, its time to die. Get'm!"
-msgstr "Intressant råd! Men nu, små män, är det dags att dö. På dem!"
+msgstr ""
+"In-prezionant consell! Però ara, escarabats, anem a esclafar-vos. A per ells!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:270
@@ -529,7 +540,8 @@ msgid ""
 "Well, we've cleared the orcs away. Come on, now you have to hold up your end "
 "of the bargain."
 msgstr ""
-"Så, då är orcherna borta. Sätt fart, nu är det er tur att uppfylla avtalet."
+"Bé, ja hem eliminat els orcs. Vinga, ara vos toca a vosaltres mantenir la "
+"vostra part del tracte."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:274
@@ -538,8 +550,8 @@ msgid ""
 "end up dying here, no matter what you do. We have held up extraordinarily "
 "long already."
 msgstr ""
-"Nå, orcherna kommer säkert tillbaka snart... Jag tror att vi kommer ända "
-"våra dagar här, oavsett vad ni gör. Vi har lyckats stå emot väldigt länge."
+"Bé, els orcs tornaran prompte... Crec que acabarem morint ací, no importa el "
+"que fem. Ja duem resistint massa temps..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:278
@@ -548,9 +560,9 @@ msgid ""
 "off of this island. The one I went out on was our last, and we can't make "
 "more."
 msgstr ""
-"Det är sant. Jag tror att det bästa är att försöka få tag på nog med skepp "
-"för att ta oss härifrån. Den jag for iväg med var vår sista, och jag tror "
-"inte att vi kan bygga fler."
+"És veritat. Pense que seria millor agarrar unes quantes naus i anar-nos "
+"d'aquesta illa. Jo em vaig anar en l'última que ens quedava, i ja no sabem "
+"fer-ne més."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:282
@@ -558,25 +570,28 @@ msgid ""
 "Well, I am a shipbuilder. I could help you build more ships, and then you "
 "could bring all of your people back east with us."
 msgstr ""
-"Nåväl, jag är skeppsbyggare. Jag kunde hjälpa dig att bygga fler skepp, och "
-"sedan kan du och dina mannar följa med oss österut."
+"Bé, jo sóc un armador i sé cóm construir vaixells. Podria ajudar-vos i, "
+"aleshores, vosaltres podríeu dur tota la vostra gent cap a l'est amb "
+"nosaltres."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:286
 msgid "That sounds good."
-msgstr "Det låter bra."
+msgstr "M'agrada cóm sona."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:290
 msgid "Then it is agreed. But after that, you have to help us fight the orcs!"
-msgstr "Överenskommet. Men efter det måste du hjälpa oss mot orcherna!"
+msgstr ""
+"Val, ja estem tots d'acord. Però després d'això, ens haureu d'ajudar a "
+"combatre els orcs!"
 
 #. [scenario]: id=sea_voyage_10
 #. [label]
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:676
 msgid "A King's Demand"
-msgstr "Kungens krav"
+msgstr "Una demanda del Rei"
 
 #. [unit]: type=Lieutenant, id=Handran
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:77
@@ -595,8 +610,8 @@ msgid ""
 "It is the traitor who killed Aldran and Thendol approaching! Prepare to "
 "destroy him."
 msgstr ""
-"Det är förrädaren som mördade Aldran och Thendol som närmar sig! Bered er på "
-"att förgöra honom!"
+"És el traïdor que va matar Aldran and Thendol quan s'acostava! Prepareu-vos "
+"per matar-lo."
 
 #. [message]: speaker=Narian
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:144
@@ -606,10 +621,10 @@ msgid ""
 "Elensefar. But you must pledge allegiance to the Throne again, and agree to "
 "aid it in its battles."
 msgstr ""
-"Meneldur! Jag har ett bud med mig från kungen! Om du överlämnar dig nu så "
-"kommer ditt liv att skonas. Kungen är till och med villig att hjälpa dig att "
-"återta Elensefar. Men du måste svära trohet till kronan igen och gå med på "
-"att hjälpa till i dess strider."
+"Meneldur! Porte un missatge del Rei! Si et rendeixes ara, se't perdonarà la "
+"vida. El Rei està disposat, fins i tot, a ajudar-te en la teua missió de "
+"recuperar Elensefar. Però has de jurar lleialtat al tro de nou, i prometre "
+"que sempre l'ajudaràs en les seues batalles."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:148
@@ -617,16 +632,16 @@ msgid ""
 "Hah! And what will you do with me and my kind, who have joined with Meneldur "
 "and are bound to him? Doubtlessly you would kill us."
 msgstr ""
-"Ha! Och vad kommer ni att göra med mig och mitt släkte, vi som är svurna "
-"till Meneldur? Ni kommer utan tvivel att döda oss."
+"Hah! I què fareu amb mi i la meua gent que ens hem unit a Meneldur i estem "
+"lligats a ell? Sense cap dubte, ens matareu a tots."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:152
 msgid ""
 "He is right. We can defeat these forces, and rid this area of their lordship."
 msgstr ""
-"Han har rätt. Vi kan besegra de här trupperna och frigöra området från deras "
-"kontroll."
+"Té raó. Podem derrotar aquestes forces i alliberar aquesta àrea del seu "
+"domini."
 
 #. [message]: speaker=Handran
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:156
@@ -635,14 +650,15 @@ msgid ""
 "further up the isle... I tell you, if you refuse this you are a dead man, "
 "whether I die or not."
 msgstr ""
-"Ert skepp har blivit kapat. Du har ingen aning vad som väntar på dig längre "
-"in på ön... Hör mina ord, om du vägrar så är du en död man, oberoende om jag "
-"lever eller inte."
+"Altres forces nostres han capturat el vostre vaixell i no teniu cap idea del "
+"que vos aguaita en la resta de l'illa... Puc assegurar-te que si rebutges "
+"aquesta proposta, eres home mort, tant si jo mor com no."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:160
 msgid "Your threats do not scare me. Prepare for battle, men!"
-msgstr "Dina hot skrämmer mig inte! Förbered för strid, mannar!"
+msgstr ""
+"Les teues amenaces no m'espanten. Prepareu-vos per a la batalla, companyers!"
 
 #. [message]: speaker=Narian
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:164
@@ -650,13 +666,13 @@ msgid ""
 "Very well, you have chosen. Handran, send a scout to the leader and tell her "
 "Meneldur has refused our offer. She will be most displeased."
 msgstr ""
-"Nåväl, du har gjort ditt val. Handran, skicka bud till ledaren att Meneldur "
-"har avfärdat vårt förslag. Hon kommer att bli mycket missnöjd."
+"Molt bé, tu ho has volgut. Handran, envia un explorador al líder i dis-li "
+"que Meneldur ha rebutjat la nostra oferta. Ella estarà molt poc satisfeta."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:176
 msgid "I wonder what that was all about..."
-msgstr "Jag undrar vad det där handlade om..."
+msgstr "Em pregunte què ha sigut tot això..."
 
 #. [unit]: type=Swordsman, id=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:195
@@ -670,10 +686,9 @@ msgid ""
 "killed. If you leave us now, we will probably die, since only they knew how "
 "to command our ship. Have mercy, and help us!"
 msgstr ""
-"Meneldur! Det verkar som att våra kommendörer och bästa soldater har blivit "
-"dödade. Om du lämnar oss nu så kommer vi med största sannolikhet att gå "
-"under. De var de enda som visste hur man styrde vårt skepp. Snälla, hjälp "
-"oss!"
+"Meneldur! Pareix que els nostres comandants i millors lluitadors han mort. "
+"Si ens abandones, segurament morirem, ja que ells eren qui sabien comandar "
+"la nau. Tin pietat, i ajuda'ns!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:226
@@ -681,21 +696,21 @@ msgid ""
 "What would you have me do? Give you navigators to help you? Why would I do "
 "that for an enemy?"
 msgstr ""
-"Vad vill du att jag skall göra? Ge dig navigatörer att hjälpa till? Varför "
-"skulle jag hjälpa en fiende med det?"
+"Què voleu que faja per vosaltres? Donar-vos mariners per ajudar-vos? Per què "
+"hauria de fer això per un enemic?"
 
 #. [message]: speaker=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:230
 msgid ""
 "Well, why don't you let us join you? There is nothing else for us to do."
 msgstr ""
-"Nå, varför låter du inte oss förena oss med er? Vi kan inte göra så mycket "
-"annat."
+"Bé, per què no ens deixes unir-nos a tu? No hi ha cap altra cosa que puguem "
+"fer."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:234
 msgid "Wouldn't that make you a traitor?"
-msgstr "Skulle inte det göra dig till en förrädare?"
+msgstr "No vos convertiria això en traïdors?"
 
 #. [message]: speaker=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:238
@@ -703,8 +718,8 @@ msgid ""
 "No, since I don't think you are traitors, and my commander is dead. It is "
 "just joining another battalion."
 msgstr ""
-"Nej, för jag tror inte att ni är förrädare, och min befälhavare är död! Vi "
-"bara förenar oss med en annan bataljon."
+"No, perquè no crec que sigueu traïdors, i el meu comandant és mort. No és "
+"altra cosa que unir-me a un nou batalló."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:242
@@ -712,22 +727,22 @@ msgid ""
 "Well, if he puts it that way, why should we refuse? We can always use fresh "
 "recruits."
 msgstr ""
-"Nå, om det är på det viset så ser jag inte varför vi skulle vägra. Vi "
-"behöver alltid nya rekryter."
+"Bé, ben mirat, per què hauríem de negar-ho? Sempre podem usar nous reclutes."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:246
 msgid ""
 "Very well... now, we will move further down the peninsula to regain our ship."
 msgstr ""
-"Då säger vi det... Nu tar vi oss ner längs halvön och återtar vårt skepp."
+"Molt bé... ara, seguirem el nostre camí per la península per recuperar la "
+"nostra nau."
 
 #. [scenario]: id=sea_voyage_7
 #. [label]
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:622
 msgid "A Deadly Alliance"
-msgstr "En dödlig allians"
+msgstr "Una aliança mortal"
 
 #. [unit]: type=Elvish Marshal, id=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:87
@@ -745,8 +760,8 @@ msgid ""
 "Alandur! I suppose you want to battle? Very well, but there are orcs here "
 "also. How about we kill them first, then battle?"
 msgstr ""
-"Alandur! Jag antar att du vill strida? Inga problem, men det är orcher här "
-"också. Vad säger du om att vi dödar dem först, och slåss sedan?"
+"Alandur! Supose que vols combatre'm? Bé, però també n'hi han orcs ací. Què "
+"et pareix matar-los primer i combatre després?"
 
 #. [message]: speaker=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:154
@@ -755,17 +770,16 @@ msgid ""
 "destroyed it, we would. But, those on the mainland have proved extremely "
 "resistant to attacks."
 msgstr ""
-"Nå, om orcherna inte hade ockuperat Elensefar när de tog det utan raserat "
-"det istället, så hade vi kunnat göra så. Men de på fastlandet har visat sig "
-"extremt motståndskraftiga mot attacker."
+"Bé, si els orcs no hagueren ocupat Elensefar quan la van prendre, sinó "
+"l'hagueren destrossat, ho faríem. Però aquells orcs al continent han "
+"demostrat ser molt resistents als atacs."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:158
 msgid ""
 "Why does that matter? All that's important is that they're going to kill "
 "you, too!"
-msgstr ""
-"Vad spelar det för roll? Det som är viktigt är att dom kommer att döda dig!"
+msgstr "I què més dona? Només cal pensar que també et mataran a tu!"
 
 #. [message]: speaker=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:162
@@ -774,14 +788,14 @@ msgid ""
 "bad form to attack the relatives of those who you are trying to make a "
 "bargain with!"
 msgstr ""
-"Nej, vi håller för närvarande på att förhandla fram en fred med orcherna. "
-"Det skulle vara dålig stil att anfalla deras släktingarna samtidigt som vi "
-"förhandlar med dem!"
+"No, ara mateix estem finalitzant de redactar un tractat de pau amb els orcs. "
+"I no seria diplomàtic atacar els parents d'aquells amb els quals estàs "
+"intentant negociar!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:166
 msgid "But these orcs are probably from a completely different tribe!"
-msgstr "Men de orcherna är förmodligen från en helt annan klan!"
+msgstr "Però si aquestos orcs seran d'un altra tribu! Segur!"
 
 #. [message]: speaker=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:170
@@ -789,8 +803,8 @@ msgid ""
 "We can't take that chance! These orcs claim to be allies with the ones in "
 "Elensefar, so we MUST ally with them."
 msgstr ""
-"Vi kan inte ta den chansen! De här orcherna påstår att de är allierade med "
-"de i Elensefar, så vi MÅSTE alliera oss med dem."
+"No podem arriscar-nos! Aquestos orcs asseguren ser aliats dels que estan a "
+"Elensefar, per tant, HEM d'aliar-nos amb ells."
 
 #. [message]: speaker=Kra-Drano
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:174
@@ -798,7 +812,8 @@ msgid ""
 "Uh, yeah, of course... we be da same tribe... uh... Prepare to die, stupid "
 "dog-man!"
 msgstr ""
-"Uh, ja, såklart... Vi är samma klan... Uh... Bered dig att dö, dumma hundman!"
+"Eh, um, sí, això mateix... ser de la misma tribu... uh... Prepareu-vos per "
+"morir, gossos!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:186
@@ -807,9 +822,9 @@ msgid ""
 "on our own against them. And these elves, since we are their enemies anyway, "
 "must die."
 msgstr ""
-"Så alverna har också slutat försöka stoppa orcherna... Det verkar som att vi "
-"står ensamma mot orcherna. Och eftersom vi ju är deras fiender också, så "
-"måste alverna dö."
+"Així que els elfs també han desistit d'aturar els orcs... pareix que estem a "
+"soles contra ells. I ja ficats, els elfs, ja que també som els seus enemics, "
+"també han de morir."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:193
@@ -817,8 +832,8 @@ msgid ""
 "The elves are willing to surrender Elensefar to orcs, just because they "
 "began to lose a few battles? We really need to get back there, soon."
 msgstr ""
-"Är alverna villiga att låta Elensefar övergå i orchernas klor bara för att "
-"de började förlora några strider? Vi måste verkligen ta oss dit snart."
+"Els elfs estan disposats a rendir Elensefar als orcs només perquè han perdut "
+"unes poques batalles? Hem de tornar enseguida allí."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:200
@@ -826,8 +841,8 @@ msgid ""
 "If we can just get to the western isle I spoke of, we may be able to defeat "
 "this alliance."
 msgstr ""
-"Om vi kan återerövra den västra ön som jag talade om, så har vi en chans att "
-"besegra den där alliansen."
+"Només si poguérem arribar a l'illa occidental que vos vaig dir, seriem "
+"capaços de derrotar aquesta aliança."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:216
@@ -836,21 +851,21 @@ msgid ""
 "sea. We probably won't see them until we reach Elensefar... we will have "
 "many enemies when we get there."
 msgstr ""
-"I och med Alandurs död så tror jag att vi besegrat alvernas sjöstyrkor. Vi "
-"stöter nog inte på dem förrän vi kommer till Elensefar... Vi kommer att ha "
-"många fiender när vi kommer dit."
+"Amb la mort d'Alandur, crec que ja hem derrotat tots els elfs que naveguen. "
+"Ja no els tornarem a vore fins que arribem a Elensefar... tindrem molts "
+"enemics quan arribem allí."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:223
 msgid "Well, we won, but things might go badly for us later..."
-msgstr "Nå, vi vann, men det kan gå dåligt för oss senare..."
+msgstr "Bé, hem guanyat, però potser les coses no ens vagen bé després..."
 
 #. [scenario]: id=sea_voyage_6
 #. [label]
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:618
 msgid "Traitors"
-msgstr "Förrädare"
+msgstr "Traïdors"
 
 #. [unit]: type=Elvish Marshal, id=Kalandur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:70
@@ -863,13 +878,13 @@ msgid ""
 "What? So, if it isn't my old friend Kalandur... are there any more "
 "Wesnothians on this island, or have they given up trying to stop us?"
 msgstr ""
-"Vad? Se där, om det inte är min gamla vän Kalandur... Är det några fler "
-"wesnother på ön eller har de gett upp sina försök att stoppa oss?"
+"Què? Però si no és cap altre que el meu vell amic Kalandur... hi ha més "
+"wesnothians en aquesta illa o ja han abandonat la nostra cerca?"
 
 #. [message]: speaker=Kalandur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:129
 msgid "There are none here, but trust me, they remain against you."
-msgstr "Det är inga här, men lita på mig, de har inte gett upp ännu."
+msgstr "No hi ha cap, però fia't de mi, no s'han oblidat encara."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:133
@@ -877,28 +892,26 @@ msgid ""
 "So say you. Well, Black, we'd better go. Its best not to kill more elves; "
 "even if we defeat them, it will just make the rest even angrier at us."
 msgstr ""
-"Så det säger du. Nå, Black, det är bäst vi går. Vi borde inte döda några "
-"fler alver nu; även om vi besegrar dem så kommer de andra bara att bli ännu "
-"argare på oss."
+"Això és el que tu dius. Bé, Negre, es millor que ens anem. És una bona idea "
+"no matar més elfs; encara que els derrotarem, només aconseguiríem que la "
+"resta ens odiara encara més."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:140
 msgid ""
 "What? So, if it isn't my old friend Kalandur. (we'd better get out of here, "
 "Madru...)"
-msgstr ""
-"Vad? Se där, om det inte är min gamla vän Kalandur... (Vi borde ta oss "
-"härifrån, Madru...)"
+msgstr "Què? Vaja, si és el meu vell amic Kalandur. (anem-nos d'ací, Madru...)"
 
 #. [message]: speaker=Kalandur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:144
 msgid "So we meet again, traitor elf! Prepare to die!"
-msgstr "Vi möts igen, förrädare! Bered dig att dö!"
+msgstr "Ens tornem a trobar, elf traïdor! Prepara't per morir!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:148
 msgid "Whats going on here?"
-msgstr "Vad händer här?"
+msgstr "Què passa ací?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:152
@@ -906,8 +919,8 @@ msgid ""
 "Kalandur here thinks I betrayed Elfkind by aiding Elensefar. He's going to "
 "fight us. We have to leave."
 msgstr ""
-"Kalandur här tror att jag förrådde alvfolket när jag bistod Elensefar. Han "
-"kommer att anfalla oss! Vi måste åka!"
+"Aquest Kalandur es pensa que vaig trair la raça elfa ajudant Elensefar. Vol "
+"combatre amb nosaltres, deuríem anar-nos."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:159
@@ -915,8 +928,7 @@ msgid ""
 "Look, if we leave now, they'll just follow us and kill us. We have to defeat "
 "them!"
 msgstr ""
-"Alltså, om vi åker nu så kommer de bara att följa efter oss och döda oss. Vi "
-"måste nedgöra dem!"
+"Mireu, si ens anem ara, ens seguiran i ens mataran. Hem de derrotar-los!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:163
@@ -924,8 +936,8 @@ msgid ""
 "If we leave, he will probably not follow us. He will report to his superiors "
 "- wherever they are."
 msgstr ""
-"Om vi åker så kommer han nog inte att följa efter oss. Han kommer att "
-"rapportera till sina chefer, var nu de finns."
+"Si ens anem, segurament no ens seguirà. Informarà els seus superiors - "
+"siguen on siguen."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:167
@@ -933,13 +945,13 @@ msgid ""
 "And won't those superiors send out even more ships? If we let Kalandur get "
 "away, they will know where we are and where we are coming from."
 msgstr ""
-"Kommer de inte att skicka ut ännu fler skepp? Om vi låter Kalandur komma "
-"undan så vet de var vi är och var vi kommer ifrån."
+"I aquestos superiors no manaran encara més vaixells? Si deixem Kalandur de "
+"banda, sabran on estem i d'on venim."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:171
 msgid "Very well. Onward!"
-msgstr "Nåväl. Framåt!"
+msgstr "Molt bé. Endavant!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:185
@@ -948,8 +960,9 @@ msgid ""
 "only following the commands of their twisted leader. Perhaps if we spare "
 "them their lives, they will join us after we defeat them."
 msgstr ""
-"Se där, vi dräpte en alv! Jag tycker inte om det här - de är inte onda, de "
-"följer bara sin vridna ledares order. Kanske går de med oss om vi skonar dem."
+"Vaja, hem hagut de matar un elf! Nom m'agrada açò... ells no són malvats, "
+"només segueixen les ordres del seu retort líder. Tal vegada si els "
+"perdonàrem ses vides, s'unirien a nosaltres després que els derrotàrem."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:194
@@ -957,13 +970,13 @@ msgid ""
 "Look - there is a bridge here that Kalandur was guarding. I guess we should "
 "go across, but I don't have any idea what is there."
 msgstr ""
-"Titta, Kalandur vaktade en bro. Jag antar att vi borde gå över, men jag har "
-"ingen aning om vad som finns på andra sidan."
+"Mireu - Kanaldur estava guardant un pont que ací n'hi ha. Crec que deuríem "
+"travessar-lo, però no sé que pot haver-ho a l'altre costat."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:198
 msgid "Nor do I. Probably more enemies."
-msgstr "Inte jag heller, men troligtvis mer fiender."
+msgstr "Jo tampoc. Segurament més enemics."
 
 #. [unit]: type=Elvish Hero, id=Danrer
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:213
@@ -976,13 +989,13 @@ msgid ""
 "Wait! I know what's across that bridge - its more elves, who will want to "
 "kill you, and orcs."
 msgstr ""
-"Vänta! Jag vet vad som finns på andra sidan bron! Det är fler alver, som "
-"vill döda er, och orcher."
+"Espereu! Jo sé que hi ha a l'altre costat del pont - més elfs, que volen "
+"matar-vos, i orcs."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:244
 msgid "Well then, we will have a common foe with these elves!"
-msgstr "Bra, då har vi och alverna en gemensam fiende!"
+msgstr "Molt bé, aleshores tindrem un enemic en comú amb els lefs!"
 
 #. [message]: speaker=Danrer
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:248
@@ -991,22 +1004,21 @@ msgid ""
 "will join you. We can't go back to the elves now, because since we did not "
 "die they will think we are deserters."
 msgstr ""
-"Jo... På ett sätt... Men i vilket fall som helst så tror jag att de av oss "
-"alver som fortfarande är vid liv kommer att gå över till dig. Vi kan inte "
-"återvända till alverna nu, för de kommer att tro att vi har deserterat, "
-"eftersom vi inte dog."
+"Um... Potser sí... de tota manera, crec que els elfs que hem sobreviscut ens "
+"unirem a tu. No podem tornar amb els elfs perquè pensaran que som desertors, "
+"ja que no hem mort en batalla."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:252
 msgid "Then join us, if you wish to. We are always open to more fighters."
-msgstr "Gå med oss då, om ni vill. Vi välkommnar alltid fler krigare."
+msgstr "Uniu-vos, doncs. Sempre estem oberts a rebre nous lluitadors."
 
 #. [scenario]: id=sea_voyage_13
 #. [label]
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:730
 msgid "The Ruined Port"
-msgstr "Den förstörda hamnen"
+msgstr "Port en ruïnes"
 
 #. [unit]: type=Orcish Warlord, id=Bakrakha
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:121
@@ -1029,12 +1041,12 @@ msgstr ""
 msgid ""
 "Defeat Bakrakha, the Southern Warlord, and then survive until end of turns"
 msgstr ""
-"Besegra Bakrakha, orchernas krigsherre, och håll ut tills dragen tar slut"
+"Derrota Bakraha, senyor de la guerra orc, i sobreviu fins a la fi dels torns."
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:189
 msgid "Turns run out and Bakrakha is still alive"
-msgstr "Dragen tar slut och Bakrakha är i livet"
+msgstr "S'acaben els torns i Bakrakha encara està viu"
 
 #. [message]: speaker=Bakrakha
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:202
@@ -1044,8 +1056,8 @@ msgid ""
 "north to help with your trying to take over the castle!?! Not going to "
 "happen on my watch!"
 msgstr ""
-"Så, era små orchmaskar, ni föll så lågt att ni försökte locka ner lite "
-"wesfolk från norr att hjälpa er att ta slottet?! Inte på min vakt, minsann!"
+"Bé, miserables orcs-porcs, haveu caigut tant baix com per cridar wesfolk des "
+"del nord per ajudar-vos a capturar el castell?!?!? Abans moriré!"
 
 #. [message]: speaker=Sakdur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:206
@@ -1055,10 +1067,10 @@ msgid ""
 "help! You been chieftain far too long, Bakrakra! You aint got us meat, and "
 "you aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
 msgstr ""
-"Vi hämtade inte alls något människoavskum från norr, även om vi hade kunnat "
-"behöva deras hjälp! Du har varit kung alldeles för länge, Bakrakra! Du har "
-"inte skaffat kött åt oss och inte heller land. Jag, Asknak här, eller till "
-"och med en häxmästare skulle vara bättre än du!"
+"No hem cridat cap escòria humana des del nord, encara que sí podríem usar la "
+"seua ajuda! Ja duus massa temps de rei, Bakrakra! No ens dones carn i tampoc "
+"ens has donat terres. Jo mateix, Asknak, o fins i tot un lich seria millor "
+"que tu!"
 
 #. [message]: speaker=Asknak
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:210
@@ -1066,8 +1078,8 @@ msgid ""
 "That right. You' keeping all the food in your castle there, and we' tired of "
 "it. Its time to get a new king 'round 'ere!"
 msgstr ""
-"Så är det! Du behåller all mat i ditt slott och vi är trötta på det. Det är "
-"dags att sätta en ny kung på tronen!"
+"Sí! Tens tot el menjar dins del teu castell allí, i ja n'estem farts. És "
+"hora de matar-te i provar 'en' un nou rei per aquí!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:214
@@ -1076,8 +1088,8 @@ msgid ""
 "I don't think we should get involved here. These clans can fight each other, "
 "and they won't care if we wait here and restock."
 msgstr ""
-"Jag tror inte att vi borde lägga oss i den här striden. Om vi låter orcherna "
-"slåss med varandra, så stör de oss inte när vi ligger här och provianterar."
+"Crec que no deuríem clavar-nos ací al mig. Els orcs estaran pegant-se entre "
+"ells, i no crec que els importe massa si parem ací i ens aprovisionem."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:218
@@ -1086,13 +1098,13 @@ msgid ""
 "I don't think it's that simple. That guy in the castle has all the food, we "
 "can't restock from here."
 msgstr ""
-"Jag tror inte att det är riktigt så enkelt. Orchen i slottet har all mat, vi "
-"kan inte proviantera här."
+"No crec que siga tan senzill. Aquell orc té tot el menjar dins d'aquell "
+"castell, no podem aprovisionar-nos des d'ací."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:222
 msgid "So what do you suggest we do?"
-msgstr "Så vad föreslår du att vi skall göra?"
+msgstr "Per tant, que suggereixes?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:226
@@ -1102,27 +1114,27 @@ msgid ""
 "the food. But to get to him, we should probably go around the river, which "
 "leads us past all the other clansmen. We might have to kill them all."
 msgstr ""
-"Tja, vi måste döda orchen i slottet, för att få tag på maten. Men för att "
-"komma åt honom så borde vi gå runt floden, vilket leder oss förbi de andra "
-"orcherna. Vi måste kanske döda dem allihop."
+"Bé, està clar que haurem de matar aquell orc dins del castell per aconseguir "
+"el menjar. Però per arribar a ell, segurament caldrà que rodegem el riu, que "
+"ens durà pel mig de tots els orcs. Potser els tinguem que matar tots."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:264
 msgid "Good, now we just have to survive until the ship is refilled."
-msgstr "Bra. Nu måste vi bara hålla ut tills skeppet förråd är fyllda."
+msgstr "Bé, ara només hem de sobreviure fins que el vaixell siga aprovisionat."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:275
 
 msgid "We have defeated all of the clansmen; refill the ship, and we'll leave."
-msgstr "Vi har besegrat orcherna. Lasta skeppet, så åker vi."
+msgstr "Hem derrotat tots els orcs, aprovisioneu el vaixell i marxarem."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:295
 
 msgid ""
 "We did not manage to kill the enemy leader, and now we are out of food..."
-msgstr "Vi lyckades inte döda orchledaren och nu har vi slut på mat..."
+msgstr "No hem pogut matar el líder orc, i ara estem sense menjar..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:302
@@ -1130,13 +1142,13 @@ msgid ""
 "Good, we have enough food now. We should go back out to sea, further north "
 "there are some people who might help us."
 msgstr ""
-"Bra, vi har tillräckligt med mat nu. Vi borde ta oss tillbaka ut till havs. "
-"Längre norrut finns några som kanske vill hjälpa oss."
+"Bé, ja tenim prou menjar. Deuríem tornar al mar i marxar més cap al nord, "
+"allí hi haurà gent que ens podrà ajudar."
 
 #. [scenario]: id=sea_voyage_fake1
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:3
 msgid "Attacked at Sea"
-msgstr "Under attack till havs"
+msgstr "Confrontació marina"
 
 #. [part]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:19
@@ -1147,11 +1159,12 @@ msgid ""
 "instead, they were leaving it alone, and concentrating on the Lord's castle. "
 "It was almost as if they wanted to control the city, instead of destroy it."
 msgstr ""
-"Staden hade fallit, men Meneldur och hans besättning hade flytt. När de "
-"lämnade hamnen och såg tillbaka på staden så märkte de något konstigt. "
-"Orcherna brände och plundrade inte staden, såsom var brukligt. Istället lät "
-"de den vara ifred och koncentrerade sig på furstens slott. Det var nästan "
-"som om de ville ta över staden stället för att förstöra den."
+"La ciutat havia caigut, però Meneldur i la seua tripulació havien aconseguit "
+"fugir a temps. Tanmateix, quan van mirar la ciutat mentre eixien del port, "
+"van adonar-se que els orcs no estaven cremant i saquejant la ciutat, com era "
+"el seu hàbit; per contra, semblava que estaven concentrant-se en prendre el "
+"castell del Senyor, com si volgueren assumir la direcció de la ciutat, i no "
+"destruir-la casa per casa."
 
 #. [part]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:23
@@ -1162,11 +1175,12 @@ msgid ""
 "there, vowed that, if they could, they would raise an army and return to "
 "Elensefar, to defeat the orcs and claim whatever of the city remained."
 msgstr ""
-"Meneldur var inte säker på vad det här skulle betyda, men han visste en sak: "
-"om staden skonades så skulle folket i staden finnas kvar. Och det betydde "
-"att staden skulle vara värd att rädda. Han och Madru svor att de skulle "
-"samla ihop en armé och återvända till Elensefar för att besegra orcherna och "
-"återta vad som än fanns kvar av staden."
+"Meneldur no sabia ben bé que volia dir això, però comprenia una cosa: si la "
+"ciutat no era destruïda, aleshores tots els seus habitants tampoc ho serien. "
+"Per tant, valia la pena intentar alliberar-la dels orcs. Tant ell com Madru, "
+"allí mateix, van jurar que, si podien, reclutarien tot un exèrcit i "
+"tornarien a Elensefar per derrotar els orcs i alliberar tot allò que quedara "
+"sencer."
 
 #. [unit]: type=Caravel
 #. [unit]: type=Caravel, id=Explorer
@@ -1181,33 +1195,33 @@ msgstr "Meneldur"
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:124
 msgid "Stop, pirate! Surrender, or die!"
-msgstr "Stanna, pirat! Ge dig eller dö!"
+msgstr "Alto, pirata! Rendix-te o mor! "
 
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:128
 msgid "Never!"
-msgstr "Aldrig!"
+msgstr "Mai!"
 
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:143
 msgid "Lower the gangplank! Throw the grapples! DON'T LET THEM ESCAPE!"
-msgstr "Kasta över änterhakarna! Ut med landgången! LÅT DEM INTE KOMMA UNDAN!"
+msgstr "Baixeu la rampa! Tireu els garfis! NO ELS DEIXEU ESCAPAR!"
 
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:153
 msgid "What's going on here?"
-msgstr "Vad händer här?"
+msgstr "Ei! Què està passant ací?"
 
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:157
+
 msgid "So, you getting involved too, eh? Stop that ship, men!"
-msgstr ""
-"Så du blandar dig i leken, du också, va? Stoppa det där skeppet, mannar!"
+msgstr "Hum, així que tu també vols gresca? Atureu eixa nau, soldats!"
 
 #. [scenario]: id=sea_voyage_fake3
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:3
 msgid "Epilogue"
-msgstr "Epilog"
+msgstr "Epíleg"
 
 #. [part]
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:19
@@ -1219,12 +1233,11 @@ msgid ""
 "sacked, he had no knowledge of what had occurred in the many months since "
 "then."
 msgstr ""
-"Meneldur, Black Röde och Madru tog sig till det elensiska palatset och "
-"letade igenom fängelsehålorna efter orchernas fångar. De fann många av den "
-"gamla adeln där, och även den man som varit Elensefars regent, furst Darahan "
-"av Wesnoth. Eftersom han blivit tillfångatagen direkt efter att staden hade "
-"plundrats, så visste han inte vad som hade hänt i staden under de "
-"efterföljande månaderna."
+"Meneldur, Negre el Roig i Madru van anar al palau elensià, i van buscar els "
+"presoners capturats pels orcs. Van trobar la majoria de l'antiga noblesa, "
+"incloent-hi l'anterior Senyor d'Elensefar, En Darahan de Wesnoth. Com "
+"l'havien pres immediatament després de la captura de la ciutat, no sabia res "
+"del que havia succeït en tots aquestos mesos."
 
 #. [part]
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:23
@@ -1239,15 +1252,15 @@ msgid ""
 "of Wesnoth who had finally come to unlock his cell door. Needless to say, he "
 "felt betrayed."
 msgstr ""
-"De tre hjältarna berättade sin historia, hur Elensefar inte längre var en "
-"del av Wesnoth och varför vandöda fanns i staden. Furst Darahan hade varit "
-"en tronens lojale undersåte innan han blev tillfångatagen, och under sin tid "
-"i fängelsehålan så hade han hela tiden väntat på att Wesnoth skulle komma "
-"och frita honom. Ända tills han fick höra om Wesnoths förräderi så hade han "
-"trott att det var Wesnoths soldater som hade landstigit från havet för att "
-"anfalla staden; att det var de som hade slagits på gatorna för att nå "
-"orchledaren; att de var de som till slut hade kommit för att låsa upp hans "
-"fängelsedörr. Han kände sig förrådd."
+"Els tres llibertadors li van contar la seua història, cóm Elensefar ja no "
+"era una província de Wesnoth i com els no morts 'viurien' una estoneta en la "
+"ciutat. Sempre havia sigut un lleial seguidor del tro abans del seu "
+"captiveri, i fins que no li van contar la traïció de Wesnoth, havia estat "
+"pensant que eren soldats wesnothians qui havien vingut des del mar per "
+"atacar la ciutat, que eren soldats wesnothians els qui havien lluitat carrer "
+"a carrer per arribar al líder orc, soldats wesnothians els qui havien "
+"arribat a la fi per alliberar-lo de la seua presó. No fa falta dir que es "
+"sentia traït."
 
 #. [unit]: type=Grand Marshal, id=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:81
@@ -1261,9 +1274,9 @@ msgid ""
 "fight to keep men of Elensefar from aiding Elensefar. What made them do it, "
 "do you think?"
 msgstr ""
-"Jag kan fortfarande inte tro att wesnotherna eller alverna skulle slåss för "
-"att hindra elenser från att bistå Elensefar. Vad fick dem att göra det, tror "
-"du?"
+"Encara no em puc fer la idea de que les gents de Wesnoth, o els elfs, "
+"lluitarien contra hòmens elensefarians que només buscaven ajuda per la "
+"ciutat. Què els hem fet per merèixer-nos-ho?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:106
@@ -1271,13 +1284,14 @@ msgid ""
 "Well, hatred of me, and the perception that I was a traitor to my race, was "
 "what fueled the elven attack."
 msgstr ""
-"Tja, deras hat för mig, och uppfattningen att jag var en rasförrädare, fick "
-"alverna att attackera."
+"Bé, van ser l'odi que senten contra mi i la impressió que vaig trair la meua "
+"raça les coses que van impulsar l'atac elf."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:110
 msgid "They were willing to sacrifice a whole city to get revenge on one elf?"
-msgstr "De var villiga att offra en hel stad för att hämnas på en alv?"
+msgstr ""
+"Estaven disposats a sacrificar tota una ciutat per venjar-se d'un sol elf?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:114
@@ -1287,10 +1301,10 @@ msgid ""
 "time they fought us. But before that, they had not attacked because they "
 "thought the Orcs would kill the elven prisoners if they did."
 msgstr ""
-"De tyckte inte att de offrade den. De planerade att anfall orcherna alldeles "
-"efter att de dödat oss. Faktum är att de slogs mot orcherna samtidigt som de "
-"slogs mot oss. Men innan det gjorde de ingenting, eftersom de trodde att "
-"orcherna skulle döda de alver de höll fångna om de gick till anfall."
+"No pensaven que estaven sacrificant-la. Havien planejat atacar els orcs "
+"després de matar-nos, és més, estaven lluitant contra els orcs alhora que "
+"contra nosaltres. Tanmateix, no havien atacat abans perquè pensarien que els "
+"orcs matarien tots els presoners elfs si ho feien."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:118
@@ -1299,9 +1313,9 @@ msgid ""
 "death? Don't they know orcs cannot be trusted? All the elves who lived in "
 "this city were slain long ago."
 msgstr ""
-"Så de gick samman med orcherna för att de fruktade sitt folks död? Vet de "
-"inte att man inte kan lita på orcher? Alla alver som bodde i den här staden "
-"dödades för länge sedan."
+"I van fer un pacte amb els orcs perquè temien per la mort de gent del seu "
+"poble? No saben que els orcs no són de fiar? Tots els elfs que vivien ací ja "
+"fa temps que van ser assassinats."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:122
@@ -1311,21 +1325,20 @@ msgid ""
 "orcish attack on their own country, fear of their kinsmen's death, and "
 "something else, I am not sure what, all made them willing to ally with evil."
 msgstr ""
-"När du håller på att utsättas för en attack så tänker du inte klart. Deras "
-"attack hade blandade motiv, skulle jag tro. Hatet mot Meneldur, rädslan för "
-"en orchattack i deras hemland, fruktan att deras folk skulle dö, och något "
-"annat som jag inte vet vad det är. Allt detta gjorde att de var villiga att "
-"liera sig med ondskan."
+"Quan estàs en perill, no penses amb claredat. El seu atac va ser una "
+"combinació de factors i motius, diria jo. L'odi cap a Meneldur, por d'un "
+"atac orc al seu país i alguna cosa més, no estic segur quina, totes juntes, "
+"van disposar-los a pactar amb el mal."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:126
 msgid "That does not excuse them, though, and they deserved to die."
-msgstr "Det är ingen ursäkt, och de förtjänade att dö."
+msgstr "Això no és cap excusa, però, i mereixien morir."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:130
 msgid "None of us are saying they did not."
-msgstr "Ingen av oss säger att de inte gjorde det."
+msgstr "Cap de nosaltres ha dit el contrari."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:134
@@ -1335,10 +1348,10 @@ msgid ""
 "all, our alliance with undead is not, from our view, evil, but the "
 "circumstances are very similar."
 msgstr ""
-"Det gör jag. Vi kan inte påstå oss veta under vilka förutsättningar deras "
-"allians bildades, eller ens säga om alliansen i sig var ond. När allt kommer "
-"omkring så är ju inte vår allians med de vandöda ond, ur vår synvinkel, men "
-"förutsättningarna är snarlika."
+"Jo ho faria. No coneixem les circumstàncies dels seu tractat de pau, i no "
+"podem dir si aquesta aliança, si realment va ser-ho, haguera sigut malvada. "
+"Després de tot, la nostra aliança amb els no morts, des del nostre punt de "
+"vista, no és roïna, però les circumstàncies són bastant similars."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:138
@@ -1346,8 +1359,8 @@ msgid ""
 "They are only similar if you assume that undead are evil. Some are, true, "
 "but not all. Mine and my brother's are not."
 msgstr ""
-"De är bara snarlika om du förutsätter att vandöda är onda. Vissa är det, "
-"givetvis, men inte alla. De som jag och min bror kommenderar är det inte."
+"Ho són si consideres que tots els no morts són malvats. Alguns ho són, sí, "
+"però no tots. El meu germà i jo no ho som."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:142
@@ -1356,9 +1369,9 @@ msgid ""
 "probably not, probably you are just decieved as to what really occurs with "
 "undeath. But undead are evil."
 msgstr ""
-"Jag må vara din allierade, men jag kommer aldrig att påstå att dina vandöda "
-"inte är onda. Du är det förmodligen inte, du är bara vilseledd om vad som "
-"verkligen händer med vandöda. Men vandöda är onda."
+"Puc ser el vostre aliat, però no mai diré que els no morts són bons. Tal "
+"volta tu no ho sigues, però segurament és perquè no saps què passa en "
+"realitat amb els no morts. Però els no morts són malvats."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:146
@@ -1366,8 +1379,8 @@ msgid ""
 "Come on now. Well, it is true that the circumstances are not in truth "
 "similar, but they do appear to be. The elves may have thought they were."
 msgstr ""
-"Kom igen. Det är sant att omständigheterna inte är helt lika, men i förstone "
-"är de det. Alverna kan ha trott att de var det."
+"Au, vinga, tranquils. Bé, és veritat que les circumstancies no són iguals en "
+"cap sentit, però ho pareixen. Els elfs poden haver pensat que ho eren."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:150
@@ -1376,9 +1389,10 @@ msgid ""
 "us. But why were the humans willing to discard our age-old alliance, and "
 "attack us before the orcs?"
 msgstr ""
-"Jag förstår, Melendur. Nåja, jag kan på något vis förstå hur alverna kunde "
-"välja att anfalla oss. Men varför valde människorna att förkasta vår "
-"uråldriga pakt och anfalla oss före orcherna?"
+"Ho entenc, Meneldur. Bé, no deixa de ser un embolic, però crec que ja "
+"comprenc per què els elfs ens van atacar. Però per què estaven els humans "
+"disposats a deixar de banda el nostre antic tractat i atacar-nos davant "
+"d'els orcs?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:154
@@ -1386,7 +1400,8 @@ msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
 msgstr ""
-"Nå, vi anföll dem faktiskt, flera gånger. Men det var ju i självförsvar."
+"Bé, nosaltres també els vam atacar, i unes quantes vegades. Encara que va "
+"ser en defensa pròpia."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:158
@@ -1395,15 +1410,16 @@ msgid ""
 "humans could have both had that plan. But the elves lost their temper right "
 "as we arrived, and attacked the orcs immediately."
 msgstr ""
-"De ville besegra oss först och sedan anfalla orcherna. Både alverna och "
-"människorna kan faktiskt ha planerat det så. Men alverna tappade tålamodet "
-"när vi kom hit, och anföll orcherna omedelbart."
+"Ells desitjaven derrotar-nos primer i atacar després els orcs. De fet, tant "
+"els elfs com els humans podrien haver tingut el mateix pla, però els elfs "
+"van perdre els nervis quan vam arribar i van atacar als orcs directament."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:162
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
 msgstr ""
-"Det kallas förräderi och är inte en ursäkt för att gå samman med orcherna."
+"Això es sol anomenar traïció, i no es cap excusa que justifique un tractat "
+"amb els orcs."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:166
@@ -1414,11 +1430,12 @@ msgid ""
 "on a permanent alliance with the Orcish state, because that would allow them "
 "to create provinces in the north unopposed."
 msgstr ""
-"Jag håller med om att det skulle vara förräderi, men jag tror inte att de "
-"planerade det. Wesnoths människor ser inte på gott och ont som vi gör. För "
-"dem så är det som gynnar Wesnoth gott och det som skadar Wesnoth är ont. De "
-"kan ha planerat en permanent allians med orcherna, eftersom det skulle ge "
-"dem möjlighet att skaffa sig provinser i norr utan motstånd."
+"Estic d'acord en que és traïció, però estic segur que no és això el tenien "
+"planejat. Els hòmens de Wesnoth no entenen el bé i el mal com nosaltres. "
+"Segons la seua visió del mon, és bo tot allò que beneficia Wesnoth, i roin "
+"allò que li perjudica. Potser havien pensat en fer una aliança permanent amb "
+"l'estat orc, perquè això els permetria establir províncies en el nord sense "
+"cap mena d'oposició."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:170
@@ -1426,13 +1443,13 @@ msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
 msgstr ""
-"Kanske var det så. Självklart är allt bara spekulationer. Vi kan så klart "
-"inte veta varför de anföll oss egentligen, eller hur? Vi kan bara gissa."
+"Potser. De tota manera, açò no és més que una especulació. No podem saber "
+"per què ens van atacar, no? Només podem jugar a encertar-lo."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:174
 msgid "Which is why this is rather pointless."
-msgstr "Vilket är skälet till att det här är ganska meningslöst."
+msgstr "Per això, tot açò és prou inútil. "
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:178
@@ -1441,9 +1458,9 @@ msgid ""
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
 "north."
 msgstr ""
-"Nå, jag måste ge mig av. Jag vet inte vart mitt folk kan gå nu; det är så få "
-"av oss kvar. Men jag tänker inte stanna i den här staden, det är för "
-"farligt. Jag ger mig av norrut."
+"Bé dec anar-me'n. No sé a on anirà la meua gent ara, quedem tan poquets! "
+"Però no ens quedarem en aquesta ciutat, és massa perillós. Marxaré cap al "
+"nord."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:182
@@ -1451,23 +1468,23 @@ msgid ""
 "Very well. I suppose this council is ended, and the real work of Daharan's "
 "reign shall begin."
 msgstr ""
-"Nåväl. Jag antar att det här rådet är avslutat och att det är dags för det "
-"riktiga arbetet under Daharans ledning att börja."
+"Molt bé. Em pareix que aquest és el fi d'aquest consell, i ara comença el "
+"treball de debò del regne de Daharan."
 
 #. [scenario]: id=sea_voyage_0
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:3
 msgid "The High Seas"
-msgstr "På öppet hav"
+msgstr "Alta mar"
 
 #. [objectives]
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:198
 msgid "Scenario Rules:"
-msgstr "Scenarioregler:"
+msgstr "Normes de l'escenari:"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:201
 msgid "Land in a harbor to reprovision."
-msgstr "Landstig i en hamn för att proviantera"
+msgstr "Entra en un port per aprovisionar-te"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:205
@@ -1475,14 +1492,16 @@ msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board the ship."
 msgstr ""
-"Wesnoths skepp jagar dig; om de anfaller kommer de att försöka borda skeppet."
+"Els vaixells wesnothians et persegueixen; si t'ataquen, intentaran abordar-"
+"te."
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:209
 msgid ""
 "Each of their ships has enough provisions to completely restock your ship."
 msgstr ""
-"Vartenda ett av deras skepp har tillräckliga förråd för att helt fylla dina."
+"Cada un dels seus vaixells porta prou queviures per aprovisionar "
+"completament el teu vaixell."
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:213
@@ -1490,23 +1509,23 @@ msgid ""
 "Your long-term objective is to reach the lands in the West where Black the "
 "Red says there are allies, and have them join you."
 msgstr ""
-"Ditt långsiktiga mål är att nå länderna i väst där Black Röde säger att det "
-"finns allierade, och få dem att slå följe med dig."
+"El teu objectiu és arribar a les terres a l'oest on Negre el Roig afirma que "
+"hi han aliats, i aconseguir que s'unisquen a tu."
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:217
 msgid "Until then you cannot return to Elensefar."
-msgstr "Innan dess kan du inte återvända till Elensefar."
+msgstr "Fins aleshores, no podràs retornar a Elensefar."
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:221
 msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
-msgstr "Var till sjöss i 6 veckor (6 drag) utan att proviantera"
+msgstr "Estar 6 setmanes (6 torns) sense aprovisionar-te"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:225
 msgid "Take more than 30 weeks to reach the western lands"
-msgstr "Misslyckas med att nå länderna i väster på 30 veckor"
+msgstr "Trigar més de 30 setmanes per arribar a les terres a l'oest"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:246
@@ -1516,10 +1535,10 @@ msgid ""
 "the western lands, where we will meet with the people Black the Red has "
 "spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
-"Vi har lämnat Elensefar i orchernas klor. Om vi inte återkommer snart, så "
-"finns det ingen mening att återkomma alls. Vi har 30 veckor på oss, på sin "
-"höjd, att komma fram till länderna i väster, där vi skall möta de som Black "
-"den Röde pratade om. Det ger oss 5 veckor att komma tillbaka på."
+"Hem deixat Elensefar en mans dels orcs. Si no tornem prompte, no tindrà cap "
+"valor tornar de nou. Tenim, com a molt, 30 setmanes per arribar a les terres "
+"de l'oest, on trobarem la gent de la que ens ha parlat Negre el Roig. Això "
+"ens deixarà només amb unes 5 setmanes per tornar."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:250
@@ -1527,14 +1546,14 @@ msgid ""
 "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
 "must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
-"Dessutom rymmer inte vårt skepp proviant för mer än 6 veckor i taget, så vi "
-"måste antingen gå i land på en ö eller borda ett fiendeskepp var sjätte "
-"vecka för att proviantera."
+"A més a més, el nostre vaixell no pot dur provisions per més de 6 setmanes "
+"alhora, per tant, haurem de desembarcar en una illa o capturar un vaixell "
+"enemic cada 6 setmanes."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:279
 msgid "We have ran out of provisions.... *urgh*"
-msgstr "Vi har slut på mat och vatten... *urgh*"
+msgstr "Se'ns han acabat els queviures...*urgh*"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:292
@@ -1542,8 +1561,8 @@ msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
 msgstr ""
-"Våra förråd är snart slut! Om vi inte provianterar inom en vecka så kommer "
-"vi att svälta!"
+"Ràpid, no ens queden moltes provisions! Si no aconseguim aprovisionar-nos en "
+"una setmana, ens morirem de fam!"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:309
@@ -1551,8 +1570,8 @@ msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
 msgstr ""
-"Våra förråd räcker bara i $turnsleft veckor. Vi måste nå länderna i väster "
-"inom $gameleft veckor."
+"Tenim provisions per a $turnsleft weeks; hem d'arribar a les terres de "
+"l'oest en $gameleft weeks."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:339
@@ -1560,8 +1579,8 @@ msgid ""
 "This island has no more enemies on it, but we can still reprovision here. "
 "That will still take time, though."
 msgstr ""
-"Det finns inga fler fiender på den här ön, men vi kan fortfarande "
-"proviantera här. Det kommer att ta tid, dock."
+"No hi ha més enemics dins d'aquesta illa, però podem aprovisionar-nos ací. "
+"Malauradament ens costarà prou temps."
 
 #. [label]
 #. [scenario]: id=sea_voyage_plus1
@@ -1570,14 +1589,14 @@ msgstr ""
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
 #: Saving_Elensefar/_main.cfg:9
 msgid "Saving Elensefar"
-msgstr "Elensefars Undsättning"
+msgstr "Salvem Elensefar!"
 
 #. [label]
 #. [scenario]: id=sea_voyage_1
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:532
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:3
 msgid "The Swampland"
-msgstr "Sumpmarken"
+msgstr "Les Marjals"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:539
@@ -1585,7 +1604,8 @@ msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
 msgstr ""
-"Ön verkar obebodd... Om man bortser från mannen i svart huva där borta..."
+"No pareix que hi haja cap habitant vivint a aquesta illa... excepte, pareix, "
+"aquell home amb robes negres a l'altra punta..."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:557
@@ -1593,34 +1613,35 @@ msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
 msgstr ""
-"Sist jag var här så var det en handelsstation, men den verkar vara borta. "
-"Deras gamla barrikader borde fortfarande finnas kvar."
+"L'última vegada que vaig estar ací, açò era una colònia comercial, però "
+"pareix que haja desaparegut. Tanmateix, els seus antics graners encara "
+"tindran alguna cosa..."
 
 #. [label]
 #. [scenario]: id=sea_voyage_3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:568
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:3
 msgid "Theft"
-msgstr "Stöld"
+msgstr "Robatori"
 
 #. [label]
 #. [scenario]: id=sea_voyage_4
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:572
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:3
 msgid "Back to the Ship"
-msgstr "Tillbaka till skeppet"
+msgstr "De nou en el vaixell"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:579
 msgid "I think something is in the water..."
-msgstr "Jag tror att det är något i vattnet..."
+msgstr "Crec que hi ha alguna cosa dins de l'aigua..."
 
 #. [label]
 #. [scenario]: id=sea_voyage_5
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:600
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:3
 msgid "Fire Island"
-msgstr "Eldön"
+msgstr "L'illa de foc"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:607
@@ -1628,48 +1649,47 @@ msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
 msgstr ""
-"Legenderna berättar att Haldric landsteg här på sin färd och att han slogs "
-"med något. Låt oss hoppas att vi inte blir tvungna att återuppta striden med "
-"vad det än var..."
+"La llegenda diu que Haldric va desembarcar ací, i que va lluitar amb alguna "
+"cosa. Esperem que no siga necessari tornar-ho a fer..."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:633
 msgid "This island looks vaguely elvish."
-msgstr "Den här ön för tankarna till alver."
+msgstr "Aquesta illa pareix vagament elfa."
 
 #. [label]
 #. [scenario]: id=sea_voyage_8
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:654
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:3
 msgid "The Frozen Lands"
-msgstr "De frusna länderna"
+msgstr "Les terres gelades"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:661
 msgid "Does anything live in this frozen wasteland?"
-msgstr "Lever det något i den här frusna ödemarken?"
+msgstr "Que bé podrà viure alguna cosa en aquest gelat territori?"
 
 #. [label]
 #. [scenario]: id=sea_voyage_11
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:680
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:3
 msgid "Off the Peninsula"
-msgstr "Bort från Halvön"
+msgstr "Fora de la península"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:691
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
-"Jag ser tecken på en wesnothisk utpost. Underligt att de finns så här långt "
-"söderut..."
+"Veig senyals d'un campament fronterer wesnothià. Em pareix estrany que "
+"estiga tan al sud..."
 
 #. [label]
 #. [scenario]: id=sea_voyage_12
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:712
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:3
 msgid "The Desert Island"
-msgstr "Ökenön"
+msgstr "L'illa deserta"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:719
@@ -1677,8 +1697,8 @@ msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
 msgstr ""
-"Nagafolket bodde här för hundra år sedan, på Haldrics tid! Undrar om det "
-"finns några kvar..."
+"Els nagues són criatures de fa cent anys, en temps de Haldric! Em pregunte "
+"si quedara cap..."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:737
@@ -1686,8 +1706,8 @@ msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
 msgstr ""
-"Det här är Klarvattnet! Den gamla hamnstaden! Den blev raserad av orcher för "
-"länge sedan; jag tvivlar på att det finns några människor kvar."
+"Aquest és l'antic Port d'Aiguaclara! Fa molt de temps que va ser saquejat "
+"pels orcs, dubte que hi quede cap humà."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:757
@@ -1696,8 +1716,8 @@ msgid ""
 "This is the land I was talking about. Land here, and we will get the "
 "warriors we need."
 msgstr ""
-"(Black Röde) Det här är landet jag talade om. Landstig här så kommer vi att "
-"få tag i de krigare vi behöver."
+"(Negre el Roig) Aquesta és la terra de la que vos parlava. Desembarquem, i "
+"trobarem els guerrers que ens fan falta."
 
 #. [unit]: type=Dark Sorcerer, id=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:66
@@ -1710,8 +1730,8 @@ msgid ""
 "What is this, a mage walks clad in black? Explain yourself! Are you of the "
 "red mages, or the white?"
 msgstr ""
-"Vad är detta? En magiker som går klädd i svart? Förklara dig! Är du en röd "
-"eller vit magiker?"
+"Què és això, un mag vestit de negre? Explica't! Eres dels mags rojos o dels "
+"blancs?"
 
 #. [message]: speaker=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:118
@@ -1720,8 +1740,8 @@ msgid ""
 "that continent, or that his mages no longer wear the robes of the "
 "necromancer?!?"
 msgstr ""
-"Vad? Menar du att den store häxmästaren Jevyan inte längre regerar på "
-"kontinenten eller att hans magiker inte längre bär nekromanternas skrudar?!"
+"Què? Estàs dient que el gran lich Jevyan no regna en aquell continent, o que "
+"els seus mags ja no duen la vestiment pròpia dels nigromants?!?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:122
@@ -1729,21 +1749,19 @@ msgid ""
 "What? Why do you speak of those old tales as if they were real? And I "
 "suppose you think you are a real necromancer too."
 msgstr ""
-"Vad? Varför talar du om saker som bara finns i gamla legenderna? Du tror "
-"säkert att du är en riktig nekromant också."
+"Què? Per què parles de contes de fades com si foren reals? I supose que tu "
+"creus que eres un nigromant de debò, doncs."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:126
 msgid ""
 "Why do you say he's not a necromancer? I've seen them before, haven't you?"
-msgstr ""
-"Varför säger du att han inte är en riktig nekromant? Jag har sett dem; har "
-"inte du gjort det?"
+msgstr "Per què dius que no és un nigromant? N'heu vist abans vosaltres, no?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:130
 msgid "Are you saying undead exist?"
-msgstr "Påstår du att vandöda finns på riktigt?"
+msgstr "Vols dir que els no morts existeixen?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:134
@@ -1751,13 +1769,13 @@ msgid ""
 "Yes. And this guy looks real enough. I think we should treat him like an "
 "actual enemy."
 msgstr ""
-"Ja, och dessutom ser den här killen riktig nog ut. Jag tycker att vi borde "
-"behandla honom som en riktig fiende."
+"Sí. I aquest homenet pareix prou real. Crec que deuríem tractar-lo com un "
+"perillós enemic."
 
 #. [message]: speaker=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:138
 msgid "Yes, you should! Now, prepare to die!"
-msgstr "Ja, det borde ni! Bered er på döden!"
+msgstr "Sí, sí que deuríeu! Ara, prepareu-vos per morir!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:142
@@ -1765,12 +1783,12 @@ msgstr "Ja, det borde ni! Bered er på döden!"
 msgid ""
 "Whatever. We will see if he actually can raise anything, and if we come out "
 "of here."
-msgstr "Visst. Vi får väl se om han verkligen kan återuppväcka något."
+msgstr "Sí, clar. Ara veurem si pot invocar coses."
 
 #. [scenario]: id=sea_voyage_-1
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:3
 msgid "Escaping the Orcs"
-msgstr "Flykten från orcherna"
+msgstr "Fugint dels Orcs"
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:21
@@ -1782,13 +1800,13 @@ msgid ""
 "resurrect some of the old. But, it is, most of all, the story of the voyage "
 "of his ship, and what he encountered while traveling the high seas..."
 msgstr ""
-"Det här är historien om den tid då Elensefar var en provins i det "
-"vidsträckta kungadömet Wesnoth. Det är historien om en tid med mycket "
-"glömska, då mycket kunskap hade blivit bortglömd, men också en tid med stor "
-"kunnighet. Det är historien om Meneldur sjömannen, som använde sin nyfunna "
-"kunskap för att återfinna lite av den gamla. Men det är framför allt "
-"historien om hans skepp, och vad han stötte på under sina färder över "
-"oceanerna..."
+"Aquesta història té lloc en un temps quan Elensefar era una província dins "
+"el vast regne de Wesnoth. És la història d'un temps caracteritzat per "
+"l'oblit de moltes coses abans conegudes, tanmateix també pels nous "
+"descobriments. És la història de Meneldur el Mariner, que va usar part dels "
+"nous descobriments per ressuscitar alguns dels vells. Principalment, però, "
+"és la història del viatge del seu vaixell, i d'allò que es va trobar mentre "
+"travessava l'ampli mar..."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:25
@@ -1800,12 +1818,12 @@ msgid ""
 "sea serpents, and snake-men, who lurked on the islands that lay to the west "
 "of the continent."
 msgstr ""
-"Innan berättelsen börjar så är det viktigt att veta att ingen av de "
-"sjöfarande människorna eller alverna, inkluderat Meneldur, var villiga att "
-"färdas långt ut till havs. Istället färdades de nära land och seglade enbart "
-"norr och söderut; detta för att de kände till vagt ihågkomna historier från "
-"Haldrics tid, om drakar, sjöodjur och ormmänniskor som bebodde öarna väster "
-"om kontinenten."
+"Abans de l'inici de la història, cal recordar que no cap dels mariners elfs "
+"o humans, incloent-hi Meneldur, solien estar disposats a perdre de vista la "
+"costa. Al contrari, solien romandre prop de terra, i només navegaven cap al "
+"nord o sud, ja que encara recordaven vagament els contes del gran viatge de "
+"Haldric, de dragons, serps marines i hòmens serp, que habitaven a les illes "
+"a l'oest del continent."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:29
@@ -1815,10 +1833,10 @@ msgid ""
 "elf, Meneldur had pledged his loyalty to Elensefar, and thus to Wesnoth "
 "(but, significantly, not to Weldyn)."
 msgstr ""
-"Meneldur föddes i nordländerna, i Wesmere, men blev bannlyst från alvernas "
-"land på grund av en konflikt med det högsta rådet. Efter detta svor "
-"Meneldur, trots att han var en alv, trohet till Elensefar och därmed till "
-"Wesnoth (men anmärkningsvärt nog, inte till Weldyn)."
+"Meneldur va nàixer a les terres del nord, en Wesmere, però havia sigut "
+"expulsat de terres elfes per un conflicte amb el 'Alt Consell'. Per tant, "
+"encara que era un elf, Meneldur havia jurat lleialtat a Elensefar, i a "
+"Wesnoth, doncs (però, significativament, no a Weldyn)."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:33
@@ -1827,9 +1845,9 @@ msgid ""
 "and ruthless men of the saber. He also brought many of the archer from his "
 "elvish house out of the northlands, to sail with him on his ship."
 msgstr ""
-"Meneldur samlade ihop en besättning med trogna elenser, kraftiga spjutmän, "
-"och hänsynslösa sabelsvingare. Han fick också många bågskyttar från sitt "
-"alvhem i nordländerna att segla med honom på hans skepp."
+"Meneldur va reunir al voltant seu una tripulació de veritables elensians; "
+"resistents soldats i cruels avalotadors. També havia convençut molts arquers "
+"de sa casa a les terres elfes, que li acompanyaren als seus viatges."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:37
@@ -1842,12 +1860,12 @@ msgid ""
 "to wend. He was to travel south to the Elven peninsula, and trade with the "
 "southern elves."
 msgstr ""
-"Vår historia börjar en natt ungefär tio år efter att Meneldur först kommit "
-"till Elensefar. Meneldur återvände till Elensefar efter en handelsresa till "
-"Pärlbukten. När han landstigit i Elensefar gick han till slottet för att få "
-"instruktioner av Elensefars furste om vart hans nästa resa skall bära av. "
-"Hans nya uppdrag blev att färdas till den södra delen av alvernas halvö, och "
-"att handla med sydalverna."
+"Ara és quan es comença la nostra història. Una nit, uns 10 anys després "
+"d'haver arribat per primera vegada a Elensefar, Meneldur atracava allí "
+"després d'un viatge de negocis a la Badia de les perles. Quan Meneldur va "
+"arribar a port en Elensefar, va dirigir-se al castell per rebre instruccions "
+"del Senyor d'Elensefar relatives al seu pròxim viatge. Les seues ordres eren "
+"viatjar cap al sud, a la península dels elfs dels sud, i comerciar amb ells."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:41
@@ -1858,10 +1876,10 @@ msgid ""
 "under attack, with no provocation. The city had been quickly overrun, before "
 "most of the people had even noticed."
 msgstr ""
-"Efter mötet, när Meneldur och hans män är på väg tillbaka till skeppet, så "
-"hör de ett konstigt ljud. Ett strävt ljud. Ljudet av orcher! Elensefar var "
-"under attack, utan förvarning. Staden intogs snabbt, innan de flesta "
-"invånare hann märka det."
+"Després de la reunió, mentre Meneldur i els seus hòmens tornaven al seu "
+"vaixell, van sentir un estrany soroll. Un soroll aspre. El soroll dels orcs! "
+"Estaven atacant Elensefar, sense cap provocació! Havien capturat la ciutat "
+"ràpidament, tan apressa que molts ni s'havien adonat."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:45
@@ -1869,8 +1887,8 @@ msgid ""
 "Meneldur had only one option left - get back on his boat and flee. But there "
 "were already orcs blocking his path to the harbor..."
 msgstr ""
-"Meneldur hade bara ett val - att ta sig tillbaka till sitt skepp och fly. "
-"Men orcherna hade redan blockerat vägen till hamnen..."
+"A Meneldur només li quedava una alternativa - tornar al seu vaixell i fugir. "
+"Però ja hi havia orcs que bloquejaven el seu camí cap al port..."
 
 #. [unit]: type=Duelist, id=Madru
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:170
@@ -1881,7 +1899,7 @@ msgstr "Madru"
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:253
 
 msgid "Move Meneldur and Madru to the Explorer (southwest of the map)"
-msgstr "För Meneldur till Utforskaren"
+msgstr "Meneja Meneldur al Explorador"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:275
@@ -1889,18 +1907,18 @@ msgid ""
 "Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
 "have to reach the ship!"
 msgstr ""
-"Orcher! Orcher anfaller! De är för många, vi kan inte hålla dem undan! Vi "
-"måste till skeppet!"
+"Orcs! Ens estan atacant els orcs! Són massa, no els podem rebutjar, hem "
+"d'arribar al vaixell!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:279
 msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
-msgstr "Ajaj, kapten. Alle man till skeppet, för allt vad tygen håller!"
+msgstr "Sí, sí, capità. Pugeu tots al vaixell, ara i ja!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:308
 msgid "Now, we go out to sea. I expect our city is doomed..."
-msgstr "Nu far vi till sjöss. Vår stad är dömd..."
+msgstr "Bé, ara anem cap a la mar. Crec que la nostra ciutat està perduda..."
 
 #. [unit]: type=Merman Warrior, id=Psison
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:64
@@ -1921,7 +1939,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:135
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:155
 msgid "Death of Psison"
-msgstr "Psison dör"
+msgstr "Mort de Psison"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:149
@@ -1929,30 +1947,29 @@ msgid ""
 "Are there any inhabitants of this island? We come in peace, we just want to "
 "restock our ship and then be on our way..."
 msgstr ""
-"Har den här ön några invånare? Vi kommer i fred! Vi vill bara fylla på våra "
-"förråd och så ger vi oss av igen..."
+"Hi ha habitants en aquesta illa? Som hòmens de pau, només volem reomplir els "
+"queviures del nostre vaixell i seguir amb el nostre camí..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:153
 msgid "Hey! What happened to The Explorer! She's gone!"
-msgstr "Vad har hänt med Utforskaren! Hon är borta!"
+msgstr "Ei! Què ha passat amb l'Explorador! Ha desaparegut!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:157
 msgid "Someone must have stolen her. It looks like we're stuck on this island."
 msgstr ""
-"Någon måste ha tagit henne. Det verkar inte bättre än att vi är fast på den "
-"här ön."
+"Algú deu haver-lo robat. Pareix que estem estancats dins d'aquesta illa."
 
 #. [message]: speaker=Psison
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:166
 msgid "Hello, I believe I can help."
-msgstr "Hej, jag tror att jag kan vara till hjälp."
+msgstr "Hola, crec que puc ajudar-vos."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:170
 msgid "Who are you, and what do you want?"
-msgstr "Vem är du och vad vill du?"
+msgstr "Qui eres, i què vols?"
 
 #. [message]: speaker=Psison
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:174
@@ -1961,14 +1978,15 @@ msgid ""
 "enemies, who stole your boat. I will lend you the aid of my fighters to get "
 "it back."
 msgstr ""
-"Jag är ledaren för en stor stam sjöfolk. Jag tror att det var nagafolket, "
-"våra fiender, som stal ert skepp. Jag lånar ut några av mina krigare för att "
-"hjälpa er att få det tillbaka."
+"Sóc el líder d'una gran tribu de sirènids, i crec que han sigut els nagues, "
+"els nostres ancestrals enemics, els qui han furtat el vostre vaixell. Vos "
+"prestaré l'ajuda dels meus lluitadors per recuperar-lo."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:192
 msgid "Hey, look, I see the boat! Nagas are moving it southwest."
-msgstr "Hallå, titta, jag ser båten! De flyttar den åt sydväst."
+msgstr ""
+"Ei, mireu, ja veig el vaixell! Els nagues l'estan menejant cap al sud oest."
 
 #. [message]: speaker=Srak
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:201
@@ -1976,19 +1994,19 @@ msgid ""
 "They've found us! Workers, get that boat out of here! We will secure time "
 "for your escape."
 msgstr ""
-"De har hittat oss! Arbetare, få bort den där båten härifrån! Vi skall köpa "
-"lite tid för flykten."
+"Ens han descobert! Obrers, dueu-vos el vaixell d'ací! Intentarem guanyar "
+"temps per a que pugueu fugir."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:226
 msgid "Orcs! Kill them!"
-msgstr "Orcher! Döda dem!"
+msgstr "Orcs! Mateu-los!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:244
 
 msgid "A bridge! What may be across it?"
-msgstr "En bro! Vad tror du ligger på andra sidan?"
+msgstr "Un pont! Què hi haurà a l'altra banda?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:248
@@ -1996,8 +2014,8 @@ msgid ""
 "Probably our boat... but we need to defeat these orcs before we get it, or "
 "else they will attack us from behind."
 msgstr ""
-"Antagligen vår båt... Men vi måste besegra orcherna innan vi får tag på den, "
-"annars kommer de att falla oss i ryggen senare."
+"Segurament el nostre vaixell... però abans haurem de derrotar aquestos orcs "
+"abans de recuperar-lo, o ens atacarien per darrere."
 
 #. [unit]: type=Orcish Warlord, id=Dur-Galba
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:90
@@ -2015,8 +2033,8 @@ msgid ""
 "Time to get our ship back. These islands are inhabited, there should be a "
 "harbor *somewhere*."
 msgstr ""
-"Det är dags att ta tillbaka vårt skepp. De här öarna är bebodda, så det "
-"borde finnas en hamn någonstans."
+"Ja és hora de recuperar el nostre vaixell. Aquestes illes estan habitades, "
+"deuria haver-hi algun port *en algun lloc*."
 
 #. [message]: speaker=Psison
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:174
@@ -2024,23 +2042,23 @@ msgid ""
 "These Nagas don't leave us alone! They're here again, and the ship is here "
 "somewhere too."
 msgstr ""
-"Det där nagafolket lämnar oss inte i fred! De är här igen, och skeppet är "
-"också här någonstans."
+"Aquestes nagues no ens deixen a soles! Ja tornen, i el vaixell també està "
+"per ací."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:192
 msgid "Orcs! More orcs!"
-msgstr "Orcher! Fler orcher!"
+msgstr "Orcs! Més orcs!"
 
 #. [message]: speaker=Psison
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:210
 msgid "I knew there were nagas around here..."
-msgstr "Jag visste att nagafolket huserade här..."
+msgstr "Sabia que hi havia nagues per ací..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:219
 msgid "Now, to the harbor, and back on to the ship!"
-msgstr "Nu, tillbaka till hamnen och skeppet!"
+msgstr "Ara, anem al port i tornarem al vaixell!"
 
 #. [unit]: type=Dwarvish Steelclad, id=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:70
@@ -2056,7 +2074,7 @@ msgstr ""
 #. [message]: speaker=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:145
 msgid "Finally, a ship! You, in there, we wish to talk with you!"
-msgstr "Äntligen, ett skepp! Du därinne, vi vill tala med dig!"
+msgstr "Per fi! Un vaixell! Eiiii, volem parlar vosaltres!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:149
@@ -2064,8 +2082,8 @@ msgid ""
 "What is it that you want, Dwarf? You know that elves are not usually very "
 "friendly with your kind."
 msgstr ""
-"Vad vill du, dvärg? Du vet väl att alver inte är speciellt vänliga mot er "
-"sort."
+"Què vols, nan? Saps que nosaltres els elfs no solem ser molt amistosos amb "
+"vosaltres."
 
 #. [message]: speaker=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:153
@@ -2074,14 +2092,14 @@ msgid ""
 "usually help in return for gold. I need to ask your aid. We are in a "
 "desperate situation - we will all die you do not help us!"
 msgstr ""
-"Jag vet, men ni är inte bara alver, ni har några människor med er, och de "
-"hjälper ofta till i utbyte mot guld. Jag behöver er hjälp. Vi är desperata - "
-"vi kommer alla att dö om ni inte hjälper oss!"
+"Sí, ja ho sé, però veig també alguns humans entre la teua tripulació, que "
+"solen estar disposats a ajudar a canvi d'or. Necessite demanar la vostra "
+"ajuda, estem en una situació desesperada - tots morirem si no ens ajudeu!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:157
 msgid "Why? What's going on here?"
-msgstr "Vadå? Vad är det som händer?"
+msgstr "Per què? Què està passant aquí?"
 
 #. [message]: speaker=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:161
@@ -2091,10 +2109,10 @@ msgid ""
 "north, and he is now too strong. The battle is no longer equal, and he has "
 "decided to try to destroy us! We will give you gold if you help us."
 msgstr ""
-"En furste regerar här, en grym furste, och om vi inte kan hålla honom undan "
-"så blir vi förslavade. Nu har han kallat in förstärkningar från norr och har "
-"blivit för stark för oss. Vi kan inte hålla stånd längre och han har bestämt "
-"sig för att förgöra oss! Vi gäldar i guld om ni hjälper oss."
+"Hi ha un senyor que governa ací, un senyor cruel, i hem decidit plantar-li "
+"cara per tal de no acabar esclavitzats. Però ell va traure reforços des del "
+"nord, i ara ja és massa fort. La batalla ha deixat de estar igualada, i ha "
+"decidit destruir-nos! Vos donarem or si ens ajudeu."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:165
@@ -2102,8 +2120,8 @@ msgid ""
 "Very well, we will try to help you - so give us command of your troops, that "
 "we may use them more effectively."
 msgstr ""
-"Nåväl, vi skall försöka hjälpa er. Låt oss leda era trupper så att vi kan "
-"använda dem effektivare."
+"Molt bé, intentarem ajudar-vos - per tant, dóna'm el comandament de les "
+"teues tropes, així les utilitzarem amb major eficàcia."
 
 #. [message]: speaker=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:169
@@ -2111,17 +2129,18 @@ msgid ""
 "Certainly! Also, we will give you what little gold we have, if it will help "
 "you..."
 msgstr ""
-"Självfallet! Vi ger er också det lilla guld vi har, om det kan hjälpa er..."
+"Cap problema! També et donem tot el poc d'or que ens queda, si et serveix "
+"d'ajuda..."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:178
 msgid "Alright, men, lets go back to the ship now."
-msgstr "Då så, mannar, tillbaka till skeppet nu."
+msgstr "Molt bé, camarades, tornem al vaixell ara."
 
 #. [scenario]: id=sea_voyage_fake2
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:3
 msgid "Return to Elensefar"
-msgstr "Tillbaka till Elensefar"
+msgstr "Tornada a Elensefar"
 
 #. [part]
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:19
@@ -2130,9 +2149,9 @@ msgid ""
 "galleons, which was enough to hold all of them. That is how few of that once "
 "great race remained."
 msgstr ""
-"Och så hjälpte Meneldur wesfolket att bygga deras skepp. De byggde tre "
-"bastanta galjoner som var stora nog att rymma dem allihop. Det är därför som "
-"så få av deras en gång så mångtaliga ras stannade kvar."
+"I d'aquesta manera, Meneldur va ajudar als wesfolk a construir vaixells. Van "
+"construir tres resistents galions, que n'eren prou per transportar-los tots. "
+"Ja només quedava això d'aquella gran raça."
 
 #. [part]
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:23
@@ -2141,9 +2160,10 @@ msgid ""
 "swiftness over the boat. The next thing Meneldur and his men knew, they had "
 "reached the delta of the Great River, where Elensefar was built."
 msgstr ""
-"Nekromanterna som var ombord på skeppen kastade en mörkrets och snabbhetens "
-"besvärjelse över båten. På ett ögonblick var Meneldur och hans mannar i den "
-"stora flodens delta, där Elensefar låg."
+"Els nigromants a bord van teixir un conjur d'obscuritat i velocitat en "
+"voltant al botam. Quan Meneldur i els seus hòmens van voler saber on "
+"estaven, ja havien arribat al delta del Gran Riu, on Elensefar va ser "
+"construïda."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:189
@@ -2152,8 +2172,9 @@ msgid ""
 "as we aided Blackmore. So... does anyone have an idea as to how to attack "
 "the city?"
 msgstr ""
-"Vi är framme i Elensefars hamn... Det är dags att återta Elensefar, såsom vi "
-"bistod Blackmore. Vad tror ni är bästa sättet att anfalla staden på?"
+"Bé, ja estem prop del port d'Elensefar... És el moment de reprendre "
+"Elensefar, de la mateixa manera que vam ajudar Blackmore. Hum... algú té cap "
+"idea de cóm atacar la ciutat?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:193
@@ -2162,14 +2183,14 @@ msgid ""
 "where smugglers hide their goods. I know some bandits who won't alert anyone "
 "if we land there."
 msgstr ""
-"Hör upp, detta är min plan. På norra sidan av floden finns det en grotta där "
-"smugglare gömmer sitt gods. Jag känner några banditer som inte skulle säga "
-"ett knyst om vi landsteg där."
+"Mireu ací, aquest és el meu plan. Al costat de la vora més al nord del riu "
+"hi ha una cova on és els contrabandistes guarden les seues mercaderies. "
+"Conec a alguns d'ells que no avisaran a ningú si desembarcarem allà."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:263
 msgid "But they won't help us?"
-msgstr "Men de hjälper oss inte?"
+msgstr "Però ens ajudarien?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:267
@@ -2177,13 +2198,13 @@ msgid ""
 "Uhm... no, probably not. But we would be rather secretive, they probably "
 "wouldn't notice us."
 msgstr ""
-"Hm... Nej, antagligen inte. Men om vi är tillräckligt tysta, då märker de "
-"oss säkert inte ändå."
+"Uhmm... no, segurament no. De tota manera, seria prou secret, i segurament "
+"tardarien en saber-ho des de la ciutat."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:271
 msgid "Madru, do you have any suggestions?"
-msgstr "Madru, har du några andra förslag?"
+msgstr "Madru, tu què en penses?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:275
@@ -2191,21 +2212,20 @@ msgid ""
 "Well, we could always land on the south beach. There is a harbor there, and "
 "a quick route from there to inside the city."
 msgstr ""
-"Tja, vi skulle kunna landstiga på den södra sidan. Det finns en hamn där och "
-"man kommer snabbt in i staden den vägen."
+"Bé, sempre podríem desembarcar en la platja del sud. Hi ha un port allà, i "
+"una via clara i descoberta cap a l'interior de la ciutat."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:345
 msgid "But won't they see us there?"
-msgstr "Men kommer de inte att se oss där?"
+msgstr "Però no ens veurien?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:349
 msgid ""
 "Yes, but what's wrong with a head on battle? I think we could defeat them."
 msgstr ""
-"Ja, men vad är det för fel på rättfram strid? Jag tror vi skulle kunna "
-"besegra dem."
+"Sí, i? Que té de roin una batalla cara a cara? Crec que els podem derrotar."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:353
@@ -2214,9 +2234,9 @@ msgid ""
 "can go around most of the orcish defenses, which are probably guarding the "
 "bridges to the city."
 msgstr ""
-"Jag tycker att vi borde landstiga inne i själva staden. På det sättet så kan "
-"vi komma runt det mesta av orchernas försvar. De vaktar med största "
-"sannolikhet broarna in i staden."
+"Bé, em pareix que deuríem desembarcar directament dins la mateixa Elensefar. "
+"D'aquesta manera, podríem eludir la majoria de les defenses orques que, "
+"segurament guarden els ponts que entren a la ciutat."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:395
@@ -2225,24 +2245,24 @@ msgid ""
 "immediately, you will have alerted the orcs to our presence without "
 "accomplishing anything."
 msgstr ""
-"Det är en djärv och bra plan, men jag är inte säker på att den kommer att "
-"fungera. Om du inte lyckas med detsamma så har du uppmärksammat orcherna på "
-"vår närvaro utan att ha åstadkommit något alls."
+"És un pla valent, massa i tot. No estic gens segur que puga funcionar. Si no "
+"tenim èxit immediatament, els haurem revelat la nostra presència sense "
+"aconseguir res."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:400
 msgid "Hm... you are right there. Which plan should we use?"
-msgstr "Hm... Det har du rätt i. Vilken plan skall vi använda då?"
+msgstr "Hm... també tens raó. Quin plan deuríem usar?"
 
 #. [option]
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:403
 msgid "I say we head north, as you proposed."
-msgstr "Jag tycker vi går norrut, som du föreslog."
+msgstr "Anirem pel nord, com tu vas dir."
 
 #. [option]
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:413
 msgid "Madru's plan to head south sounds the best."
-msgstr "Madrus plan att gå söderut låter bra."
+msgstr "El plan de Madru d'entrar pel sud em pareix millor."
 
 #. [option]
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:423
@@ -2250,12 +2270,13 @@ msgid ""
 "Both of your plans were good, but I will stick to my own, and land in the "
 "harbor."
 msgstr ""
-"Båda era planer är bra, men jag vidhåller min egen, och landstiger i hamnen."
+"Tots dos plans estaven bé, però preferisc mantenir el meu, i desembarcar al "
+"port."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:436
 msgid "Very well. Let us not waste any more time, we must fight now."
-msgstr "Nåväl. Nu får vi sätta fart."
+msgstr "Molt bé, no cal que perdem més temps. A armes!"
 
 #. [unit]: type=Orcish Warlord, id=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:217
@@ -2278,8 +2299,8 @@ msgid ""
 "As the warriors landed the Explorer, they overheard the elves, men and orcs "
 "talking..."
 msgstr ""
-"När krigarna landsteg med Utforskaren, så hörde de alver, människor och "
-"orcher som rådslog..."
+"Mentre els guerrers amarraven l'Explorador, van sentir de passada la "
+"conversa entre els orcs, elfs i orcs..."
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:316
@@ -2287,13 +2308,14 @@ msgid ""
 "Orc, you promised that, if we allied with you, you would free all the "
 "prisoners you took when you captured Elensefar. You have broken our pact!"
 msgstr ""
-"Orch, du lovade att om vi gick samman med er, så skulle ni befria alla de "
-"fångar ni tog när ni intog Elensefar. Ni har brutit vår pakt!"
+"Orc, vas prometre que, si ens aliàvem amb tu, alliberaries tots els "
+"presoners que vas prendre quan vareu capturar Elensefar. Has trencat el "
+"pacte!"
 
 #. [message]: speaker=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:320
 msgid "Ag, elf-dog, you shuttup! I aint takin' orders fr'm you!"
-msgstr "Agh, alvhund, du håller käften! Jag tar inga order från dig!"
+msgstr "Ag, calla't ja, merdós! No rep cap ordre de tu!"
 
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:324
@@ -2302,24 +2324,24 @@ msgid ""
 "attack you again! And this time, we will probably win, since our "
 "reinforcements have arrived, and there are two armies to attack you."
 msgstr ""
-"Lyssna, Pakch-Glun, om du inte fullgör din del av avtalet, så anfaller vi er "
-"igen! Och den här gånger vinner vi, eftersom våra förstärkningar nått fram, "
-"och du har två arméer mot dig."
+"Escolta'm, Pakch-Glun, si no compleixes amb la teua part del pacte, et "
+"tornarem a atacar! I aquesta vegada sí que guanyarem, ja que els nostres "
+"reforços ja han arribat, i som dos exèrcits per atacar-te!"
 
 #. [message]: speaker=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:328
 msgid "Heh, shur. I'd like t' see you try!"
-msgstr "He, visst. Försök bara!"
+msgstr "Va, vinga, aneu venint en fila d'un!"
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:332
 msgid "Mathein, shall we attack?"
-msgstr "Mathein, skall vi anfalla?"
+msgstr "Mathein, l'ataquem?"
 
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:336
 msgid "Yes. Pakch-Glun, prepare to die!"
-msgstr "Ja. Pakch-Glun, Bered dig att dö!"
+msgstr "Sí. Prepara't per morir, Pakch-Glun!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:341
@@ -2328,20 +2350,20 @@ msgid ""
 "elves, men and orcs would fight each other, Meneldur still had to fight all "
 "of them."
 msgstr ""
-"Detta var välkomna nyheter för Utforskarens besättning. Men, även om "
-"alverna, människorna och orcherna skulle strida mot varandra, så var "
-"Meneldur ändå tvungen att strida mot dem allihop."
+"La tripulació de l'Explorador ho van rebre com a bones notícies. Tanmateix, "
+"encara que els elfs, orcs i humans lluitaren entre ells, Meneldur encara "
+"hauria de derrotar-los tots."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:359
 msgid ""
 "The first enemy we will encounter will be the elves. Show them no mercy!"
-msgstr "Vår första motståndare blir alverna. Visa ingen nåd!"
+msgstr "El primer enemic que trobarem seran els elfs. A armes! Sense pietat!"
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:363
 msgid "And we will show you none. Prepare to meet your doom!"
-msgstr "Och vi skall inte visa er någon. Bered er att gå under!"
+msgstr "I et demostrarem la mateixa! Prepareu-vos per a la vostra perdició!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:372
@@ -2350,14 +2372,15 @@ msgid ""
 "Wesnoth will no doubt try to stop us, as will the elves. We must fight them "
 "too."
 msgstr ""
-"Vi har kommit för att återta Elensefar från orcherna! Men kom ihåg, "
-"wesnotherna kommer utan tvivel att försöka stoppa oss; och så även alverna. "
-"Vi måste strida mot dem också."
+"Hem de reconquistar Elensefar als orcs! Però recordeu que també els "
+"wesnothians intentaran aturar-nos, com també ho faran els elfs. Devem "
+"lluitar contra tots ells."
 
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:376
 msgid "Indeed we will. You are a traitor to your country, and must die as one!"
-msgstr "Sannerligen. Du är en förrädare, och måste dö!"
+msgstr ""
+"Segur que ho farem. Eres un traïdor al nostre país, i moriràs com a tal!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:385
@@ -2366,9 +2389,9 @@ msgid ""
 "faces of the elves. Although they are my brethren, we must not hold back "
 "from killing them because of it. Onward!"
 msgstr ""
-"Vi är i Elensefars hamn, och härifrån driver vi orcherna mot alverna. Även "
-"om de tillhör mitt släkte så får vi inte hålla tillbaka på grund av det. "
-"Framåt!"
+"Estem dins el port d'Elensefar, des d'ací els espentarem cap a les forces "
+"dels elfs. Encara que siguen cosins meus, no devem evitar matar-los per "
+"això. A per ells!"
 
 #. [message]: speaker=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:389
@@ -2376,15 +2399,15 @@ msgid ""
 "Listen t' that! He really thinks 'e can kill us! We'll show 'im! Kill the "
 "invader!"
 msgstr ""
-"Hör på den! Han tror att han kan döda oss! Vi skall visa honom! Döda "
-"inkräktaren!"
+"Sentiu el que diu! Pense que ens pot 'matà'! L'ensenyarem qui sap 'matà' ací!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:404
 msgid ""
 "What? There appear to be elves blocking our path! Elves, why are you in our "
 "way?"
-msgstr "Vad? Alver blockerar vår väg! Alver, varför står ni i vägen?"
+msgstr ""
+"Què? Pareix que hi ha elfs bloquejant el nostre camí! Elfs, que feu ací?"
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:408
@@ -2392,8 +2415,7 @@ msgid ""
 "We are here to kill you! After that, we will kill the orcs, but we must kill "
 "you first."
 msgstr ""
-"Vi är här för att döda er! Efter det skall vi döda orcherna, men vi måste ta "
-"oss an er först."
+"Venim a matar-te! I després els orcs, però cal fer-ho tot amb un ordre."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:412
@@ -2401,8 +2423,8 @@ msgid ""
 "Are you mad?! Well, if you are, I have no time to reason with you. Prepare "
 "to die!"
 msgstr ""
-"Är ni galna?! Nå, även om ni är det, så har jag inte tid att försöka "
-"resonera med er. Bered er att dö!"
+"Esteu bojos? Bé, espere que no vos moleste, però no tinc temps per debatre "
+"amb vosaltres. Prepareu-vos per morir!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:421
@@ -2410,8 +2432,9 @@ msgid ""
 "This looks like the area the men of Wesnoth have claimed to siege Elensefar "
 "from. Unfortunately, we must get past them to free the city."
 msgstr ""
-"Detta måste vara platsen varifrån wesnotherna tänker belägra Elensefar. "
-"Tyvärr måste vi komma förbi dem för att kunna frita staden."
+"Pareix que aquest és el lloc que els wesnothians han elegit per iniciar el "
+"seu setge a la ciutat. Per desgràcia, haurem de superar-los per alliberar la "
+"ciutat."
 
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:425
@@ -2419,9 +2442,9 @@ msgid ""
 "You will not get past us while I am alive. And even if you do, the elves "
 "will stop you. If you must be a traitor, pick one nation to betray, not two!"
 msgstr ""
-"Ni kommer inte förbi så länge jag är i livet. Och även om ni gör det, så "
-"kommer alverna att stoppa er. Om du nödvändigtvis måste förråda ett land, "
-"välj ett, inte två!"
+"No ens superaràs mentre estiga viu. I si ho feres, els elfs et mataran! Si "
+"has de ser el traïdor que has sigut sempre, al menys deuries trair només un "
+"país, no dos alhora!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:429
@@ -2430,14 +2453,14 @@ msgid ""
 "to attack me... Well, we will get past these Wesnothians first, and see what "
 "we can do then."
 msgstr ""
-"Vad pratar du om? Åhå, jag förstår... Mina släktingar från norr har beslutat "
-"sig för att anfalla mig. Nå, vi tar oss förbi wesnotherna först, och ser vad "
-"vi kan göra sedan."
+"Què estàs dient? Oh, ja veig.... els meus cosins del nord han decidit atacar-"
+"me. Bé, primer passarem per damunt d'aquestos wesnothians i després ja "
+"veurem què farem."
 
 #. [message]: speaker=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:433
 msgid "Prepare to die, Elensian scum!"
-msgstr "Bered er att dö, elensiska avskum!"
+msgstr "Prepara't per morir, porqueria elensiana!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:442
@@ -2446,38 +2469,40 @@ msgid ""
 "out of our city! Then, it appears, we will have to deal with those "
 "Wesnothians who believe us to be traitors."
 msgstr ""
-"Vi är i Elensefars hamn. Nu skall vi mota ut orcherna ur staden! Sedan ser "
-"det ut som att vi måste ta itu med de där wesnotherna som tror att vi är "
-"förrädare."
+"Ja estem dins el port d'Elensefar. Des d'ací, haurem de fer fora als orcs! "
+"Després, pareix que caldrà ocupar-se d'eixos wesnothians que pensen que som "
+"traïdors."
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:446
 msgid ""
 "Yes, please, do that. Then we will not have to deal with the orcs, and only "
 "with you!"
-msgstr "Ja tack, gör det. Då behöver vi inte ta oss an orcherna, utan bara er!"
+msgstr ""
+"Sí, molt bé, vos els deixem tots per vosaltres. Així no haurem de lluitar "
+"amb ells, només amb vosaltres!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:450
 msgid "What?... Oh, its elves, from the northlands. What do you want?"
-msgstr "Vad? Åhå, det är alver, från norr. Vad vill ni?"
+msgstr "Què? ... Oh, són elfs, de les terres del nord. Què voleu?"
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:454
 msgid "You dead, traitor!"
-msgstr "Se dig död, förrädare!"
+msgstr "La teua mort, traïdor!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:458
 msgid "Whatever you say. We'll deal with you after we kill the orcs."
-msgstr "Nåväl. Vi tar itu med er efter att vi dödat orcherna."
+msgstr ""
+"Sí, sí, clar. Ja ens encarregarem de vosaltres després de matar els orcs."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:485
 msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
 msgstr ""
-"Elensefar må vara vårt, men det finns fortfarande fiender kvar att besegra. "
-"Framåt!"
+"Elensefar ja és nostra, però encara queden més enemics que vèncer. Avanceu!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:498
@@ -2485,74 +2510,72 @@ msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
-"Vi intog Elensefar och besegrade wesnotherna, men nu måste vi ta itu med de "
-"där alverna."
+"Ja hem pres Elensefar i derrotat els wesnothians, però encara hem de parar "
+"atenció a eixos elfs."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:507
 msgid ""
 "The orcs had ransacked the city's coffers - now it's time for us to return "
 "the favor."
-msgstr "Orcherna har plundrat staden - ni skall vi återgälda tjänsten."
+msgstr ""
+"Els orcs havien saquejat el tresor de la ciutat - és l'hora de retornar-los "
+"el favor."
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:518
 msgid "You find 300 pieces of gold!"
-msgstr "Du finner 300 guld!"
+msgstr "Trobes 300 peces d'or!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:521
 msgid "You find 250 pieces of gold!"
-msgstr "Du finner 250 guld!"
+msgstr "Trobes 250 peces d'or!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:524
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:586
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:654
 msgid "You find 200 pieces of gold!"
-msgstr "Du finner 200 guld!"
+msgstr "Trobes 200 peces d'or!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:553
 msgid "Good work, men. Onwards, we have to retake the city also!"
-msgstr "Bra jobbat, mannar. Framåt, vi måste återta staden också!"
+msgstr "Bon treball, soldats. Vinga, encara ens queda reprendre la ciutat!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:566
 msgid "Come on, we should go North and see if we can help defeat the elves."
-msgstr ""
-"Sätt fart, vi borde ta oss norrut och se om vi kan hjälpa till att besegra "
-"alverna."
+msgstr "Anem al nord i mirem de derrotar eixos elfs."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:575
 msgid "The Wesnothians had much gold in their camp. It is ours now!"
-msgstr "Wesnotherna hade mycket guld i sitt läger. Nu är det vårt!"
+msgstr "Els wesnothians tenien molt or al seu campament. I ara és nostre!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:589
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:657
 msgid "You find 175 pieces of gold!"
-msgstr "Du finner 175 guld!"
+msgstr "Trobes 175 peces d'or!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:592
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:660
 msgid "You find 150 pieces of gold!"
-msgstr "Du finner 150 guld!"
+msgstr "Trobes 150 peces d'or!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:621
 msgid "Orcs still reside in the city! Come one, let us kill them too!"
-msgstr "Det finns fortfarande orcher kvar i staden! Kom, vi dödar dem också!"
+msgstr "Els orcs encara estan dins la ciutat! Anem, matem-los també!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:634
 msgid ""
 "Come on, we should go South and see if we can help defeat the Wesnothians."
-msgstr ""
-"Kom igen, vi borde marschera söderut och se om vi kan hjälpa till att "
-"besegra wesnotherna."
+msgstr "Vinga, deuríem anar al sud i derrotar eixos wesnothians."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:643
@@ -2560,13 +2583,13 @@ msgid ""
 "It seems the elves brought some of their treasure out of the northlands. "
 "More for us!"
 msgstr ""
-"Det ser ut som att alverna tog med sig lite av sina skatter från "
-"nordländerna. Mer åt oss!"
+"Pareix que els elfs es van traure part del seu tresor des de les terres del "
+"nord. Millor per nosaltres!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:675
 msgid "There are no enemies left - we have succeeded in retaking Elensefar."
-msgstr "Det finns inga fiender kvar! Vi lyckades återta Elensefar!"
+msgstr "Ja no queden enemics - hem vençut! Elensefar és nostra!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:679
@@ -2574,7 +2597,7 @@ msgid ""
 "Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
 "help."
 msgstr ""
-"Ja! Elensefar är äntligen vårt! Nå, Black Röde, vi tackar dig för din hjälp."
+"Sí, Elensefar és nostra, per fi! Bé, Negre el Roig, t'agraïm la teua ajuda."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:683
@@ -2582,8 +2605,8 @@ msgid ""
 "It was an honor to fight for you. I wonder where my people will go now... "
 "the orcs have surely taken our home by now."
 msgstr ""
-"Det var en ära att slåss med dig. Jag undrar vart mitt folk skall ta vägen "
-"nu.... Orcherna måste ha erövrat vårt hem vid det här laget."
+"Ha sigut tot un honor lluitar amb vosaltres. Em pregunte a on anirà la meua "
+"gent ara que casa nostra ja haurà sigut arrasada pels orcs..."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:687
@@ -2591,8 +2614,8 @@ msgid ""
 "I'm sure we will have time to discuss that later. But for now, we must help "
 "those conquered by the orcs rebuild their city."
 msgstr ""
-"Det finns säkert tid att diskutera det senare. Men nu måste vi hjälpa till "
-"att återuppbygga staden."
+"Estic segur que tindrem més temps per debatre això. Però ara, devem ajudar "
+"als ciutadans a reconstruir la seua ciutat conquerida."
 
 #. [unit]: type=Drake Flameheart, id=Dalakar
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:66
@@ -2601,9 +2624,8 @@ msgstr ""
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:114
-
 msgid "This island is nearly dead. We can only reprovision slowly here."
-msgstr "Den här ön är helt livlös. Vi kan inte proviantera här."
+msgstr "Aquesta illa està totalment morta. No podem aprovisionar-nos ací."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:118
@@ -2612,13 +2634,14 @@ msgid ""
 "The water is shallow enough to wade over there, let's see if there are "
 "people there."
 msgstr ""
-"Ja, det finns ingen på den här ön, men vad tror ni om den västerut? Vattnet "
-"är grunt nog för att vada dit. Låt oss se om det finns människor där."
+"Sí, no hi ha ningú en aquesta illa, però que passa amb l'altra a l'oest? "
+"L'aigua no es prou profunda com per a no poder travessar-la, anem a veure si "
+"n'hi ha gent allà."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:136
 msgid "What are these beasts? They look like miniature dragons!"
-msgstr "Vad är det här för odjur? De ser ut som drakar i miniatyr!"
+msgstr "Què són aquestes bèsties? Pareixen dragons en miniatura!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:140
@@ -2626,13 +2649,14 @@ msgid ""
 "They do not look like they belong on this island. Perhaps they came from the "
 "south? In any case, they don't look friendly."
 msgstr ""
-"De ser inte ut som att de hör hemma på den här ön. Kanske kom de söderifrån? "
-"Hur som helst så ser de inte vänliga ut."
+"No pareix que siguen autòctons d'aquesta illa. Potser van vindre del sud? De "
+"tota manera, no pareixen gaire amistosos."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:144
 msgid "True. Well then, we should defeat them so we can reprovision!"
-msgstr "Sant. Nåväl, vi måste kuva dem så att vi kan proviantera!"
+msgstr ""
+"Tens raó. Bé, aleshores haurem de derrotar-los per tal d'aprovisionar-nos!"
 
 #. [unit]: type=Lich, id=Kar-Salazz
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:66
@@ -2645,16 +2669,14 @@ msgid ""
 "I see there are more undead! I wonder how many of these did not go all the "
 "way across with Jevyan?"
 msgstr ""
-"Där är ännu fler vandöda! Undrar hur många av dessa som inte tog sig hela "
-"vägen över med Jevyan?"
+"Veig més no morts! Em pregunte quants més no van fer tot el camí amb "
+"Jevyan..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:118
 msgid ""
 "I have seen several of these wandering undead where I come from. Haven't you?"
-msgstr ""
-"Jag råkade på mängder av dessa vandöda där jag kommer ifrån. Har inte du "
-"träffat på sådana tidigare?"
+msgstr "He vist prou d'aquestos no morts errants on jo visc. Vosaltres no?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:122
@@ -2662,13 +2684,13 @@ msgid ""
 "Mostly I travel south to the southern continent, not west like this. There "
 "are no undead there!"
 msgstr ""
-"Jag reser oftast söderut till den södra kontinenten, inte västerut som nu. "
-"Det finns inga vandöda där!"
+"Normalment viatge cap al continent del sud, no cap a l'oest com ara. No hi "
+"han no morts allà!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:126
 msgid "I see..."
-msgstr "Jag förstår..."
+msgstr "Ja veig..."
 
 #. [message]: speaker=Kar-Salazz
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:130
@@ -2676,23 +2698,23 @@ msgid ""
 "Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy "
 "to defeatzz!"
 msgstr ""
-"Sssååå.... Duuu harr iiinte slaagitss mot miiig fööruuut...? Ahhh, brraaa. "
-"Deeet bliir ennn enkeel seegerrr!"
+"Beee... noo haveeu lluitat contra mmmmmmmmmi mmmmmmolt? Ahh, bbbó. Sssssserà "
+"fàcil derrrrrrrrrrrotarr-vosss!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:134
 msgid "Why did he speak like a lizard?"
-msgstr "Varför pratade han som en ödla?"
+msgstr "Per què ha parlat com un fardatxo?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:148
 msgid "What the...?"
-msgstr "Vad tusan...?"
+msgstr "Què co...?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:152
 msgid "That must be why he spoke like that. He is partly a lizard!"
-msgstr "Det där måste vara anledningen! Han är ödla till hälften!"
+msgstr "Per això parlaria així. És mig sauri!"
 
 #. [unit]: type=Elvish Enchantress, id=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:69
@@ -2705,8 +2727,8 @@ msgid ""
 "I heard about your defeat of the elves on the isle, and I knew you'd "
 "probably show up here sooner or later."
 msgstr ""
-"Jag hörde om din seger över alverna på ön och visste att du skulle dyka upp "
-"här förr eller senare."
+"He sentit parlar sobre la teua derrota dels elfs de l'illa, i sabia que "
+"apareixeries per ací més prompte que tard."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:128
@@ -2714,26 +2736,27 @@ msgid ""
 "I might have known. You must be the leader of these men; I wouldn't put "
 "aligning with men below you, after you surrendered to orcs!"
 msgstr ""
-"Jag borde ha anat detta. Du måste vara ledaren för de här männen. Du är "
-"visst kapabel till det mesta, efter att ha kapitulerat inför orcher!"
+"Deuria haver-ho sabut. Tu has de ser la líder d'aquests hòmens; no "
+"t'imaginava sota el comandament d'hòmens inferiors a tu després d'haver-te "
+"rendit als orcs!"
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:132
 msgid ""
 "'Surrendered' is not the way I would put it, but fine, have it your way."
-msgstr ""
-"Nå, 'kapitulera' skulle inte jag kalla det, men visst, om du säger det så."
+msgstr "Jo no ho anomenaria 'rendir-se', però bé, ho farem com tu vulgues."
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:139
 msgid "So, it is the traitor returning to greet his foe. How pleasant."
-msgstr "Så förrädaren återvänder för att hälsa sin fiende. Så trevligt."
+msgstr ""
+"Bé, així que el traïdor torna a trobar-se amb el seu enemic. Què bonic."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:143
 msgid ""
 "What are you doing here? My quarrel is with the Wesnothians, not with you."
-msgstr "Vad gör du här? Min konflikt är med wesnotherna, inte med dig."
+msgstr "Què fas tu ací? La meua disputa és amb els wesnothians, no amb tu."
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:147
@@ -2741,13 +2764,14 @@ msgid ""
 "I am the men's captain, so those who quarrel with them quarrel with me. We "
 "elves and men have aligned to bring you down!"
 msgstr ""
-"Jag är kapten över de här mannarna. De som bråkar med dem bråkar med mig. Vi "
-"alver och människor har gått samman för att besegra dig!"
+"Sóc la capitana d'aquestos hòmens, i per tant tot aquell que disputa amb "
+"ells també ho fa amb mi. Nosaltres els elfs i els humans ens hem aliat per "
+"afonar-te!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:151
 msgid "Think what you like. We will fight you if need be."
-msgstr "Tro vad du vill. Vi kommer att slåss om det behövs."
+msgstr "Pensa el que vulgues. Lluitarem contra tu si fa falta."
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:158
@@ -2755,8 +2779,8 @@ msgid ""
 "Oh, and I see some of the Wesnothians you found are turncoats. Don't worry, "
 "they will die also."
 msgstr ""
-"Åh, jag ser att du har förrädare bland de wesnother du plockat upp. Oroa dig "
-"inte, de kommer också att dö."
+"Oh, veig també que alguns dels wesnothians que t'has trobat són uns "
+"proscrits. No et preocupes, també moriran."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:179
@@ -2764,8 +2788,8 @@ msgid ""
 "With Lomanyas dead, I think we have defeated all of the Elves who sail the "
 "sea. We probably won't see them until we reach Elensefar..."
 msgstr ""
-"Med Lomanyas död så tror jag att vi har besegrat alla sjöfarande alver. Vi "
-"kommer nog inte att se mer av dem innan vi når Elensefar..."
+"Amb la mort de Lomanyas, crec que hem derrotat tots els elfs que naveguen. "
+"Segurament no els tornarem a veure fins que arribem a Elensefar..."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:186
@@ -2773,30 +2797,46 @@ msgid ""
 "It is unfortunate the elves have also decided to oppose us. I suspect there "
 "are more of them roaming the seas."
 msgstr ""
-"Det är beklagligt att alverna också har valt att gå emot oss. Jag tror att "
-"det fortfarande finns fler av dem ute till havs."
+"És una desgràcia que els elfs hagen decidit oposar-se a nosaltres. Sospite "
+"que encara hi ha alguns més navegant pels mars."
 
 #. [campaign]: id=Saving_Elensefar
 #: Saving_Elensefar/_main.cfg:10
 msgid "SE"
-msgstr "EU"
+msgstr ""
 
 #. [campaign]: id=Saving_Elensefar
 #: Saving_Elensefar/_main.cfg:15
-
 msgid ""
 "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
 "attacked the city. He must gather an army willing to fight for him to regain "
 "Elensefar, his adopted homeland.\n"
 msgstr ""
-"Meneldur, alvsjöman från Elensefar, fördrivs till sjöss av samma orcher som "
-"anfaller staden. Han måste samla ihop en armé som är villig att slåss för "
-"att återta Elensefar, hans hem.\n"
+"Meneldur, un mariner elf d'Elensefar, es veu abocat al mar pels mateixos "
+"orcs que havien atacat la ciutat. Haurà de reunir un exèrcit que estiga "
+"disposat a lluitar per Elensefar, la seua pàtria d'adopció.\n"
 
 #. [campaign]: id=Saving_Elensefar
 #: Saving_Elensefar/_main.cfg:17
 msgid "Expert level, 4 to 22 scenarios (depending of route taken)"
 msgstr ""
+
+
+#~ msgid "(easiest)"
+#~ msgstr "(fàcil)"
+
+#~ msgid "Mariner"
+#~ msgstr "Mariner"
+
+#~ msgid "Navigator"
+#~ msgstr "Navegant"
+
+
+#~ msgid "(hardest)"
+#~ msgstr "(difícil)"
+
+#~ msgid "Admiral"
+#~ msgstr "Almirall"
 
 #~ msgid ""
 #~ "Warning: This campaign functions differently from most others in a number "
@@ -2806,12 +2846,12 @@ msgstr ""
 #~ "scenario to scenario is handled differently, with the help of an "
 #~ "interactive bigmap."
 #~ msgstr ""
-#~ "Varning: Den här kampanjen fungerar annorlunda jämfört med de andra på "
-#~ "ett antal sätt. I de flesta scenarier kan du inte rekrytera. I de "
-#~ "scenarier där du kan rekrytera så varierar det vilka truppslag som är "
-#~ "rekryterbara. Dessutom överförs inte listan över rekryterbara truppslag "
-#~ "mellan scenarierna. Vidare är inte berättandet linjärt; du flyttar mellan "
-#~ "scenarierna med hjälp av en karta."
+#~ "Atenció: Aquesta campanya funciona d'una manera molt diferent a la resta "
+#~ "de campanyes en una sèrie d'aspectes. En la majoria d'escenaris no pots "
+#~ "reclutar ningú, i quan pots, les tropes disponibles sempre són diferents "
+#~ "- allò que aparega a la llista de reclutament no és manté per a la resta "
+#~ "d'escenaris. A més, per a menejar-te d'escenari a escenari s'usa un gran "
+#~ "mapa interactiu."
 
 #~ msgid ""
 #~ "Because of this, this campaign is inadvisable for players new to Wesnoth "
@@ -2819,30 +2859,160 @@ msgstr ""
 #~ "However, it will prove an interesting experience for those who have "
 #~ "played normal campaigns before."
 #~ msgstr ""
-#~ "På grund av detta så är den här kampanjen inte att rekommendera för de "
-#~ "spelare som är nya och vill få en förståelse för hur spelet vanligtvis "
-#~ "fungerar. Däremot så kan det erbjuda en intressant erfarenhet för de som "
-#~ "har spelat de vanliga kampanjerna innan."
+#~ "Per tot això, aquesta campanya no és recomanable per a jugador novells "
+#~ "que vulguen comprendre cóm sol funcionar el joc. Tanmateix, serà un nova "
+#~ "experiència per aquells jugadors que ja hagen aprés i jugat amb les "
+#~ "campanyes normals."
 
 #~ msgid "Turns run out"
-#~ msgstr "Dragen tar slut"
+#~ msgstr "Fi dels torns"
 
 #~ msgid "Remember, crew, the healing grog is stored in those barrels."
-#~ msgstr "Kom ihåg, mannar, den helande groggen är lagrad i de här tunnorna."
+#~ msgstr ""
+#~ "Recordeu, amics, la barreja curativa està guardada dins d'eixos barrils."
 
 #~ msgid "Ah, some nice, refreshing grog! *gulp*"
-#~ msgstr "Ah, lite trevlig, uppfriskande grogg! *gulp*"
+#~ msgstr "Ah, un poc de bona i refrescant barreja! *gulp*"
 
 #~ msgid "Drinking the grog heals $temp.user_description!"
-#~ msgstr "Groggen helar $temp.user_description!"
+#~ msgstr "Beure barreja sana $temp.user_description!"
+
+#~ msgid "Ha! See, I can resurrect the dead! Now fear me!"
+#~ msgstr "Ha! Veieu? Puc ressuscitar morts! Temeu-me!"
+
+#~ msgid "Amazing... so the stories are true!"
+#~ msgstr "Increïble... les històries són reals!"
+
+#~ msgid "You find 100 gold pieces in the orc's castle."
+#~ msgstr "Trobes 100 peces d'or dins del castell de l'orc."
+
+#~ msgid ""
+#~ "I will leave you now, but the fighters who fought for you will still help "
+#~ "you, they say."
+#~ msgstr ""
+#~ "Vos deixe, però els que han lluitat amb vosaltres continuaran fent-ho, "
+#~ "pel que diuen."
+
+#~ msgid ""
+#~ "Gladly! Also, there is some gold here that Kalandur was saving... you can "
+#~ "take it, since you did defeat him."
+#~ msgstr ""
+#~ "Sense cap problema! Ah, abans que m'oblide, Kanaldur solia guardar una "
+#~ "miqueta d'or dins el castell... pots agafar-lo, ja que l'has derrotat."
+
+#~ msgid "Continue... the battle... for me..."
+#~ msgstr "Continueu.... la batalla.... per mi..."
+
+#~ msgid "Unghnhhghhnghh."
+#~ msgstr "Unghhghhghhh."
+
+#~ msgid ""
+#~ "Thank you for helping us regain our land! My men that were fighting with "
+#~ "you will join you now, although I will be staying here."
+#~ msgstr ""
+#~ "Gràcies per ajudar-nos a recuperar la nostra terra! Els meus hòmens que "
+#~ "han lluitat amb tu ara volen unir-se amb tu, encara que jo romandré ací."
+
+#~ msgid ""
+#~ "They had 100 gold stored in their ship, and enough provisions to restock "
+#~ "our ship."
+#~ msgstr ""
+#~ "Tenien 100 peces d'or dins del seu vaixell, i prou queviures per "
+#~ "aprovisionar el nostre vaixell."
+
+#~ msgid "One Week"
+#~ msgstr "Una setmana"
+
+#~ msgid "We have unfinished business to attend to."
+#~ msgstr "Tenim assumptes irresoluts que requereixen la nostra atenció."
+
+#~ msgid "Ahnnhnnhn..."
+#~ msgstr "Ahnnhnnhnn..."
+
+#~ msgid "Ughnnnhnnhn..."
+#~ msgstr "Ughhhnnhnnn..."
+
+#~ msgid "Ughnhnhnhhn..."
+#~ msgstr "Ughnnnhnnhnnh..."
+
+#~ msgid "Ahnanzz..."
+#~ msgstr "Ahnanzz..."
+
+#~ msgid "Do you really want to run away?"
+#~ msgstr "Realment vols fugir?"
+
+#~ msgid "Yes"
+#~ msgstr "Sí"
+
+#~ msgid "Fall back!"
+#~ msgstr "Retirada!"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Fight on!"
+#~ msgstr "Continueu lluitant"
+
+#~ msgid "{DESC}"
+#~ msgstr "{DESC}"
+
+#~ msgid "quick, resilient"
+#~ msgstr "ràpid, resistent"
+
+#~ msgid "strong, resilient"
+#~ msgstr "fort, resistent"
+
+#~ msgid "intelligent, resilient"
+#~ msgstr "intel·ligent, resistent"
+
+#~ msgid "strong, quick"
+#~ msgstr "fort, ràpid"
+
+#~ msgid "strong, intelligent"
+#~ msgstr "fort, intel·ligent"
+
+#~ msgid "quick, intelligent"
+#~ msgstr "ràpid, intel·ligent"
+
+#~ msgid "Black Galleon"
+#~ msgstr "Galió negre"
+
+#~ msgid "ballista"
+#~ msgstr "ballista"
+
+#~ msgid "Elvish Admiral"
+#~ msgstr "Almirall elf"
+
+#~ msgid "staff"
+#~ msgstr "bastó"
+
+#~ msgid "Elvish Mariner"
+#~ msgstr "Mariner elf"
+
+#~ msgid "Elvish Navigator"
+#~ msgstr "Navegant elf"
+
+#~ msgid "War Galleon"
+#~ msgstr "Galió de guerra"
+
+#~ msgid ""
+#~ "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. "
+#~ "Their task is to hunt down pirates - or whoever they choose to call "
+#~ "pirates - and destroy them. "
+#~ msgstr ""
+#~ "L'Armada Reial de Wesnoth posseïx una poderosa flota de mortals galions "
+#~ "de guerra. La seua tasca és acaçar els pirates - o qualsevol altra cosa "
+#~ "que anomenen pirata - i destruir-lo."
+
+#~ msgid "(medium)"
+#~ msgstr "(mitjà)"
 
 #~ msgid ""
 #~ "I still cannot believe that the men of Wesnoth, or the elves, would "
 #~ "really fight to keep Elensefar under orcish control. What made them do it?"
 #~ msgstr ""
-#~ "Jag kan fortfarande inte tro att wesnotherna eller alverna skulle slåss "
-#~ "för att behålla Elensefar under orchernas kontroll. Vad fick dem att göra "
-#~ "det?"
+#~ "Encara no puc creure'm que els hòmens de Wesnoth, o els elfs, lluitarien "
+#~ "per mantenir Elensefar sota domini orc. Què els va fer actuar així?"
 
 #~ msgid ""
 #~ "That may not be the only reason. They did not initially instigate the "
@@ -2851,18 +3021,17 @@ msgstr ""
 #~ "they could not possibly defeat the orcs, so they made a peace treaty with "
 #~ "them in order to not be attacked themselves."
 #~ msgstr ""
-#~ "Det är kanske inte det enda skälet. Så vitt vi kan bedöma så var det inte "
-#~ "de som anstiftade inte orchernas attack. Deras allians bildades efteråt. "
-#~ "Och det verkar inte ha varit en riktig allians. Alverna trodde att de "
-#~ "inte skulle kunna besegra orcherna, så de gick samman med dem för att "
-#~ "inte bli själva bli anfallna."
+#~ "Potser no siga l'única raó. En un principi, ells no van instigar ni "
+#~ "afavorir l'atac orc, pel que podem dir, la seua aliança és posterior. I "
+#~ "pel que sé, no va ser una aliança de facto, sinó que volien evitar un "
+#~ "atac per parts dels orcs que pensaven que no podrien derrotar."
 
 #~ msgid ""
 #~ "So they allied with the orcs because they feared being attacked? Don't "
 #~ "they know orcs cannot be trusted?"
 #~ msgstr ""
-#~ "Så de gick samman med orcherna för att de fruktade attacker? Vet de inte "
-#~ "att man inte kan lita på orcher?"
+#~ "Per tant, van aliar-se amb els orcs perquè tenien por de ser atacats? No "
+#~ "sabien que no es pot confiar en els orcs?"
 
 #~ msgid ""
 #~ "When you are in danger of being attacked, you do not think clearly. Their "
@@ -2870,10 +3039,10 @@ msgstr ""
 #~ "an orcish attack on their own country, and something else, I am not sure "
 #~ "what, all made them willing to ally with evil."
 #~ msgstr ""
-#~ "När du är rädd för en attack så tänker du inte klart. Deras attack hade "
-#~ "blandade motiv, skulle jag tro. Hatet mot Meneldur, rädslan för en "
-#~ "orchattack på deras hemland, och något annat som jag inte vet vad det är. "
-#~ "Allt detta gjorde att de var villiga att liera sig med ondskan."
+#~ "Quan penses que un atac és imminent, no penses amb claredat. El seu atac "
+#~ "va ser, més aviat, una mescla de motius. Odi a Meneldur, por d'un atac "
+#~ "orc al seu mateix país, i alguna cosa, no estic segur quina, tot plegat "
+#~ "els va obrir a aliar-se amb el mal."
 
 #~ msgid ""
 #~ "I would. We do not know the circumstances of the alliance, nor even to "
@@ -2881,39 +3050,44 @@ msgstr ""
 #~ "undead is not, from our view, evil, but the circumstances are very "
 #~ "similar."
 #~ msgstr ""
-#~ "Det gör jag. Vi kan inte påstå oss veta under vilka förutsättningar deras "
-#~ "allians bildades, eller ens säga om alliansen i sig var ond. När allt "
-#~ "kommer omkring så är ju inte vår allians med de vandöda ond, ur vår "
-#~ "synvinkel, men förutsättningarna är snarlika."
+#~ "Jo ho faria. No coneixem les circumstàncies dels seu tractat de pau, i no "
+#~ "podem dir si aquesta aliança, si realment va ser-ho, haguera sigut "
+#~ "malvada. Després de tot, la nostra aliança amb els no morts, des del "
+#~ "nostre punt de vista, no és roïna, però les circumstàncies són bastant "
+#~ "similars."
 
 #~ msgid ""
 #~ "I see, Meneldur. Well, I can see, in a distorted way, why the elves "
 #~ "attacked us. But why were the humans willing to discard our old alliance "
 #~ "in favor of one with orcs?"
 #~ msgstr ""
-#~ "Jag förstår vad du säger, Melendur. Nåja, jag kan förstå hur alverna på "
-#~ "ett förvrängt sätt valde att anfalla oss. Men varför valde människorna "
-#~ "att förkasta sina gamla pakter för att istället ingå en med orcherna?"
+#~ "Ho entenc, Meneldur. Bé, no deixa de ser un embolic, però crec que ja "
+#~ "comprenc per què els elfs ens van atacar. Però per què estaven els humans "
+#~ "disposats a deixar de banda el nostre antic tractat i atacar-nos davant "
+#~ "d'els orcs?"
 
 #~ msgid "Well, we did attack them, multiple times."
-#~ msgstr "Nå, vi anföll dem faktiskt, flera gånger."
+#~ msgstr ""
+#~ "Bé, nosaltres també els vam atacar, i unes quantes vegades. Encara que va "
+#~ "ser en defensa pròpia."
 
 #~ msgid "Again, why does that give them reason to sacrifice our city?"
-#~ msgstr "Men, varför skulle det ge dem skäl att offra vår stad?"
+#~ msgstr "Bé, sí, i això era prou motiu per sacrificar la nostra ciutat?"
 
 #~ msgid ""
 #~ "We are not even sure they planned on doing that. They may have wished to "
 #~ "defeat us first, then attack the orcs. Indeed, the elves and humans could "
 #~ "have both had that plan."
 #~ msgstr ""
-#~ "Vi vet inte att de planerade att göra det. De kan ha önskat besegra oss "
-#~ "först och sedan anfalla orcherna. Både alverna och människornas kan "
-#~ "faktiskt ha planerat det så."
+#~ "No ho sabem segur si planejaven fer-ho. Potser desitjaven derrotar-nos "
+#~ "primer i atacar després els orcs. De fet, els humans i els elfs podrien "
+#~ "haver tingut un pla en comú."
 
 #~ msgid ""
 #~ "That is called treachery, and would not excuse alliance with the orcs."
 #~ msgstr ""
-#~ "Det kallas förräderi och är inte en ursäkt för att gå samman med ondskan."
+#~ "Això es sol anomenar traïció, i no es cap excusa que justifique un "
+#~ "tractat amb els orcs."
 
 #~ msgid ""
 #~ "I agree that it would be treachery, but I think it is not what they "
@@ -2922,79 +3096,48 @@ msgstr ""
 #~ "actually planned on an alliance with an orcish state, because that would "
 #~ "allow them to create provinces in the north unopposed."
 #~ msgstr ""
-#~ "Jag håller med om att det skulle vara förräderi, men jag tror inte att de "
-#~ "planerade det. Wesnoths människor ser inte på gott och ont som vi gör. "
-#~ "För dem så är det som gynnar Wesnoth gott och det som skadar Wesnoth är "
-#~ "ont. De planerade antagligen en allians med en orchernas stat, eftersom "
-#~ "det skulle ge dem möjlighet att skaffa sig provinser i norr utan motstånd."
+#~ "Estic d'acord en que és traïció, però estic segur que no és això el "
+#~ "tenien planejat. Els hòmens de Wesnoth no entenen el bé i el mal com "
+#~ "nosaltres. Segons la seua visió del mon, és bo tot allò que beneficia "
+#~ "Wesnoth, i roin allò que li perjudica. Potser havien pensat en fer una "
+#~ "aliança permanent amb l'estat orc, perquè això els permetria establir "
+#~ "províncies en el nord sense cap mena d'oposició."
 
 #~ msgid ""
 #~ "Well, I must be going. I do have a ship to load, and an army to disarm."
 #~ msgstr ""
-#~ "Nå, jag måste bege mig. Jag har ett skepp att lasta och en armé att "
-#~ "avväpna."
+#~ "Bé, he d'anar-me. Hi ha un vaixell que carregar, i un exèrcit que "
+#~ "acomiadar."
 
-#~ msgid "Ha! See, I can resurrect the dead! Now fear me!"
-#~ msgstr "Ha! Se, jag kan väcka de döda! Frukta mig nu!"
+#~ msgid "impact"
+#~ msgstr "impact"
 
-#~ msgid "Amazing... so the stories are true!"
-#~ msgstr "Fantastiskt... Så legenderna är sanna!"
+#~ msgid "Duelist"
+#~ msgstr "Duelista"
 
-#~ msgid "You find 100 gold pieces in the orc's castle."
-#~ msgstr "Du finner 100 guld i orchborgen."
-
-#~ msgid ""
-#~ "I will leave you now, but the fighters who fought for you will still help "
-#~ "you, they say."
-#~ msgstr ""
-#~ "Jag lämnar er nu, men krigarna som har slagits med dig stannar och "
-#~ "hjälper dig, säger de."
+#~ msgid "skirmisher"
+#~ msgstr "esquiva"
 
 #~ msgid ""
-#~ "Gladly! Also, there is some gold here that Kalandur was saving... you can "
-#~ "take it, since you did defeat him."
+#~ "Duelists are masters of the art of swordplay. Their skill with the rapier "
+#~ "allows them to attack and parry with only one hand, while they wield a "
+#~ "crossbow in the other to shoot distant foes."
 #~ msgstr ""
-#~ "Gärna! Kalandur har dessutom lite guld undanstoppat här... Du kan ta det "
-#~ "- det var du som besegrade honom."
+#~ "Els duelistes són mestres de l'art de l'espasa. La seua habilitat amb "
+#~ "l'estoc els permet atacar i parar els cops amb una mà només, mentre duen "
+#~ "en l'altra una ballesta per disparar els enemics a distància."
 
-#~ msgid "Continue... the battle... for me..."
-#~ msgstr "Fortsätt...striden...åt mig...."
+#~ msgid "rapier"
+#~ msgstr "estoc"
 
-#~ msgid "Unghnhhghhnghh."
-#~ msgstr "Unghnhhghhnghh."
+#~ msgid "blade"
+#~ msgstr "talla"
 
-#~ msgid ""
-#~ "Thank you for helping us regain our land! My men that were fighting with "
-#~ "you will join you now, although I will be staying here."
-#~ msgstr ""
-#~ "Tack för att du hjälpte oss att återfå vårt land! De av mina mannar som "
-#~ "har slagits med er följer med er, men jag stannar här."
+#~ msgid "crossbow"
+#~ msgstr "ballesta"
 
-#~ msgid ""
-#~ "They had 100 gold stored in their ship, and enough provisions to restock "
-#~ "our ship."
-#~ msgstr ""
-#~ "De hade 100 guldstycken i skeppslasten, och tillräckligt med mat för att "
-#~ "fylla våra förråd."
+#~ msgid "pierce"
+#~ msgstr "perfora"
 
-#~ msgid "One Week"
-#~ msgstr "En vecka"
-
-#~ msgid "We have unfinished business to attend to."
-#~ msgstr "Vi har ouppklarade saker att ta hand om."
-
-#~ msgid "Do you really want to run away?"
-#~ msgstr "Vill du verkligen fly?"
-
-#~ msgid "Yes"
-#~ msgstr "Ja"
-
-#~ msgid "Fall back!"
-#~ msgstr "Tillbaka!"
-
-#~ msgid "No"
-#~ msgstr "Nej"
-
-#~ msgid "Fight on!"
-#~ msgstr "Kom igen! Fortsätt slåss!"
-
+#~ msgid "leadership"
+#~ msgstr "lideratge"
