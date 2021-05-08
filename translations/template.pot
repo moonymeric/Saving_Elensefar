@@ -1890,23 +1890,3 @@ msgstr ""
 msgid "Expert level, 4 to 22 scenarios (depending of route taken)"
 msgstr ""
 
-#. [about]
-#: Saving_Elensefar/about.cfg:3
-msgid "Campaign Design"
-msgstr ""
-
-#. [about]
-#: Saving_Elensefar/about.cfg:10
-msgid "WML Contribution"
-msgstr ""
-
-#. [about]
-#: Saving_Elensefar/about.cfg:33
-msgid "Translations"
-msgstr ""
-
-#. [about]
-#: Saving_Elensefar/about.cfg:93
-msgid "Campaign Maintenance"
-msgstr ""
-
