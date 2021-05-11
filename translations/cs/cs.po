@@ -2,18 +2,18 @@
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: cs\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-08 01:52 UTC\n"
-"PO-Revision-Date: 2009-02-04 21:47+0100\n"
-"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
-"Language-Team:  <cs@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-05-11 22:05+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #. [unit_type]: id=Caravel, race=mechanical
 #: Saving_Elensefar/units/Caravel.cfg:4
@@ -27,9 +27,9 @@ msgid ""
 "skill, it moves faster in the water than most vessels, but is structurally "
 "weaker, and will be sunk easier than a man-made ship."
 msgstr ""
-"Průzkumník je lodí Meneldura Mořeplavce. Díky zručnosti jejích elfích "
-"stavitelů pluje rychleji než většina lodí, ale je křehčí a může být snadněji "
-"potopena než lodě vyrobené lidmi."
+"Průzkumník je výtvorem Meneldura Námořníka. Tento výrobek loďařského elfího "
+"umění se pohybuje ve vodě rychleji než většina plavidel, ale je křehčí a "
+"může být snadněji potopen než loď vyrobená lidskýma rukama."
 
 #. [scenario]: id=sea_voyage_2
 #. [label]
@@ -41,7 +41,7 @@ msgstr "Skřetí hory"
 #. [unit]: type=Orcish Warrior, id=Dur-Kal
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:68
 msgid "Dur-Kal"
-msgstr ""
+msgstr "Dur-Kal"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:90
@@ -121,14 +121,14 @@ msgstr "Madru zemře"
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:100
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:103
 msgid "Death of Black the Red"
-msgstr "Černý Red zemře"
+msgstr "Rudý Černes zemře"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:116
 msgid "Orcs are here! Orcs, what do you know about the fall of Elensefar?"
 msgstr ""
 "Jsou tu skřeti!\n"
-"Co víte skřetáci o pádu Elensefaru?"
+"Skřeti, co víte o pádu Elensefaru?"
 
 #. [message]: speaker=Dur-Kal
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:120
@@ -142,20 +142,18 @@ msgstr "Tak dobře. Ať bitva započne. "
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:133
-
 msgid ""
 "We have defeated all enemies, we have plenty of time to restock the ship "
 "now. We can train our troops here for a few days."
 msgstr ""
-"Teď máme fůru času k doplňení zásob na lodi. Můžem tu pár dní trénovat "
-"vojáky."
+"Porazili jsme všechny nepřátele, máme teď fůru času k doplnění lodních "
+"zásob. A můžem tu pár dní trénovat vojáky."
 
 #. [scenario]: id=sea_battle
 #: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:3
 msgid "Sea Battle"
-msgstr "Námořní bitva"
+msgstr "Mořská bitva"
 
-# v tomto scénáři se spojí s Redem, proto ne šarvátka
 #. [scenario]: id=sea_voyage_-2
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:3
 msgid "A Naval Engagement"
@@ -168,7 +166,7 @@ msgstr "Námořní spojenectví"
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:88
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:755
 msgid "Black the Red"
-msgstr "Černý Red"
+msgstr "Rudý Černes"
 
 #. [unit]: type=Lieutenant, id=Aldran
 #. [unit]: type=Transport Galleon
@@ -183,15 +181,15 @@ msgid ""
 "Why do you stop us? We seek help. I come from Elensefar, which, as far as we "
 "can tell, was just captured by orcs!"
 msgstr ""
-"Proč nás zastavujete? Hledáme pomoc. Jsme z Elensefaru, který byl, aspoň co "
-"víme, právě obsazen skřety!"
+"Proč nás zastavujete? Hledáme pomoc. Jsme z Elensefaru, který je, aspoň co "
+"víme, právě obsazen skřety! "
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:166
 msgid ""
 "You are interfering with our mission; we are trying to chase down this "
 "magician pirate."
-msgstr "Vstoupili jste do naší mise, snažíme se zajmout tohodle magika piráta."
+msgstr "Vstoupili jste do naší mise, snažíme se zajmout tohodle piráta magika."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:170
@@ -208,7 +206,7 @@ msgid ""
 "You dog, don't bother us with your lies! You attacked a ship of the Royal "
 "Navy with your spells, and now you will pay for it!"
 msgstr ""
-"Pse, nekrm nás svými lžemi! Zaútočil jsi na loď Královského námořnictva "
+"Pse, nekrm nás svými lžemi! Zaútočil jsi na loď královského námořnictva "
 "svými kouzly a teď za to zaplatíš!"
 
 #. [message]: speaker=Meneldur
@@ -217,15 +215,15 @@ msgid ""
 "I need loyal warriors from Elensefar to help me on my quest. Black the Red, "
 "do you want to join me in retaking Elensefar from these orcs?"
 msgstr ""
-"Potřebuji pro svůj úkol pomoc oddaných válečníků z Elensefaru. Chceš se "
-"připojit ke mně a pokusit se osvobodit Elensefar od skřetů, Černý Rede?"
+"Potřebuji pro svůj úkol pomoc oddaných válečníků z Elensefaru. Chceš se ke "
+"mně připojit a pokusit se osvobodit Elensefar od skřetů Rudý Černesi?"
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:182
 msgid ""
 "Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
 msgstr ""
-"Takže vlastně sháníš psance! Ty Elensiáni jsou všichni stejná verbež. "
+"Takže vlastně sháníš psance! Ti elensiáni jsou všichni stejná verbež. "
 "Vojáci, zničte je! "
 
 #. [message]: speaker=Meneldur
@@ -240,8 +238,9 @@ msgid ""
 "fiercely loyal to it. They will be good fighters. I will join, if you'll "
 "have me."
 msgstr ""
-"Pochází z... ehm, méně bohatých vrstev Elensefaru. Ale jsou mu stále zuřivě "
-"oddáni. Budou dobře bojovat. Připojím se k tobě, pokud o to budeš stát."
+"Pochází z... ehm <i>méně bohatých vrstev</i> Elensefaru. Ale jsou stále mu "
+"stále zuřivě oddáni. Budou dobře bojovat. Připojím se k tobě, pokud o to "
+"budeš stát."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:194
@@ -277,8 +276,8 @@ msgid ""
 "you from death, and now we have the men of Wesnoth against us in return."
 msgstr ""
 "Vyrazíme na moře a seženeme dostatečně velkou armádu pro osvobození "
-"Elensefaru. Ty jsi Elensián, že? Myslím, že nám dlužíš svou pomoc. Právě "
-"jsme tě zachránili před smrtí a nyní díky tomu jdou wesnotští vojáci i po "
+"Elensefaru. Ty jsi elensián, že? Myslím, že nám dlužíš svou pomoc. Právě "
+"jsme tě zachránili před smrtí a teď kvůli tomu jdou wesnothští vojáci i po "
 "nás."
 
 #. [message]: speaker=Black
@@ -305,7 +304,7 @@ msgid ""
 "I can't tell you until we reach the Western isle I told you about. That's "
 "part of the fun."
 msgstr ""
-"Nemohu ti ji říct dokud nedosáhneme Západního ostrova, o kterém jsem "
+"Nemohu ti jí říct dokud nedosáhneme západního ostrova, o kterém jsem "
 "povídal. Ber to jako součást celé „zábavy“."
 
 #. [message]: speaker=Meneldur
@@ -315,8 +314,8 @@ msgid ""
 "will honor your request, whatever it may be, whenever we reach this Western "
 "island and you secure the help of the warriors that live there.' Happy?"
 msgstr ""
-"Oh, dobře ... Přísahám na mé město Elensefar a mou čest námořníka, že "
-"vyplním tvou prosbu, jakákoli bude, jakmile dosáhneme toho Západního ostrova "
+"Oh, dobře... Přísahám na své město Elensefar a svou čest námořníka, že "
+"vyplním tvou prosbu, jakákoli bude, jakmile dosáhneme toho západního ostrova "
 "a ty zajistíš pomoc zdejších válečníků. Spokojen?"
 
 #. [message]: speaker=Black
@@ -333,12 +332,12 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:672
 msgid "Wesnothian Forces"
-msgstr "Wesnothská vojska"
+msgstr "Wesnothské síly"
 
 #. [unit]: type=General, id=Thandor
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:64
 msgid "Thandor"
-msgstr ""
+msgstr "Thandor"
 
 #. [message]: speaker=Thandor
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:112
@@ -347,9 +346,9 @@ msgid ""
 "Elensefar is not yet destroyed. The orcs are using it as their base for "
 "attacking us."
 msgstr ""
-"Zdravím tě zrádče. Mám pro tebe zprávy, které podle mě budeš považovat za "
-"dobré. Elensefar nebyl zničen. Skřeti ho využívají jako základnu k výpadům "
-"proti nám."
+"Zdravím tě, zrádče. Mám pro tebe zprávu, o které předpokládám, že ji budeš "
+"považovat za dobrou. Elensefar ještě není zničen. Skřeti ho používají jako "
+"základnu pro výboje na naše území."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:116
@@ -357,13 +356,13 @@ msgid ""
 "So that means you have heard of our suppposed rebellion. Let us not waste "
 "time; shall we commence battle?"
 msgstr ""
-"To znamená, že jsi slyšel o naší takzvané zradě. Neztrácejme čas, můžem "
-"začít s bitvou?"
+"To znamená, že jsi slyšel o naší údajné vzpouře.\n"
+"Neztrácejme čas, zahájíme bitvu?"
 
 #. [message]: speaker=Thandor
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:120
 msgid "Gladly. Prepare to die!"
-msgstr "Rozhodně. Připrav se na smrt!"
+msgstr "S radostí. Připrav se na smrt!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:129
@@ -371,8 +370,8 @@ msgid ""
 "I fear we must wipe out all of the Wesnothian troops on this isle, or they "
 "will follow us and attack our ship. Onward!"
 msgstr ""
-"Se bojim, že musíme na tomto ostrově vymlátit všechny wesnotské vojáky. Nebo "
-"nás budou pronásledovat a útočit na naši loď. Kupředu!"
+"Obávám se, že musíme vyhladit všechny wesnothský jednotky na tomhle ostrově. "
+"Jinak nás budou následovat a útočit na naši loď. Kupředu!"
 
 #. [scenario]: id=sea_voyage_14
 #. [label]
@@ -389,12 +388,12 @@ msgstr "Ah-Reblak"
 #. [unit]: type=Orcish Warlord, id=Bahtak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:125
 msgid "Bahtak"
-msgstr ""
+msgstr "Bahtak"
 
 #. [unit]: type=Orcish Warlord, id=Ahtanuk
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:140
 msgid "Ahtanuk"
-msgstr ""
+msgstr "Ahtanuk"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:157
@@ -417,8 +416,8 @@ msgid ""
 "Black, why have you brought us here?!? This is just a remnant of a town, and "
 "there are no warriors here, just undead and orcs!"
 msgstr ""
-"Rede, proč jsi nás sem zavedl? Vidím jen zbytky a trosky města a nejsou tu "
-"žádní válečníci, jen nemrtví a skřeti!"
+"Černesi, proč jsi nás sem zavedl? Vidím jen zbytky a trosky města a nejsou "
+"tu žádní válečníci, jen nemrtví a skřeti!  "
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:191
@@ -437,7 +436,8 @@ msgid ""
 "You mean those undead over there are 'Wesfolk'? As in the Wesfolk who came "
 "over with Lady Jessica?"
 msgstr ""
-"Říkáš těmhle nemrtvým „Wesani“? Jako ti Wesani, co připluli s paní Jessikou?"
+"Nazýváš tadyty nemrtvé jako „Wesany“? Jako ty Wesany, co připluli s paní "
+"Jesenou?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:199
@@ -445,7 +445,7 @@ msgid ""
 "I would assume that is what he means, yes. So, Black, you've brought us here "
 "to have these Wesfolk help us?"
 msgstr ""
-"Předpokládám, že přesně tak to myslí. Tak Rede, vzal jsi nás sem, abysme "
+"Předpokládám, že přesně tak to myslí. Tak Černesi, vzal jsi nás sem, abysme "
 "získali pomoc těchto Wesanů?"
 
 #. [message]: speaker=Black
@@ -484,8 +484,7 @@ msgid ""
 "These are not Islefolk, brother, they are descendants of the Wesfolk who "
 "came over with Lady Jessica."
 msgstr ""
-"To nejsou Ostrované, bratře, to jsou potomci Wesanů co odpluli s paní "
-"Jessikou."
+"To nejsou Ostrované bratře, to jsou potomci Wesanů co odpluli s paní Jesenou."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:227
@@ -493,7 +492,7 @@ msgid ""
 "What!? Followers of that deserter!? I can't believe you think we would help "
 "them!"
 msgstr ""
-"Cože? Následovníci té desertérky? Nemůžu věřit, že si myslíš, že bysme jim "
+"Cože? Následovníci té dezertérky? Nemůžu věřit, že si myslíš, že bysme jim "
 "pomohli!"
 
 #. [message]: speaker=Black
@@ -512,7 +511,7 @@ msgid ""
 "'deserters'."
 msgstr ""
 "Věř mi, netěší mě pomáhat nemrtvým o moc víc než tobě pomáhat nám "
-"„desertérům“."
+"„dezertérům“."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:239
@@ -555,9 +554,9 @@ msgid ""
 "off of this island. The one I went out on was our last, and we can't make "
 "more."
 msgstr ""
-"To je pravda. Myslím, že nejlepší by bylo, kdyby jsme měli dost lodí, abysme "
-"z tohodle ostrova odešli. Ta na které jsem minule odplul byla naše poslední "
-"a my neumíme vyrobit další."
+"To je pravda. Myslím, že nejlepší by bylo, kdybychom měli dost lodí, abychom "
+"z tohodle ostrova odešli. Ta, na které jsem minule odplul, byla naše "
+"poslední a my neumíme vyrobit další."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:282
@@ -565,7 +564,7 @@ msgid ""
 "Well, I am a shipbuilder. I could help you build more ships, and then you "
 "could bring all of your people back east with us."
 msgstr ""
-"No já jsem i stavitel lodí. Mohu vám pomoct postavit dost lodí a pak můžete "
+"No, já jsem i stavitel lodí. Mohu vám pomoct postavit dost lodí a pak můžete "
 "vzít všechny vaše lidi na východ zpět s námi."
 
 #. [message]: speaker=Black
@@ -583,18 +582,17 @@ msgstr "Takže platí. Ale pak nám musíte pomoct bojovat se skřety!"
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:676
 msgid "A King's Demand"
-msgstr "Královský požadavek"
+msgstr "Králův požadavek"
 
 #. [unit]: type=Lieutenant, id=Handran
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:77
-
 msgid "Handran"
-msgstr "Aldran"
+msgstr "Handran"
 
 #. [unit]: type=General, id=Narian
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:92
 msgid "Narian"
-msgstr ""
+msgstr "Narian"
 
 #. [message]: speaker=Narian
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:140
@@ -602,7 +600,7 @@ msgid ""
 "It is the traitor who killed Aldran and Thendol approaching! Prepare to "
 "destroy him."
 msgstr ""
-"Ten zrádce, co zabil Aldrana a Thendola se blíží! Připravte se ho zničit."
+"Ten zrádce, který zabil Aldrana a Thendola, se blíží! Připravte se ho zničit."
 
 #. [message]: speaker=Narian
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:144
@@ -612,9 +610,10 @@ msgid ""
 "Elensefar. But you must pledge allegiance to the Throne again, and agree to "
 "aid it in its battles."
 msgstr ""
-"Meneldure! Přináším poselství od krále! Pokud se teď vzdáš, tvůj život bude "
-"ušetřen. Král ti dokonce chce pomoci v tvé snaze znovu získat Elensefar. Ale "
-"musíš znovu slíbit věrnost trůnu a zavázat se k pomoci v královských bitvách."
+"Meneldure! Nesu zprávu od krále! Pokud se teď vzdáš, tvůj život bude "
+"ušetřen. Král je dokonce ochoten vám pomoci při znovuzískání Elensefaru. "
+"Musíte však znovu slíbit věrnost trůnu a souhlasit, že mu pomůžete v jeho "
+"bitvách."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:148
@@ -622,15 +621,15 @@ msgid ""
 "Hah! And what will you do with me and my kind, who have joined with Meneldur "
 "and are bound to him? Doubtlessly you would kill us."
 msgstr ""
-"Ha! A co uděláte se mnou a mými bratry, kteří jsme se k Meneldurovi "
-"připojili a stali se jeho spojenci? Bezpochyby nás zabijete."
+"Hleďme! A co uděláš se mnou a mými druhy, kteří se připojili k Meneldurovi "
+"pod jednu vlajku? Nepochybně byste nás zabili."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:152
 msgid ""
 "He is right. We can defeat these forces, and rid this area of their lordship."
 msgstr ""
-"Má pravdu. Můžem tyhle vojáky porazit a zbavit tuto oblast jejich nadvlády."
+"Má pravdu. Můžem tyhle síly porazit a zbavit tuhle oblast jejich panství."
 
 #. [message]: speaker=Handran
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:156
@@ -639,33 +638,32 @@ msgid ""
 "further up the isle... I tell you, if you refuse this you are a dead man, "
 "whether I die or not."
 msgstr ""
-"Tvou loď zajmou jiní z nás. Nevíš, co na tebe čeká dál na ostrově... říkám "
-"ti, jestli odmítneš, jsi mrtvý muž, ať zemřu nebo přežiju."
+"Tvou loď zajali další z nás. Nevíš, co tě čeká dále na ostrově... Říkám ti, "
+"pokud odmítneš, jsi mrtvý muž, ať už zemřu nebo ne."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:160
 msgid "Your threats do not scare me. Prepare for battle, men!"
-msgstr "Vaše výhružky mě nepostraší. Připravte se k boji!"
+msgstr "Vaše hrozby mě neděsí. Připravte se na bitvu, muži!"
 
-# She?
 #. [message]: speaker=Narian
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:164
 msgid ""
 "Very well, you have chosen. Handran, send a scout to the leader and tell her "
 "Meneldur has refused our offer. She will be most displeased."
 msgstr ""
-"Dobrá, vybral sis. Handrane pošli posla k velitelce a vzkaž, že Meneldur "
-"odmítl naši nabídku. Bude hrozně nespokojená."
+"Dobře, vybral sis. Handrane, pošli k vůdkyni průzkumníka, ať jí vzkáže, že "
+"Meneldur odmítl naši nabídku. Nebude se jí to líbit."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:176
 msgid "I wonder what that was all about..."
-msgstr "Divím se, o co všechno se tu jedná..."
+msgstr "Zajímalo by mě, o co tu šlo..."
 
 #. [unit]: type=Swordsman, id=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:195
 msgid "Conscript"
-msgstr ""
+msgstr "Branec"
 
 #. [message]: speaker=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:222
@@ -674,9 +672,6 @@ msgid ""
 "killed. If you leave us now, we will probably die, since only they knew how "
 "to command our ship. Have mercy, and help us!"
 msgstr ""
-"Meneldure! Vypadá to, že naši velitelé a nejlepší bojovníci jsou mrtví. "
-"Pokud nás tu necháš, pravděpodobně zemřeme. Jen oni uměli řídit naši loď. "
-"Smiluj se a pomoz nám!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:226
@@ -684,19 +679,17 @@ msgid ""
 "What would you have me do? Give you navigators to help you? Why would I do "
 "that for an enemy?"
 msgstr ""
-"Co bych pro vás měl udělat? Poskytnout vám navigátory? Proč bych to měl pro "
-"nepřátele dělat?"
 
 #. [message]: speaker=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:230
 msgid ""
 "Well, why don't you let us join you? There is nothing else for us to do."
-msgstr "No a proč nás nenecháš se k tobě přidat? Nemáme žádnou jinou možnost."
+msgstr ""
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:234
 msgid "Wouldn't that make you a traitor?"
-msgstr "Nestanou se z vás tím zrádci?"
+msgstr ""
 
 #. [message]: speaker=Conscript
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:238
@@ -704,8 +697,6 @@ msgid ""
 "No, since I don't think you are traitors, and my commander is dead. It is "
 "just joining another battalion."
 msgstr ""
-"Ne, protože já si nemyslím, žes zrádce a můj velitel je mrtev. Pouze se "
-"připojíme jakoby k jiné jednotce."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:242
@@ -713,14 +704,14 @@ msgid ""
 "Well, if he puts it that way, why should we refuse? We can always use fresh "
 "recruits."
 msgstr ""
-"No jestli to předkládá takhle, můžem odmítnout? Čerství rekruti jsou pro nás "
-"vždy užiteční."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:246
 msgid ""
 "Very well... now, we will move further down the peninsula to regain our ship."
-msgstr "Dobrá tedy... tak teď půjdeme dál z poloostrova a znovu se nalodíme."
+msgstr ""
+"Velmi dobře... teď se přesuneme dál do nitra poloostrova, abychom znovu "
+"získali svou loď."
 
 #. [scenario]: id=sea_voyage_7
 #. [label]
@@ -732,12 +723,12 @@ msgstr "Smrtící aliance"
 #. [unit]: type=Elvish Marshal, id=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:87
 msgid "Alandur"
-msgstr ""
+msgstr "Alandur"
 
 #. [unit]: type=Orcish Warlord, id=Kra-Drano
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:102
 msgid "Kra-Drano"
-msgstr ""
+msgstr "Kra-Drano"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:150
@@ -745,8 +736,8 @@ msgid ""
 "Alandur! I suppose you want to battle? Very well, but there are orcs here "
 "also. How about we kill them first, then battle?"
 msgstr ""
-"Alandure! Přepokládám, že chceš bojovat? Dobře, ale jsou tu i skřeti. Což "
-"nejdřív pobít je a pak až bojovat spolu?"
+"Alandure! Předpokládám, že se chystáš na bitvu? Velmi dobře, ale jsou zde "
+"také skřeti. Co kdybychom je nejprve zabili, než se pustíme do sebe?"
 
 #. [message]: speaker=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:154
@@ -755,16 +746,16 @@ msgid ""
 "destroyed it, we would. But, those on the mainland have proved extremely "
 "resistant to attacks."
 msgstr ""
-"Mohli bysme to tak udělat, pokud by skřeti neokupovali Elensefar po jeho "
-"dobytí, ale radši ho zničili. A ti na pevnině ukázali, jak jsou extrémně "
-"odolní vůči útokům."
+"No, pokud by skřeti neobsadili Elensefar, když to dobili, ale spíše ho "
+"zničili, udělali bychom to. Ale ti na pevnině se ukázali extrémně odolní "
+"vůči útokům."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:158
 msgid ""
 "Why does that matter? All that's important is that they're going to kill "
 "you, too!"
-msgstr "A co na tom záleží? Snad je důležitý, že se vás taky chystají zabít!"
+msgstr "Proč na tom záleží? Důležité je jen to, že se vás chystají také zabít!"
 
 #. [message]: speaker=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:162
@@ -773,14 +764,13 @@ msgid ""
 "bad form to attack the relatives of those who you are trying to make a "
 "bargain with!"
 msgstr ""
-"Kdepak, právě jsme sjednali mírovou smlouvu se skřety. A neprospělo by to "
-"ničemu šikovat se k útoku na příbuzné těch, s kterými se pokoušíme dál "
-"vyjednávat!"
+"Ne, v současné době uzavíráme se skřety mírovou smlouvu. A bylo by špatným "
+"tahem zaútočit na příbuzné těch, s nimiž se snažíš domluvit!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:166
 msgid "But these orcs are probably from a completely different tribe!"
-msgstr "Ale tito skřeti jsou nejspíš z úplně jiného kmene!"
+msgstr "Ale tyto skřeti jsou nejspíš z úplně jiného kmene!"
 
 #. [message]: speaker=Alandur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:170
@@ -788,8 +778,8 @@ msgid ""
 "We can't take that chance! These orcs claim to be allies with the ones in "
 "Elensefar, so we MUST ally with them."
 msgstr ""
-"Nemůžeme zahodit takovou šanci! Tito skřeti se prohlásili za spojence těch, "
-"co jsou v Elensefaru, tudíž my se MUSÍME spojit s nimi."
+"Nemůžeme tu šanci promarnit! Tito skřeti tvrdí, že jsou spojenci s těmi v "
+"Elensefaru, takže se s nimi spojit MUSÍME."
 
 #. [message]: speaker=Kra-Drano
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:174
@@ -797,7 +787,8 @@ msgid ""
 "Uh, yeah, of course... we be da same tribe... uh... Prepare to die, stupid "
 "dog-man!"
 msgstr ""
-"Jo, jasně... my ten samej jeden kmen... uh... připrav se zgebnout hloupý pse!"
+"Uh, jo, jasně... my ze stejného kmene... uh... Připrav se na smrt, hloupý "
+"pse!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:186
@@ -806,9 +797,8 @@ msgid ""
 "on our own against them. And these elves, since we are their enemies anyway, "
 "must die."
 msgstr ""
-"Takže elfové se také vzdali pokusů zastavit skřety... vypadá to, že jsme "
-"proti nim sami. A tito elfové, pro které jsme beztak jen nepřátele, musí "
-"zemřít."
+"Takže elfové se také vzdali snahy zastavit skřety... Zdá se, že jsme proti "
+"nim sami. A tito elfové, pro které jsme tak jako tak nepřáteli, musí zemřít."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:193
@@ -816,8 +806,8 @@ msgid ""
 "The elves are willing to surrender Elensefar to orcs, just because they "
 "began to lose a few battles? We really need to get back there, soon."
 msgstr ""
-"Elfové byli ochotni přenechat Elensefar skřetům jen proto, že prohráli "
-"několik bitev? Opravdu se tam musíme brzy vrátit."
+"Elfové jsou ochotni nechat Elensefar skřetům jen proto, že prohráli pár "
+"bitev? Opravdu se tam musíme brzy vrátit..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:200
@@ -825,8 +815,8 @@ msgid ""
 "If we can just get to the western isle I spoke of, we may be able to defeat "
 "this alliance."
 msgstr ""
-"Pokud se dostaneme na ten můj zmiňovaný západní ostrov, budeme moci porazit "
-"tuto alianci."
+"Pokud se dostaneme na západní ostrov, o kterém jsem mluvil, můžeme být "
+"schopni porazit tuto alianci."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:216
@@ -835,15 +825,14 @@ msgid ""
 "sea. We probably won't see them until we reach Elensefar... we will have "
 "many enemies when we get there."
 msgstr ""
-"Když je Alandur mrtev, myslím, že jsme pobili všechny elfy, co byli schopní "
-"plout po moři. Asi je nejspíš už neuvidíme, dokud zase nepřiplujeme k "
-"Elensefaru...\n"
-"... a budeme tam mít opravdu hodně nepřátel."
+"Teď, když je Alandur mrtvý, myslím, že jsme porazili všechny elfy, kteří se "
+"plavili po moři. Pravděpodobně už je neuvidíme, dokud nedosáhneme "
+"Elensefaru... Budeme mít mnoho nepřátel, až se tam dostaneme."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-2_Deadly_Alliance.cfg:223
 msgid "Well, we won, but things might go badly for us later..."
-msgstr "Zvítězili jsme, ale v budoucnu můžeme čekat špatné věci..."
+msgstr "No, vyhráli jsme, ale později se naše situace může zhoršit..."
 
 #. [scenario]: id=sea_voyage_6
 #. [label]
@@ -855,7 +844,7 @@ msgstr "Zrádci"
 #. [unit]: type=Elvish Marshal, id=Kalandur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:70
 msgid "Kalandur"
-msgstr ""
+msgstr "Kalandur"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:125
@@ -863,7 +852,7 @@ msgid ""
 "What? So, if it isn't my old friend Kalandur... are there any more "
 "Wesnothians on this island, or have they given up trying to stop us?"
 msgstr ""
-"Ale? Jestli to není můj starý přítel Kalandur... jsou na tomto ostrově "
+"Ale? Jestli to není můj starý přítel Kalandur ... jsou na tomto ostrově "
 "nějací další Wesnoťané nebo už vzdali pokusy nás zastavit?"
 
 #. [message]: speaker=Kalandur
@@ -877,8 +866,8 @@ msgid ""
 "So say you. Well, Black, we'd better go. Its best not to kill more elves; "
 "even if we defeat them, it will just make the rest even angrier at us."
 msgstr ""
-"Jak říkáš. No, Rede, měli bysme odejít. Nebylo by dobré zabíjet elfy. I "
-"kdyby jsme je porazili, ti zbylí by se na nás jen víc naštvali."
+"Jak říkáš. No, Czerne, měli bysme jít. Bylo by nejlepší nezabíjet další "
+"elfy. I kdyby jsme je porazili, ti zbylí by se na nás jen víc naštvali."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:140
@@ -905,8 +894,8 @@ msgid ""
 "Kalandur here thinks I betrayed Elfkind by aiding Elensefar. He's going to "
 "fight us. We have to leave."
 msgstr ""
-"Tady Kalandur myslí, že jsem tím, jak pomáhám Elensefaru zradil elfí rod. "
-"Hodlá s námi bojovat. Měli bysme odejít."
+"Tady Kalandur myslí, že jsem tím, že pomáhám Elensefaru zradil elfí rod. "
+"Hodlá s námi bojovat. Měli bychom odejít. "
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:159
@@ -924,7 +913,7 @@ msgid ""
 "- wherever they are."
 msgstr ""
 "Když odejdeme, pravděpodobně nás nebude pronásledovat. Podá hlášení svým "
-"velitelům, ať už jsou kdekoli."
+"velitelům, ať ti už jsou kdekoli."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:167
@@ -932,7 +921,7 @@ msgid ""
 "And won't those superiors send out even more ships? If we let Kalandur get "
 "away, they will know where we are and where we are coming from."
 msgstr ""
-"A nepošlou ti velitelé ještě víc lodí? Když necháme Kalandura být, budou "
+"A nepošlou tito velitelé jen více lodí? Když necháme Kalandura být, budou "
 "vědět, kde jsme a odkud jsme."
 
 #. [message]: speaker=Meneldur
@@ -947,9 +936,9 @@ msgid ""
 "only following the commands of their twisted leader. Perhaps if we spare "
 "them their lives, they will join us after we defeat them."
 msgstr ""
-"Tak jsme zabili elfa! Nemám z toho radost. Elfové nejsou zlí, jen "
-"poslouchají rozkazy svého zvráceného vůdce. Možná pokud bysme ušetřili "
-"jejich životy, přidali by se po své porážce k nám."
+"Zabili jsme elfa! Nemám z toho radost. Nejsou zlý, jen poslouchají rozkazy "
+"svého zvráceného vůdce. Možná pokud bysme ušetřili jejich životy, přidali by "
+"se po své porážce k nám."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:194
@@ -957,7 +946,7 @@ msgid ""
 "Look - there is a bridge here that Kalandur was guarding. I guess we should "
 "go across, but I don't have any idea what is there."
 msgstr ""
-"Dívejte, je tu most, který Kalandur hlídal. Řek bych, že bysme měli přejít "
+"Dívejte, je tu most, který Kalandur hlídal. řek bych, že bysme měli přejít "
 "na druhou stranu, ale fakt netušim, co tam je."
 
 #. [message]: speaker=Meneldur
@@ -968,7 +957,7 @@ msgstr "Ani já ne. Nejspíš další nepřátelé."
 #. [unit]: type=Elvish Hero, id=Danrer
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:213
 msgid "Danrer"
-msgstr ""
+msgstr "Danrer"
 
 #. [message]: speaker=Danrer
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:240
@@ -982,7 +971,7 @@ msgstr ""
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:244
 msgid "Well then, we will have a common foe with these elves!"
-msgstr "Dobře teda, aspoň budem mít s těmi elfy společného nepřítele!"
+msgstr "Dobře teda, aspoň budem mít s těmi elfi společného nepřítele!"
 
 #. [message]: speaker=Danrer
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:248
@@ -991,9 +980,9 @@ msgid ""
 "will join you. We can't go back to the elves now, because since we did not "
 "die they will think we are deserters."
 msgstr ""
-"Uh... v tom případě... ale každopádně... myslím, že elfové, co přežili se k "
-"vám přidají. Nemůžeme se teď vrátit k elfům. Mysleli by si, že jsme přežili, "
-"protože jsme dezertéři."
+"Uh..., v tom případě..., ale každopádně... myslím, že elfové, co přežili se "
+"k vám přidají. Nemůžeme se teď vrátit k elfům. Mysleli by si, že jsme "
+"naživu, protože jsme dezertéři."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:252
@@ -1006,58 +995,55 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:3
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:730
 msgid "The Ruined Port"
-msgstr "Zbořený přístav"
+msgstr "Zničený přístav"
 
 #. [unit]: type=Orcish Warlord, id=Bakrakha
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:121
 msgid "Bakrakha"
-msgstr ""
+msgstr "Bakrakra"
 
 #. [unit]: type=Orcish Warrior, id=Sakdur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:136
 msgid "Sakdur"
-msgstr ""
+msgstr "Sakdur"
 
 #. [unit]: type=Orcish Warrior, id=Asknak
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:151
 msgid "Asknak"
-msgstr ""
+msgstr "Ašknak"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:173
-
 msgid ""
 "Defeat Bakrakha, the Southern Warlord, and then survive until end of turns"
-msgstr "Poraz skřetího vojevůdce Bakrakha a pak přežij do konce limitu"
+msgstr "Poraz Bakrakru, jižního válečného vůdce, a pak přežij do konce kol"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:189
 msgid "Turns run out and Bakrakha is still alive"
-msgstr "Vyprší limit a Bakrakha bude stále naživu"
+msgstr "Vyprší počet kol a Bakrakra bude stále naživu"
 
 #. [message]: speaker=Bakrakha
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:202
-
 msgid ""
 "So, little maggots, you got so low as to call down some islefolk from the "
 "north to help with your trying to take over the castle!?! Not going to "
 "happen on my watch!"
 msgstr ""
-"Takže vy, červy skřetí rasy, jste klesli tak hluboko, že jste požádali "
-"Wesany ze severu, aby vám pomohli dobýt hrad? Ale to se nestane, dokud tu "
-"budu vládnout!"
+"Takže vy, malí červi, jste se snížili k tomu, že jste si přivolali nějakýho "
+"ostrovana ze severu, aby vám pomohl zkusit ovládnout hrad!?! To se nestane, "
+"dokud tu na to dohlížim! "
 
 #. [message]: speaker=Sakdur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:206
-
 msgid ""
 "We didn't call no human scum out of the north, though we could use their "
 "help! You been chieftain far too long, Bakrakra! You aint got us meat, and "
 "you aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
 msgstr ""
-"Nepožádali jsme žádný odporný lidský seveřany! Ale jejich pomoc by se nám "
-"šikla. Už si králem moc dlouho Bakrakro! Nedal jsi nám jídlo a nedal jsi nám "
-"pozemky. Já a tady Asknak si myslíme, že i lich by byl lepším pánem než ty!"
+"Ze severu jsme si nepřivolávali žádnou lidskou spodinu, i když by nám byla k "
+"užitku! Jsi už příliš dlouho náčelníkem, Bakrakro! Syslíš si maso i půdu. "
+"Já, Ašknak, nebo dokonce i ten lich tady jsme schopný tomu velet líp než ty!"
 
 #. [message]: speaker=Asknak
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:210
@@ -1065,64 +1051,58 @@ msgid ""
 "That right. You' keeping all the food in your castle there, and we' tired of "
 "it. Its time to get a new king 'round 'ere!"
 msgstr ""
-"Jasňačka. Syslíš si všechno jídlo tady ve svém hradu a to náš čuří. Je čas "
-"tu nastolit novýho krále! "
+"Jasnačka. Dřepíš tam na hradě se vším jídlem a nás už to unavuje. Je čas tu "
+"nastolit novýho vládce!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:214
-
 msgid ""
 "I don't think we should get involved here. These clans can fight each other, "
 "and they won't care if we wait here and restock."
 msgstr ""
-"Nemyslím, že bysme se tady do toho měli plést. Ti skřeti budou bojovat proti "
-"sobě navzájem a nebudou se starat o to, jestli tu setrváme a doplníme zásoby."
+"Nemyslím si, že bychom se do toho měli plést. Tyhle klany budou spolu "
+"bojovat a nebudou se starat, jestli tu chvlíli budeme a doplníme zásoby."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:218
-
 msgid ""
 "I don't think it's that simple. That guy in the castle has all the food, we "
 "can't restock from here."
 msgstr ""
-"To není tak jednoduchý. Ten skřet v hradu drží všechno jídlo, takže tu "
-"nemůžem ty zásoby doplnit."
+"Nemyslím si, že je to tak jednoduchý. Tady nemůžem doplnit zásoby, protože "
+"všechno jídlo má ten maník na hradě."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:222
 msgid "So what do you suggest we do?"
-msgstr "Co tedy navrhuješ?"
+msgstr "Takže co navrhuješ udělat?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:226
-
 msgid ""
 "Well, we will definitely have to kill the chieftain in the castle, to get "
 "the food. But to get to him, we should probably go around the river, which "
 "leads us past all the other clansmen. We might have to kill them all."
 msgstr ""
-"No, rozhodně bysme měli sejmout toho skřeta, co drží hrad a dostat se k "
-"jídlu. Ale abysme se k němu dostali, budem nejspíš muset jít okolo řeky, "
-"která ale vede přes stanoviště těch ostatních. Možná je budem muset sejmout "
-"všechny."
+"Abychom získali jídlo, budem muset určitě zabít toho náčelníka na hradě. Ale "
+"jestli se chcem k němu dostat, měli bychom nejspíš obejít řeku, což nás "
+"přivede ke všem ostatním členům klanů. Možná je budem muset všechny zabít."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:264
 msgid "Good, now we just have to survive until the ship is refilled."
-msgstr "Výborně, teď jen se udržet než bude loď dozásobena."
+msgstr "Dobře, teď jen musíme vydržet dokud nedoplníme lodní zásoby."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:275
-
 msgid "We have defeated all of the clansmen; refill the ship, and we'll leave."
-msgstr "Porazili jsme všechny skřety. Doplňte zásoby na lodi a poplujem."
+msgstr "Porazili jsme všechny klanové bojovníky. Doplňte zásoby a odrazíme."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:295
-
 msgid ""
 "We did not manage to kill the enemy leader, and now we are out of food..."
-msgstr "Nezvládli jsme zabít skřetího vůdce a jsme bez jídla..."
+msgstr "Nepovedlo se nám zabít nepřátelského vůdce a teď jsme bez jídla..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:302
@@ -1130,8 +1110,8 @@ msgid ""
 "Good, we have enough food now. We should go back out to sea, further north "
 "there are some people who might help us."
 msgstr ""
-"Dobře, už máme dost jídla. Měli bysme ustoupit k moři, dál na sever, k těm "
-"lidem. Mohli by nám pomoct."
+"Dobře, máme teď dost jídla. Měli bychom se vrátit na moře, dále na sever "
+"jsou lidé, kteří by nám mohli pomoci."
 
 #. [scenario]: id=sea_voyage_fake1
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:3
@@ -1150,7 +1130,7 @@ msgstr ""
 "Město padlo, ale Meneldur a jeho lidé uprchli. Opustili přístav. Když se "
 "dívali zpět k městu, zaznamenali zvláštní věc. Skřeti město nezapalovali ani "
 "nerabovali dle svého zvyku, místo toho ho nechávali být a soustředili se na "
-"hrad Lorda. Skoro to vypadalo, že chtějí město ovládnout namísto zničit."
+"hrad lorda. Skoro to vypadalo, že chtějí město ovládnout, namísto zničit."
 
 #. [part]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:23
@@ -1163,9 +1143,9 @@ msgid ""
 msgstr ""
 "Meneldur si nebyl přesně jistý, co to znamená, ale jednu věc věděl - pokud "
 "město nebylo zničeno, tak nebyli zničeni ani jeho obyvatelé. Což znamenalo, "
-"že stále mělo cenu ho zachránit. Proto si spolu s Madruem přímo na místě "
-"slíbili, že pokud to bude v jejich silách, seženou armádu a vrátí se do "
-"Elensefaru, porazí skřety a vymůžou zpět to, co z města zbyde."
+"že že stále mělo cenu ho zachránit. Proto si spolu s Madruem přímo na místě "
+"slíbili, že pokud to bude v jejich silách, tak seženou armádu a vrátí se do "
+"Elensefaru, porazí skřety a vymůžou zpět to, co z města zbyde. "
 
 #. [unit]: type=Caravel
 #. [unit]: type=Caravel, id=Explorer
@@ -1180,7 +1160,7 @@ msgstr "Meneldur"
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:124
 msgid "Stop, pirate! Surrender, or die!"
-msgstr "Stůjte, piráti! Vzdejte se nebo zemřete!"
+msgstr "Stůjte piráti! Vzdejte se nebo zemřete!"
 
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:128
@@ -1199,7 +1179,6 @@ msgstr "Co se to tu děje?"
 
 #. [message]
 #: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:157
-
 msgid "So, you getting involved too, eh? Stop that ship, men!"
 msgstr "Hm, takže vy se chcete taky připojit? Zastavte tu loď!"
 
@@ -1218,8 +1197,8 @@ msgid ""
 "sacked, he had no knowledge of what had occurred in the many months since "
 "then."
 msgstr ""
-"Meneldur, Černý Red a Madru vstoupili do Elensiánského paláce a začali "
-"prozkoumávat vězenské kobky, hledajíce skřetí vězně. Našli mnoho těch, co "
+"Meneldur, Rudý Černes a Madru vstoupili do Elensiánského paláce a začali "
+"prozkoumávat podzemní labyrint, hledajíce skřetí věžně. Našli mnoho těch, co "
 "bývali součástí šlechty a také muže který býval lordem Elensefaru, sira "
 "Darahana z Wesnothu. Protože byl zajat hned, jak bylo město popleněno, neměl "
 "povědomost o tom, co se minulé měsíce událo."
@@ -1238,7 +1217,7 @@ msgid ""
 "felt betrayed."
 msgstr ""
 "Tři zachránci mu vyprávěli svůj příběh, o tom, že Elensefar již není "
-"provincií Wesnothu a jak nemrtví dočasně „žijí“ ve městě. Před svým "
+"provincií Wesnothu a jak nemrtvý dočasně \"žijí\" ve městě. Před svým "
 "uvězněním byl loajálním zastáncem království a ve vězení neustále očekával, "
 "kdy vojáci Wesnothu přijdou a osvobodí ho. Dokud mu neřekli o zradě "
 "Wesnothu, věřil, že jsou to muži Wesnothu, kdo připlul od moře k městu, kdo "
@@ -1248,7 +1227,7 @@ msgstr ""
 #. [unit]: type=Grand Marshal, id=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:81
 msgid "Daharan"
-msgstr ""
+msgstr "Daharan"
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:102
@@ -1328,10 +1307,10 @@ msgid ""
 "all, our alliance with undead is not, from our view, evil, but the "
 "circumstances are very similar."
 msgstr ""
-"Já ano. Neznáme okolnosti té jejich mírové smlouvy, pokud ne přímo aliance "
-"(jestli nějaká byla). Takže nevíme, jestli byli jejich úmysly zlé. Ostatně "
+"Já ano. Neznáme okolnosti té jejich mírové smlouvy, neřkuli přímo aliance "
+"(jestli nějaká byla). Takže nevíme, jestli byly jejich úmysly zlé. Ostatně "
 "vzato, naše spojenectví s nemrtvými, jakkoli není z našeho pohledu zlé, je "
-"vlastně velmi podobná situace."
+"vlastně velmi podobnou situací."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:138
@@ -1342,7 +1321,6 @@ msgstr ""
 "Je podobná jen pokud předpokládáš, že nemrtví jsou zlí. Někteří skutečně "
 "jsou, ale ne všichni. Já a můj bratr určitě ne."
 
-# nejspíš špatně v originále (decieved?)
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:142
 msgid ""
@@ -1350,9 +1328,9 @@ msgid ""
 "probably not, probably you are just decieved as to what really occurs with "
 "undeath. But undead are evil."
 msgstr ""
-"Mohu být váš spojenec, ale nikdy nechtějte abych uznal, že nemrtví nejsou "
-"zlí. Ty asi nejsi, nejspíš jsi byl oklamán o tom, co doopravdy oživování "
-"nemrtvých přináší. Ale nekromancie je zlo."
+"Možná jsem tvůj spojenec, ale nikdy bych neřekl, že tvoji nemrtví nejsou "
+"zlí. Vy asi nejste zlý, nejspíš jste jen oklamáni tím, co se skutečně děje "
+"ve spojení s nemrtvými. Ale nemrtvé záležitosti jsou zlé."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:146
@@ -1360,8 +1338,9 @@ msgid ""
 "Come on now. Well, it is true that the circumstances are not in truth "
 "similar, but they do appear to be. The elves may have thought they were."
 msgstr ""
-"Teď kupředu. No, je pravda, že okolnosti opravdu nejsou podobné, ale "
-"vypadají jako by byly. Elfové si mohli myslet že jsou.  "
+"Pojďme dál.\n"
+"Dobrá, je pravda, že okolnosti nejsou ve skutečnosti podobné, ale zdát se to "
+"může. Elfové si to tak mohli myslet."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:150
@@ -1370,9 +1349,9 @@ msgid ""
 "us. But why were the humans willing to discard our age-old alliance, and "
 "attack us before the orcs?"
 msgstr ""
-"Jasně Meneldure. Vidím, že elfí útok jim dával z určitého pokrouceného "
-"hlediska smysl. Ale proč lidé ochotně odložili naše pradávné spojenectví a "
-"zaútočili radši na nás než na skřety?"
+"Rozumím Meneldure. No, s přihmouřením očí chápu, proč na nás elfové "
+"zaútočili. Ale proč byli lidé ochotni odhodit naše odvěké spojenectví a "
+"útočit na nás místo na skřety?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:154
@@ -1380,7 +1359,8 @@ msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
 msgstr ""
-"No, my jsme na ně předtím mnohokrát zaútočili, ačkoli to bylo v sebeobraně."
+"No, my jsme na ně zaútočili. Několikrát. Ačkoli to skutečně bylo v "
+"sebeobraně."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:158
@@ -1389,14 +1369,14 @@ msgid ""
 "humans could have both had that plan. But the elves lost their temper right "
 "as we arrived, and attacked the orcs immediately."
 msgstr ""
-"Chtěli nejdřív porazit nás a pak skřety. Efové i lidé opravdu mohli mít "
-"takový plán. Ale elfové zmírnili svůj vztek, jakmile jsme připluli a napadli "
-"skřety hned."
+"Nejprve chtěli porazit nás, pak zaútočit na skřety. Jasně, takový plán mohli "
+"mít jak elfové, tak lidé. Když jsme ale dorazili, elfové ztratili nervy a "
+"okamžitě zaútočili na skřety."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:162
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
-msgstr "Tomu se říká zrada a neomlouvá to spojenectví se skřety."
+msgstr "Tomu se říká zrada a dohodu se skřety to nějak neomlouvá."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:166
@@ -1407,11 +1387,11 @@ msgid ""
 "on a permanent alliance with the Orcish state, because that would allow them "
 "to create provinces in the north unopposed."
 msgstr ""
-"Souhlasím, že to může být pojímáno jako zrada, ale myslím, že to "
-"neplánovali. Lidé Wesnothu nevidí dobro a zlo, jak ho vidíme my. Pro ně je "
-"dobro to, co prospívá Wesnothu a zlo to, co mu ubližuje. Mohli zrovna "
-"plánovat stálou alianci se skřety, protože by jim to dovolilo bez odporu "
-"zakládat na severu provincie."
+"Souhlasím, že by to byla zrada, ale nemyslím, že to tak plánovali. "
+"Wesnothští nevidí dobro a zlo jako my. Pro ně je dobré to, co prospívá "
+"Wesnothu, a zlo to, co mu škodí. Možná plánovali trvalé spojenectví se "
+"skřetí říší, protože by jim to umožnilo bez odporu vytvářet provincie na "
+"severu."
 
 #. [message]: speaker=Daharan
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:170
@@ -1419,13 +1399,13 @@ msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
 msgstr ""
-"Možná. Přesto je to všechno jenom spekulace. Nemůžeme vědět proč nás vlastně "
-"napadli, že ne? Můžeme jen odhadovat."
+"Možná. To vše je ale jen spekulace. Nemůžeme vědět, proč na nás vlastně "
+"zaútočili, že? Můžeme jen hádat."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:174
 msgid "Which is why this is rather pointless."
-msgstr "A proto je tohle dohadování poněkud zbytečné."
+msgstr "Proto je to celkem zbytečný se dohadovat."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:178
@@ -1434,8 +1414,9 @@ msgid ""
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
 "north."
 msgstr ""
-"Musím jít. Opravdu nevím, kam moji lidé teď půjdou. Tak málo jich přežilo. "
-"Ale tady ve městě nezůstaneme, je to příliš riskantní. Půjdeme na sever."
+"No, budu muset vyrazit. Nevím, kam teď moji lidé půjdou. Zůstalo jich tak "
+"málo naživu. Ale v tomto městě nezůstanu, je to příliš nebezpečné. Půjdu na "
+"sever."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:182
@@ -1443,8 +1424,8 @@ msgid ""
 "Very well. I suppose this council is ended, and the real work of Daharan's "
 "reign shall begin."
 msgstr ""
-"Dobrá tedy. Domnívám se, že tato rada je u konce. Čeká na nás skutečná práce "
-"během dalšího Daharanova vládnutí."
+"Dobře. Předpokládám, že tato rada je ukončena a začne skutečná práce "
+"Daharanovy vlády."
 
 #. [scenario]: id=sea_voyage_0
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:3
@@ -1482,7 +1463,7 @@ msgid ""
 "Red says there are allies, and have them join you."
 msgstr ""
 "Vaším dlouhodobým úkolem je dosáhnout země na západě, kde by dle popisu "
-"Černého Reda měli být spojenci, co se k vám přidají."
+"Rudého Černese měli být spojenci, co se k vám přidají."
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:217
@@ -1507,10 +1488,6 @@ msgid ""
 "the western lands, where we will meet with the people Black the Red has "
 "spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
-"Zanechali jsme Elensefar v rukou skřetů. Pokud se brzy nevrátíme, nebude se "
-"vůbec kam vracet. Máme nanejvíš 30 týdnů na to, dosáhnout západních zemí, "
-"kde najdeme lidi, o kterých Černý Red vyprávěl. To nám nechá 5 týdnů na "
-"návrat."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:250
@@ -1518,13 +1495,13 @@ msgid ""
 "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
 "must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
-"Naše loď neuveze více zásob než stačí na 6 týdnů. Musíme je proto také do "
-"šesti týdnů doplnit buď na nějakém ostrově nebo dobytím nepřátelské lodi."
+"A také naše lodní zásoby nevydrží déle než 6 týdnů. Takže musíme každých 6 "
+"týdnů buď přistát na ostrově, nebo zajmout nepřátelskou loď."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:279
 msgid "We have ran out of provisions.... *urgh*"
-msgstr "Došly nám zásoby..."
+msgstr "Došly nám zásoby... *urgh*"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:292
@@ -1532,7 +1509,8 @@ msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
 msgstr ""
-"Už jsme na dně se zásobami! Pokud je do týdne nedoplníme, zahyneme hlady!"
+"Pospěšme, máme poslední proviant! Pokud ho do týdne nedoplníme, všichni "
+"vyhladovíme!"
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:309
@@ -1540,7 +1518,7 @@ msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
 msgstr ""
-"Naše zásoby vydrží už jen $turnsleft týdny. Do západních zemí musíme doplout "
+"Máme dostatek zásob na $turnleft týdny. Do západních zemí se musíme dostat "
 "do $gameleft týdnů."
 
 #. [message]: speaker=Explorer
@@ -1549,8 +1527,6 @@ msgid ""
 "This island has no more enemies on it, but we can still reprovision here. "
 "That will still take time, though."
 msgstr ""
-"Na tomto ostrově nejsou žádní nepřátelé, ale i tak tu můžem doplnit zásoby. "
-"Nicméně to bude chvíli trvat."
 
 #. [label]
 #. [scenario]: id=sea_voyage_plus1
@@ -1574,8 +1550,8 @@ msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
 msgstr ""
-"Tento ostrov vypadá liduprázdně... kromě toho někoho v černé kápi na odlehlé "
-"straně..."
+"Nezdá se, že by na tomto ostrově někdo žil... kromě toho, napohled černě "
+"zahaleného muže na vzdálené straně..."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:557
@@ -1583,8 +1559,8 @@ msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
 msgstr ""
-"Když jsem tu byl naposled, byla tu obchodní stanice. Ale vypadá to, že už "
-"není. Její sklady by tu přesto měly být."
+"Naposledy, když jsem tu byl, tu byla obchodní kolonie, ale zdá se, že už "
+"nefunguje. Ale její staré opevnění by tu stejně mělo být."
 
 #. [label]
 #. [scenario]: id=sea_voyage_3
@@ -1603,7 +1579,7 @@ msgstr "Návrat na loď"
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:579
 msgid "I think something is in the water..."
-msgstr "Myslím, že něco je ve vodě..."
+msgstr "Myslím, že ve vodě něco je..."
 
 #. [label]
 #. [scenario]: id=sea_voyage_5
@@ -1618,13 +1594,11 @@ msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
 msgstr ""
-"Legendy vypráví, že tu během svého putování přistál Haldrik a něco našel. "
-"Doufejme, že s tím nebudeme muset bojovat, ať už to bylo cokoli... "
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:633
 msgid "This island looks vaguely elvish."
-msgstr "Tento ostrov mi matně připomíná elfí zem."
+msgstr "Tento ostrov má trochu elfí charakter."
 
 #. [label]
 #. [scenario]: id=sea_voyage_8
@@ -1636,7 +1610,7 @@ msgstr "Mrazivé kraje"
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:661
 msgid "Does anything live in this frozen wasteland?"
-msgstr "Žije v těchto zmrzlých krajích něco?"
+msgstr ""
 
 #. [label]
 #. [scenario]: id=sea_voyage_11
@@ -1650,8 +1624,6 @@ msgstr "Mimo poloostrov"
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
-"Vidím stopy po wesnotské základně. Je udivující, jak se mohli dostat tak "
-"daleko na jih..."
 
 #. [label]
 #. [scenario]: id=sea_voyage_12
@@ -1666,8 +1638,6 @@ msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
 msgstr ""
-"Nágy existovaly v Haldrikových časech, víc než před sto lety! Divil bych se, "
-"kdyby nějaké žily doteď..."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:737
@@ -1675,23 +1645,22 @@ msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
 msgstr ""
-"To je bývalý Přistav Jasných vod! Je to dávno, co byl vyrabován skřety a "
+"To je bývalý přistav Jasná Voda! Je to dávno, co byl vyrabován skřety a "
 "pochybuji, že tu zůstali nějací lidé."
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:757
-
 msgid ""
 "This is the land I was talking about. Land here, and we will get the "
 "warriors we need."
 msgstr ""
-"(Černý Red) To je země, o které jsem mluvil. Tady přistaneme a získáme "
-"válečníky, které potřebujeme."
+"To je země, o které jsem mluvil. Tady přistaneme a získáme válečníky, které "
+"potřebujeme."
 
 #. [unit]: type=Dark Sorcerer, id=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:66
 msgid "Ak-Avanu"
-msgstr ""
+msgstr "Ak-Avanu"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:114
@@ -1707,8 +1676,8 @@ msgid ""
 "that continent, or that his mages no longer wear the robes of the "
 "necromancer?!?"
 msgstr ""
-"Cože? Chceš mi tvrdit, že velký lich Jevyan neovládl kontinent nebo že jeho "
-"mágové už nenosí oděv nekromantů?!?"
+"Cože? Chceš mi tvrdit, že velký lich Jevyan neovládl kontinent, nebo že jeho "
+"mágové už nenosí oděv nekromatů?!?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:122
@@ -1717,13 +1686,13 @@ msgid ""
 "suppose you think you are a real necromancer too."
 msgstr ""
 "Cože? Proč mluvíš o těch starých příbězích (pokud se skutečně staly)? A "
-"předpokládám, že se snad také považuješ za nekromanta?"
+"předpokládám, že se snad také považuješ za nekromata?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:126
 msgid ""
 "Why do you say he's not a necromancer? I've seen them before, haven't you?"
-msgstr "Proč tvrdíš, že není nekromant? Už jsem je viděl, ty ne?"
+msgstr "Proč tvrdíš, že není nekromat? Už jsem je viděl, ty ne?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:130
@@ -1737,7 +1706,7 @@ msgid ""
 "actual enemy."
 msgstr ""
 "Ano. A tenhle chlapík vypadá skutečně. Myslím, že bysme ho měli považovat za "
-"skutečného nepřítele."
+"aktuálního nepřítele."
 
 #. [message]: speaker=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:138
@@ -1746,11 +1715,12 @@ msgstr "Ano, to byste měli! A teď se připravte na odchod ze života!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:142
-
 msgid ""
 "Whatever. We will see if he actually can raise anything, and if we come out "
 "of here."
-msgstr "Jak je libo. Uvidíme, jestli vlastně umí něco oživit."
+msgstr ""
+"Jak je libo. Uvidíme, jestli vlastně umí něco oživit a jestli se odtud "
+"dostanem."
 
 #. [scenario]: id=sea_voyage_-1
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:3
@@ -1800,8 +1770,8 @@ msgid ""
 "(but, significantly, not to Weldyn)."
 msgstr ""
 "Meneldur se narodil na severu, ve Wesmérii, ale z elfích zemí byl vyhnán po "
-"konfliktu s Velkou Radou. Proto, ačkoli byl elf, Meneldur přislíbil věrnost "
-"Elensefaru, a potažmo tedy i Wesnothu (ne však Weldynu)."
+"konfliktu s Velkým koncilem. Proto, ačkoli byl elf, Meneldur zaslíbil "
+"věrnost Elensefaru, a potažmo tedy i Wesnothu (ne však Weldynu)."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:33
@@ -1810,7 +1780,7 @@ msgid ""
 "and ruthless men of the saber. He also brought many of the archer from his "
 "elvish house out of the northlands, to sail with him on his ship."
 msgstr ""
-"Meneldur kolem sebe shromáždil posádku pravých Elensianů - odvážné kopiníky "
+"Meneldur kolem sebe shromáždil posádku pravých elensianů - odvážné kopiníky "
 "i drsné muže šavle. Také si s sebou ze svého elfího domova na severu přivedl "
 "mnoho lučištníků. Ti všichni se s ním plavili na jeho lodi."
 
@@ -1825,11 +1795,11 @@ msgid ""
 "southern elves."
 msgstr ""
 "Tady náš příběh začíná.\n"
-"Stalo se to jedné noci, přibližně 10 let poté, co Meneldur poprvé přišel do "
+"Stalo se to jedné noci, přibližně 10 let poté co Meneldur poprvé přišel do "
 "Elensefaru. Meneldur se právě vrátil do města z obchodní cesty do Zátoky "
-"perel. Po přistání se odebral do hradu k Lordu Elensefaru pro instrukce a "
+"perel. Po přistání se odebral do hradu k lordu Elensefaru pro instrukce a "
 "pokyny pro další cestu. Dostal za úkol vyrazit na obchodní plavbu k jižním "
-"elfům na Elfím poloostrově."
+"elfům na Elfí poloostrov."
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:41
@@ -1840,7 +1810,7 @@ msgid ""
 "most of the people had even noticed."
 msgstr ""
 "Po audienci, když se Meneldur se svými muži odebíral zpátky na loď, "
-"zaslechli podivný hluk. Pronikavý hluk. Hluk, co vydává skřetí vojsko! "
+"zaslechli podivný zvuk. Pronikavý hluk. Hluk, co vydává skřetí vojsko! "
 "Elensefar byl zčista jasna napaden, a to i přes to, že k tomu nezavdal "
 "žádnou příčinu. Město bylo obsazeno dřív, než se většina obyvatel stačila "
 "vzpamatovat."
@@ -1861,9 +1831,8 @@ msgstr "Madru"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:253
-
 msgid "Move Meneldur and Madru to the Explorer (southwest of the map)"
-msgstr "Dojdi s Meneldurem k Průzkumníkovi"
+msgstr "Přesuň Meneldura a Madru k Průzkumníkovi (na jihozápadě mapy)"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:275
@@ -1882,22 +1851,23 @@ msgstr "Jo jasně kapitáne. Všichni na loď a hoďte sebou!"
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:308
 msgid "Now, we go out to sea. I expect our city is doomed..."
-msgstr "Tak a teď vyrazíme na moře. Předpokládám, že po našem městě je veta..."
+msgstr ""
+"Tak a teď vyrazíme na moře. Předpokládám, že po našem městě je veta... "
 
 #. [unit]: type=Merman Warrior, id=Psison
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:64
 msgid "Psison"
-msgstr ""
+msgstr "Psison"
 
 #. [unit]: type=Orcish Warrior, id=Dal-Alkra
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:95
 msgid "Dal-Alkra"
-msgstr ""
+msgstr "Dal-Alkra"
 
 #. [event]
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:108
 msgid "Srak"
-msgstr ""
+msgstr "Srak"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:135
@@ -1911,8 +1881,8 @@ msgid ""
 "Are there any inhabitants of this island? We come in peace, we just want to "
 "restock our ship and then be on our way..."
 msgstr ""
-"Jsou tady nějací obyvatelé? Přicházíme v míru, chceme jen doplnit zásoby na "
-"lodi a pak poplujeme svou cestou..."
+"Jsou tady nějací obyvatelé? Přicházíme v míru, chceme jen doplnit záboby na "
+"lodi a pak poplujeme svou cestou ..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:153
@@ -1964,9 +1934,8 @@ msgstr "Skřeti! Zabte je!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:244
-
 msgid "A bridge! What may be across it?"
-msgstr "Most! Co myslíš, že je na druhé straně?"
+msgstr "Most! Co může být na druhé straně?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:248
@@ -1974,18 +1943,18 @@ msgid ""
 "Probably our boat... but we need to defeat these orcs before we get it, or "
 "else they will attack us from behind."
 msgstr ""
-"Nejspíš naše loď... potřebujeme ale nejdřív porazit tyto skřety, jinak nám "
-"vpadnou do zad."
+"Nejspíš naše loď... potřebujeme ale nejdřív porazit tyto skřety nebo nám "
+"jinak zaútočí do zad."
 
 #. [unit]: type=Orcish Warlord, id=Dur-Galba
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:90
 msgid "Dur-Galba"
-msgstr ""
+msgstr "Dur-Galba"
 
 #. [unit]: type=Naga Myrmidon, id=Slal
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:105
 msgid "Slal"
-msgstr ""
+msgstr "Slal"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:169
@@ -2021,9 +1990,8 @@ msgstr "A teď do přístavu a zpátky nalodit!"
 
 #. [unit]: type=Dwarvish Steelclad, id=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:70
-
 msgid "Padrun"
-msgstr "Madru"
+msgstr "Padrun"
 
 #. [unit]: type=Dwarvish Lord, id=Panenael
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:97
@@ -2117,8 +2085,8 @@ msgid ""
 "swiftness over the boat. The next thing Meneldur and his men knew, they had "
 "reached the delta of the Great River, where Elensefar was built."
 msgstr ""
-"Nekromanté na palubě zakouzlili na lodě kouzla temnoty a hbitosti. Ta další "
-"věc, kterou si Meneldur a jeho muži uvědomili byla až ta, že vplouvají do "
+"Nekromanti na palubě zakouzlili na lodě kouzla temnoty a hbitosti. Ta další "
+"věc, kterou si Meneldur a jeho muži uvědomili, byla až ta, že vplouvají do "
 "delty Velké řeky, kde byl Elensefar vybudován."
 
 #. [message]: speaker=Meneldur
@@ -2129,7 +2097,7 @@ msgid ""
 "the city?"
 msgstr ""
 "Takže jsme před elensefarským přístavem... Je čas znovu získat Elensefar, "
-"tak jako jsme to udělali u Blackmoru. Nu... má někdo nápad, jak zaútočit na "
+"tak jako jsme to udělali u Blackmoru. Nu..., má někdo nápad, jak zaútočit na "
 "město?"
 
 #. [message]: speaker=Black
@@ -2191,7 +2159,7 @@ msgid ""
 "can go around most of the orcish defenses, which are probably guarding the "
 "bridges to the city."
 msgstr ""
-"Dobře. Já myslím, že bysme měli přístát přímo v Elensefaru. Tím obejdeme "
+"Dobře. Já myslím, že bysme měli přistát přímo v Elensefaru. Tím obejdeme "
 "většinu skřetích obránců, kteří nejspíš hlídají mosty do města."
 
 #. [message]: speaker=Madru
@@ -2208,7 +2176,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:400
 msgid "Hm... you are right there. Which plan should we use?"
 msgstr ""
-"Hm... to je pravda.\n"
+"Hm..., to je pravda.\n"
 "Tak který plán bysme měli použít?"
 
 #. [option]
@@ -2238,17 +2206,17 @@ msgstr "Jasně. Neztrácejme už víc čas, jdem bojovat."
 #. [unit]: type=Orcish Warlord, id=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:217
 msgid "Pakch-Glun"
-msgstr ""
+msgstr "Pakš-Glun"
 
 #. [unit]: type=General, id=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:232
 msgid "Mathein"
-msgstr ""
+msgstr "Mathein"
 
 #. [unit]: type=Elvish Marshal, id=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:247
 msgid "Galiyon"
-msgstr ""
+msgstr "Galiyon"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:312
@@ -2256,8 +2224,8 @@ msgid ""
 "As the warriors landed the Explorer, they overheard the elves, men and orcs "
 "talking..."
 msgstr ""
-"Když bojovníci přistáli s Průzkumníkem, zaslechli jak se elfové, lidé a "
-"skřeti dohadují... "
+"Jakmile válečníci přistáli s Průzkumníkem, zaslechli, jak se elfové, lidé a "
+"skřeti dohadují..."
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:316
@@ -2265,14 +2233,13 @@ msgid ""
 "Orc, you promised that, if we allied with you, you would free all the "
 "prisoners you took when you captured Elensefar. You have broken our pact!"
 msgstr ""
-"Slíbili jste, skřeti, že pokud se s vámi spojíme, tak osvobodíte všechny "
-"vězně, které jste zajmuli při obsazování Elensefaru. Porušili jste naši "
-"smlouvu!"
+"Skřeti, slíbili jste, pokud se s vámi spojíme, že osvobodíte všechny věžně, "
+"které jste zajmuli při obsazování Elensefaru. Porušili jste naši smlouvu!"
 
 #. [message]: speaker=Pakch-Glun
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:320
 msgid "Ag, elf-dog, you shuttup! I aint takin' orders fr'm you!"
-msgstr "Ech, elfí pse, drž hubu! Ty mi neporoučíš!"
+msgstr "Ah, elfí pse, drž hubu! Ty mi neporoučíš!"
 
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:324
@@ -2281,7 +2248,7 @@ msgid ""
 "attack you again! And this time, we will probably win, since our "
 "reinforcements have arrived, and there are two armies to attack you."
 msgstr ""
-"Poslouchej, Pakch Glune, pokud nesplníš svou část dohody, znovu na tebe "
+"Poslouchej Pakš–Glune, pokud nesplníš svou část dohody, znovu na tebe "
 "zaútočíme! A tentokrát nejspíš vyhrajeme, protože naše posily jsou tady a "
 "jsou na tebe připraveny zaútočit dvě armády. "
 
@@ -2298,7 +2265,7 @@ msgstr "Matheine, máme zaútočit?"
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:336
 msgid "Yes. Pakch-Glun, prepare to die!"
-msgstr "Ano. Pakch Glune, připrav se na smrt!"
+msgstr "Ano. Pakš–Glune, připrav se na smrt!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:341
@@ -2316,8 +2283,7 @@ msgstr ""
 msgid ""
 "The first enemy we will encounter will be the elves. Show them no mercy!"
 msgstr ""
-"První nepřítel, s kterým se střetneme, budou elfové. A žádné smilování pro "
-"ně!"
+"První nepřítel, s kterým se střetneme budou elfové. A žádné smilování pro ně!"
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:363
@@ -2347,7 +2313,7 @@ msgid ""
 "faces of the elves. Although they are my brethren, we must not hold back "
 "from killing them because of it. Onward!"
 msgstr ""
-"Jsme v Elensefarském přístavu. Odtud můžeme zahnat skřety přímo před meče "
+"Jsme v elensefarském přístavu. Odtud můžeme zahnat skřety přímo před meče "
 "elfů. Ačkoli jsou to mí bratři, nesmíme se kvůli tomu rozpakovat je zabít. "
 "Kupředu!"
 
@@ -2393,7 +2359,7 @@ msgid ""
 "from. Unfortunately, we must get past them to free the city."
 msgstr ""
 "Vypadá to, že lidé Wesnothu obsadili oblast, odkud se dá Elensefar obléhat. "
-"Naneštěstí musíme pro osvobození města projít skrz ně."
+"Nenaštěstí musíme pro osvobození města projít skrz ně."
 
 #. [message]: speaker=Mathein
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:425
@@ -2411,8 +2377,8 @@ msgid ""
 "to attack me... Well, we will get past these Wesnothians first, and see what "
 "we can do then."
 msgstr ""
-"O čem to mluvíš? Aha, už vím... mí severní bratři se rozhodli na mě "
-"zaútočit... Nu, probijeme se nejdřív přes tyto Wesnoťany a uvidíme, co "
+"O čem to mluvíš? Aha, už vím..., mí severní bratři se rozhodli na mě "
+"zaútočit... Nu, probijeme se nejdřív přes tyto wesnoťany a uvidíme, co "
 "budeme moct udělat pak."
 
 #. [message]: speaker=Pakch-Glun
@@ -2427,9 +2393,9 @@ msgid ""
 "out of our city! Then, it appears, we will have to deal with those "
 "Wesnothians who believe us to be traitors."
 msgstr ""
-"Jsme teď v Elensefarském přístavu. Od teď budeme bojovat se skřety, dokud je "
+"Jsme teď v elensefarském přístavu. Od teď budeme bojovat se skřety, dokud je "
 "všechny nevytlačíme z města. Pak, jak je vidět, se budeme muset utkat s těmi "
-"Wesnoťany, kteří jsou přesvědčeni o naší zradě."
+"wesnoťany, kteří jsou přesvědčeni o naší zradě."
 
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:446
@@ -2437,7 +2403,7 @@ msgid ""
 "Yes, please, do that. Then we will not have to deal with the orcs, and only "
 "with you!"
 msgstr ""
-"Ano, tak to prosím udělej. Pak se už nebudeme muset potýkat se skřety ale "
+"Ano, tak to prosím udělej. Pak se už nebudeme muset potýkat se skřety, ale "
 "jen s tebou!"
 
 #. [message]: speaker=Meneldur
@@ -2448,7 +2414,7 @@ msgstr "Co...? Oh, to jsou elfové ze severu. Co chcete?"
 #. [message]: speaker=Galiyon
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:454
 msgid "You dead, traitor!"
-msgstr "Udělat z tebe mrtvolu, zrádče!"
+msgstr "Už teď jsi mrtvý, zrádče!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:458
@@ -2459,7 +2425,7 @@ msgstr "Cokoli si přeješ. Utkáme se s vámi, až se vypořádáme se skřety.
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:485
 msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
 msgstr ""
-"Elensefar by měl být náš, ale stále jsou tu protivníci, co je třeba porazit. "
+"Elensefar by měl být náš, ale stále jsou tu protivníci, co je třeba poražit. "
 "Kupředu!"
 
 #. [message]: speaker=Meneldur
@@ -2468,7 +2434,7 @@ msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
-"Získali jsme Elensefar a porazili Wesnoťany, ale je třeba pohlídat ještě ty "
+"Zístali jsme Elensefar a porazili Wesnoťany, ale je třeba pohlídat ještě ty "
 "elfy."
 
 #. [message]: speaker=second_unit
@@ -2499,17 +2465,18 @@ msgstr "Našel jsi 200 zlatých!"
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:553
 msgid "Good work, men. Onwards, we have to retake the city also!"
-msgstr "Dobrá práce posádko. Kupředu, ještě taky musíme získat město!"
+msgstr "Dobrá práce posádko. Kupředu, ještě taky musíme zíkat město!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:566
 msgid "Come on, we should go North and see if we can help defeat the elves."
-msgstr "Pojďme, měli bysme jít na sever a zkusit porazit elfy."
+msgstr ""
+"Pojďme, měli bychom jít na sever a zjistit, jestli můžem pomoct porazit elfy."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:575
 msgid "The Wesnothians had much gold in their camp. It is ours now!"
-msgstr "Wesnoťané měli ve svém táboře dost zlata. Je teď naše!"
+msgstr "Wesnoťané měli ve svém táboře dost zlata. Teď je naše!"
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:589
@@ -2532,7 +2499,7 @@ msgstr "Skřeti jsou pořád ve městě! Pojďte je také sejmout!"
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:634
 msgid ""
 "Come on, we should go South and see if we can help defeat the Wesnothians."
-msgstr "Pojďme, měli bysme jít na jih a zkusit porazit Wesnoťany."
+msgstr ""
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:643
@@ -2540,8 +2507,6 @@ msgid ""
 "It seems the elves brought some of their treasure out of the northlands. "
 "More for us!"
 msgstr ""
-"Vypadá to, že si elfové ze severu přinesli s sebou část svého pokladu. A teď "
-"je náš! "
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:675
@@ -2553,8 +2518,7 @@ msgstr "Nikdo z nepřátel nezbyl, osvobodili jsme Elensefar!"
 msgid ""
 "Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
 "help."
-msgstr ""
-"Ano, Elensefar je konečně náš. Musíme ti poděkovat za pomoc, Černý Rede."
+msgstr "Ano, Elensefar je konečně náš. Děkujeme ti za pomoc, Rudý Černesi."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:683
@@ -2562,8 +2526,8 @@ msgid ""
 "It was an honor to fight for you. I wonder where my people will go now... "
 "the orcs have surely taken our home by now."
 msgstr ""
-"Bylo mi ctí za vás bojovat. Nevím, kam moji lidé teď půjdou... skřeti už "
-"určitě zabrali náš domov."
+"Bylo mi ctí za tebe bojovat. Zajímalo by mě, kam teď moji lidé půjdou... "
+"skřeti už v současné době určitě zabrali náš domov."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:687
@@ -2571,19 +2535,18 @@ msgid ""
 "I'm sure we will have time to discuss that later. But for now, we must help "
 "those conquered by the orcs rebuild their city."
 msgstr ""
-"Jsem si jist, že budeme mít příležitost si o tom později promluvit. Ale teď "
-"musíme pomoct obyvatelům znovuvybudovat město."
+"Jsem si jistý, že o tom budeme mít čas později diskutovat. Ale prozatím "
+"musíme pomoci těm, které skřeti dobyli, s obnovou jejich města."
 
 #. [unit]: type=Drake Flameheart, id=Dalakar
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:66
 msgid "Dalakar"
-msgstr ""
+msgstr "Dalakar"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:114
-
 msgid "This island is nearly dead. We can only reprovision slowly here."
-msgstr "Na tomto ostrově je úplně mrtvo. Nemůžem tady doplnit zásoby. "
+msgstr "Na tomto ostrově skoro nic není. Můžem tady doplnit jen pár zásob."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:118
@@ -2617,7 +2580,7 @@ msgstr "Pravda. No, když je porazíme, můžem získat zásoby!"
 #. [unit]: type=Lich, id=Kar-Salazz
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:66
 msgid "Kar-Salazz"
-msgstr ""
+msgstr "Kar-Salaz"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:114
@@ -2625,16 +2588,15 @@ msgid ""
 "I see there are more undead! I wonder how many of these did not go all the "
 "way across with Jevyan?"
 msgstr ""
-"Vidím tady další spoustu nemrtvých! Divím se, proč tolik z nich nepřiplulo "
-"celou cestou s Jevyanem."
+"Vidím, že je více nemrtvých! Zajímalo by mě, kolik z nich se odpojilo od "
+"Jevyana během jeho cesty?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:118
 msgid ""
 "I have seen several of these wandering undead where I come from. Haven't you?"
 msgstr ""
-"Tam, odkud jsem přišel, jsem viděl několik takových potulujících se skupin "
-"nemrtvých. Ty jsi se nimi nepotkal?"
+"Tam, odkud pocházím, jsem viděl několik těchto potulných nemrtvých. Ty ne?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:122
@@ -2642,13 +2604,14 @@ msgid ""
 "Mostly I travel south to the southern continent, not west like this. There "
 "are no undead there!"
 msgstr ""
-"Nejčastěji jsem se plavíval na jih ne na západ jako teď. Tam žádní nemrtví "
-"nejsou!"
+"Většinou cestuji na jižní část kontinentu, ne takto na západ. Tam nejsou "
+"žádní nemrtví!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:126
+#, fuzzy
 msgid "I see..."
-msgstr "Aha..."
+msgstr "Ne, já tě – Já vidět člověka!"
 
 #. [message]: speaker=Kar-Salazz
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:130
@@ -2656,8 +2619,6 @@ msgid ""
 "Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy "
 "to defeatzz!"
 msgstr ""
-"Takžše... vy sste na mě nezzaútočšili? Šskvělee. To vy jišště ssnadná "
-"kořišst!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:134
@@ -2667,17 +2628,17 @@ msgstr "Proč mluví jak ještěr?"
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:148
 msgid "What the...?"
-msgstr "Co to... ? "
+msgstr "Co to...?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:152
 msgid "That must be why he spoke like that. He is partly a lizard!"
-msgstr "Protože to je důvod, proč tak mluví. Je napůl ještěr!"
+msgstr "To je důvod, proč tak mluvil. Je to napůl ještěr!"
 
 #. [unit]: type=Elvish Enchantress, id=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:69
 msgid "Lomanyas"
-msgstr ""
+msgstr "Lomanyas"
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:124
@@ -2685,8 +2646,8 @@ msgid ""
 "I heard about your defeat of the elves on the isle, and I knew you'd "
 "probably show up here sooner or later."
 msgstr ""
-"Slyšela jsem, jak jsi porazil elfy na ostrově a věděla jsem, že se dříve "
-"nebo později objevíš tady."
+"Slyšel jsem, jak jsi porazil elfy na ostrově. Věděl jsem, že by ses tu "
+"nejspíš mohl dříve nebo později objevit."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:128
@@ -2694,26 +2655,26 @@ msgid ""
 "I might have known. You must be the leader of these men; I wouldn't put "
 "aligning with men below you, after you surrendered to orcs!"
 msgstr ""
-"Mohl jsem to tušit. Ty musíš být velitelka těch mužů. Nesrovnával bych se "
-"muži pod tvým velením, poté co jste se vzdali skřetům!"
+"Měl jsem to vědět. Ty musíš být vůdkyní těchto bojovníků. Nemůžu být druhem "
+"těch, kterým velíš, když jste se vzdali skřetům!"
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:132
 msgid ""
 "'Surrendered' is not the way I would put it, but fine, have it your way."
 msgstr ""
-"Vzdáním bych to já nenazvala, ale prosím, užívej si svůj způsob vyjádření."
+"„Vzdání se“ není popis, kterým bych to nazvala, ale dobře, ber to jak chceš."
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:139
 msgid "So, it is the traitor returning to greet his foe. How pleasant."
-msgstr "Takže zrádce se vrátil pozdravit své nepřátele. Jak rozkošné."
+msgstr "Takže zrádce se vrací pozdravit svého nepřítele. Jak dojemné."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:143
 msgid ""
 "What are you doing here? My quarrel is with the Wesnothians, not with you."
-msgstr "Co tady děláš? Jsem ve sporu s Wesnoťany, ne s tebou."
+msgstr "Co tady vůbec děláš? Svůj svár vedu s wesnothskými, ne s vámi."
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:147
@@ -2721,13 +2682,13 @@ msgid ""
 "I am the men's captain, so those who quarrel with them quarrel with me. We "
 "elves and men have aligned to bring you down!"
 msgstr ""
-"Jsem kapitánka těch mužů. Takže kdo má spor s nimi, má ho i se mnou. My "
-"elfové a lidi jsme se spojili, abysme tě smetli!"
+"Jsem kapitánkou těchto mužů, takže ti, kteří jsou s nimi ve sváru, jsou ve "
+"sváru se mnou. My elfové i lidé jsme se spojili, abychom tě potopili!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:151
 msgid "Think what you like. We will fight you if need be."
-msgstr "Jak myslíš. Budu s tebou bojovat, pokud to bude třeba."
+msgstr "Mysli si co chceš. Když bude třeba budeme s vámi bojovat."
 
 #. [message]: speaker=Lomanyas
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:158
@@ -2735,8 +2696,6 @@ msgid ""
 "Oh, and I see some of the Wesnothians you found are turncoats. Don't worry, "
 "they will die also."
 msgstr ""
-"Oh a vidím, že někteří z těch Wesnoťanů, co jsi potkal, přešli na tvoji "
-"stranu. Neboj se, oni také zemřou."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:179
@@ -2744,9 +2703,6 @@ msgid ""
 "With Lomanyas dead, I think we have defeated all of the Elves who sail the "
 "sea. We probably won't see them until we reach Elensefar..."
 msgstr ""
-"Teď když jsme zabili Lomanyas, myslím, že jsme pobili všechny elfy, co byli "
-"schopní plout po moři. Asi už žádné nepotkáme, dokud se nevrátíme do "
-"Elensefaru..."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:186
@@ -2754,8 +2710,6 @@ msgid ""
 "It is unfortunate the elves have also decided to oppose us. I suspect there "
 "are more of them roaming the seas."
 msgstr ""
-"Je to neštěstí, že se elfové také rozhodli jít proti nám. Mám podezření, že "
-"jich potuluje po moři víc."
 
 #. [campaign]: id=Saving_Elensefar
 #: Saving_Elensefar/_main.cfg:10
@@ -2771,12 +2725,30 @@ msgid ""
 msgstr ""
 "Meneldur, elfí námořník z Elensefaru, je vyhnán na moře skřety, kteří "
 "zaútočili na město. Musí shromáždit vojsko ochotné bojovat za osvobození "
-"Elensefaru, jeho adoptivního domova.\n"
+"Elensefaru, svého adoptivního domova.\n"
 
 #. [campaign]: id=Saving_Elensefar
 #: Saving_Elensefar/_main.cfg:17
 msgid "Expert level, 4 to 22 scenarios (depending of route taken)"
-msgstr ""
+msgstr "(Úroveň expert, 4 až 22 scénářů – podle zvolené cesty.)"
+
+#~ msgid ""
+#~ "Yes, and that would take lot of time. I hope there is nobody that can "
+#~ "hinder us doing it, but wait, we should explore the island and being sure "
+#~ "about it."
+#~ msgstr ""
+#~ "Ano a i to by mohlo trvat dlouho. Doufám, že nám v tom nebude nikdo "
+#~ "bránit. Hele, ale stejně bychom měli udělat průzkum ostrova, abychom "
+#~ "získali jistotu."
+
+#~ msgid "Campaign Design"
+#~ msgstr "Návrh tažení"
+
+#~ msgid "Translations"
+#~ msgstr "Překlady"
+
+#~ msgid "Campaign Maintenance"
+#~ msgstr "Údržba tažení"
 
 #~ msgid "(easiest)"
 #~ msgstr "(lehká)"
@@ -2804,9 +2776,9 @@ msgstr ""
 #~ "Upozornění:\n"
 #~ "Toto tažení používá často jiné mechanismy než je u většiny tažení "
 #~ "obvyklé. Ve většině scénářů nelze verbovat nové jednotky a i v těch, kde "
-#~ "je verbování možné, se mění aktuální možný výběr. Prostě seznam pro "
+#~ "je verbování možné, se aktuální možný výběr mění. Prostě seznam pro "
 #~ "verbování se nepřenáší ze scénáře do scénáře. Také pohyb mezi "
-#~ "jednotlivými scénáři funguje odlišně, pomocí velké interaktivní mapy."
+#~ "jednotlivými scénáři funguje odlišně, pomocí velké interaktivní mapy. "
 
 #~ msgid ""
 #~ "Because of this, this campaign is inadvisable for players new to Wesnoth "
@@ -2826,16 +2798,16 @@ msgstr ""
 #~ msgstr "Zapište si všichni za uši, že léčivý grog je v těch sudech."
 
 #~ msgid "Ah, some nice, refreshing grog! *gulp*"
-#~ msgstr "Jo, doušek skvělého osvěžujícího grogu! *polk*"
+#~ msgstr "Jo, doušek skvělého osvěžujícího grogu! \"polk\""
 
 #~ msgid "Drinking the grog heals $temp.user_description!"
-#~ msgstr "$temp.user_description byl vyléčen douškem grogu!"
+#~ msgstr "Doušek grogu vyléčil $temp.user_description!"
 
 #~ msgid "Ha! See, I can resurrect the dead! Now fear me!"
-#~ msgstr "Ha! Vidíte že umím probouzet mrtvé. Bojte se mě!"
+#~ msgstr "Ha! Vidíte, umím probouzet mrtvé. Bojte se mě!"
 
 #~ msgid "Amazing... so the stories are true!"
-#~ msgstr "Úžasné... takže příběhy nelhaly!"
+#~ msgstr "Úžasné ... takže příběhy nelhaly!"
 
 #~ msgid "You find 100 gold pieces in the orc's castle."
 #~ msgstr "Ve skřetí tvrzi jsi našel 100 zlatých."
@@ -2851,11 +2823,11 @@ msgstr ""
 #~ "Gladly! Also, there is some gold here that Kalandur was saving... you can "
 #~ "take it, since you did defeat him."
 #~ msgstr ""
-#~ "Rádi! A také máme nějaké zlato, které Kalandur ušetřil... protože jsi ho "
-#~ "porazil, je teď tvoje."
+#~ "Rádi! A také máme nějaké zlato, které Kalandur ušetřil ... můžeš si ho "
+#~ "vzít, protože jsi ho porazil."
 
 #~ msgid "Continue... the battle... for me..."
-#~ msgstr "Pokračujte... v boji... za mě..."
+#~ msgstr "Pokračujte ... v boji ... za mě ..."
 
 #~ msgid "Unghnhhghhnghh."
 #~ msgstr "Unghnhhhg."
@@ -2864,8 +2836,8 @@ msgstr ""
 #~ "Thank you for helping us regain our land! My men that were fighting with "
 #~ "you will join you now, although I will be staying here."
 #~ msgstr ""
-#~ "Díky, že jste nám pomohli znovu získat naši zem! Já zůstanu tady, ale "
-#~ "moji muži, co bojovali spolu s vámi, vás dál doprovodí."
+#~ "Díky, že jste nám pomohli znovu získat naši zem! Moji muži, co bojovali "
+#~ "spolu s vámi, vás dál doprovodí, ačkoli já zůstanu tady."
 
 #~ msgid ""
 #~ "They had 100 gold stored in their ship, and enough provisions to restock "
@@ -2877,20 +2849,14 @@ msgstr ""
 #~ msgid "One Week"
 #~ msgstr "Jeden týden"
 
-#~ msgid "We have unfinished business to attend to."
-#~ msgstr "Máme tu něco, co musíme dokončit."
-
 #~ msgid "Ahnnhnnhn..."
-#~ msgstr "Achhh..."
+#~ msgstr "Achhh ..."
 
 #~ msgid "Ughnnnhnnhn..."
-#~ msgstr "Unhn..."
+#~ msgstr "Unhn ..."
 
 #~ msgid "Ughnhnhnhhn..."
-#~ msgstr "Ughn..."
-
-#~ msgid "Ahnanzz..."
-#~ msgstr "Ahnanzz..."
+#~ msgstr "Ughn ..."
 
 #~ msgid "Do you really want to run away?"
 #~ msgstr "Opravdu chceš utéct?"
@@ -2906,10 +2872,6 @@ msgstr ""
 
 #~ msgid "Fight on!"
 #~ msgstr "Do boje!"
-
-# makro - nepřekládat, stejně to nefunguje
-#~ msgid "{DESC}"
-#~ msgstr "{DESC}"
 
 #~ msgid "quick, resilient"
 #~ msgstr "rychlý, houževnatý"
@@ -2960,7 +2922,7 @@ msgstr ""
 #~ msgstr ""
 #~ "Námořníci se plaví už od mládí po oceánu a jsou na moři stejně doma jako "
 #~ "na souši. Nenosí žádné brnění, aby mohli vykonávat všechny pohotové "
-#~ "pohyby a úkony, které se od člena posádky požadují. Mohlo by je pouze "
+#~ "pohyby a úkony, co se od člena posádky požadují. Mohlo by je pouze "
 #~ "zatěžovat a zvyšovat riziko utopení, kdyby spadli do hluboké vody. Jejich "
 #~ "jedinou výzbrojí je lehký kord, který nosí zavěšený přes rameno, když ho "
 #~ "nepoužívají."
