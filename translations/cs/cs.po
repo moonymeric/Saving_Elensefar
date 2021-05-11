@@ -1217,7 +1217,7 @@ msgid ""
 "felt betrayed."
 msgstr ""
 "Tři zachránci mu vyprávěli svůj příběh, o tom, že Elensefar již není "
-"provincií Wesnothu a jak nemrtvý dočasně \"žijí\" ve městě. Před svým "
+"provincií Wesnothu a jak nemrtví dočasně „žijí“ ve městě. Před svým "
 "uvězněním byl loajálním zastáncem království a ve vězení neustále očekával, "
 "kdy vojáci Wesnothu přijdou a osvobodí ho. Dokud mu neřekli o zradě "
 "Wesnothu, věřil, že jsou to muži Wesnothu, kdo připlul od moře k městu, kdo "
@@ -1770,7 +1770,7 @@ msgid ""
 "(but, significantly, not to Weldyn)."
 msgstr ""
 "Meneldur se narodil na severu, ve Wesmérii, ale z elfích zemí byl vyhnán po "
-"konfliktu s Velkým koncilem. Proto, ačkoli byl elf, Meneldur zaslíbil "
+"konfliktu s Velkou radou. Proto, ačkoli byl elf, Meneldur zaslíbil "
 "věrnost Elensefaru, a potažmo tedy i Wesnothu (ne však Weldynu)."
 
 #. [part]
@@ -1810,7 +1810,7 @@ msgid ""
 "most of the people had even noticed."
 msgstr ""
 "Po audienci, když se Meneldur se svými muži odebíral zpátky na loď, "
-"zaslechli podivný zvuk. Pronikavý hluk. Hluk, co vydává skřetí vojsko! "
+"zaslechli podivný hluk. Pronikavý hluk. Hluk, co vydává skřetí vojsko! "
 "Elensefar byl zčista jasna napaden, a to i přes to, že k tomu nezavdal "
 "žádnou příčinu. Město bylo obsazeno dřív, než se většina obyvatel stačila "
 "vzpamatovat."
@@ -2233,7 +2233,7 @@ msgid ""
 "Orc, you promised that, if we allied with you, you would free all the "
 "prisoners you took when you captured Elensefar. You have broken our pact!"
 msgstr ""
-"Skřeti, slíbili jste, pokud se s vámi spojíme, že osvobodíte všechny věžně, "
+"Skřeti, slíbili jste, že pokud se s vámi spojíme, tak osvobodíte všechny vězně, "
 "které jste zajmuli při obsazování Elensefaru. Porušili jste naši smlouvu!"
 
 #. [message]: speaker=Pakch-Glun
@@ -2434,7 +2434,7 @@ msgid ""
 "We have taken Elensefar and defeated the Wesnothians, but these Elves need "
 "attending to."
 msgstr ""
-"Zístali jsme Elensefar a porazili Wesnoťany, ale je třeba pohlídat ještě ty "
+"Získali jsme Elensefar a porazili Wesnoťany, ale je třeba pohlídat ještě ty "
 "elfy."
 
 #. [message]: speaker=second_unit
@@ -2465,7 +2465,7 @@ msgstr "Našel jsi 200 zlatých!"
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:553
 msgid "Good work, men. Onwards, we have to retake the city also!"
-msgstr "Dobrá práce posádko. Kupředu, ještě taky musíme zíkat město!"
+msgstr "Dobrá práce posádko. Kupředu, ještě taky musíme získat město!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:566
@@ -2611,7 +2611,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:126
 #, fuzzy
 msgid "I see..."
-msgstr "Ne, já tě – Já vidět člověka!"
+msgstr "Aha..."
 
 #. [message]: speaker=Kar-Salazz
 #: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:130
@@ -2646,7 +2646,7 @@ msgid ""
 "I heard about your defeat of the elves on the isle, and I knew you'd "
 "probably show up here sooner or later."
 msgstr ""
-"Slyšel jsem, jak jsi porazil elfy na ostrově. Věděl jsem, že by ses tu "
+"Slyšela jsem, jak jsi porazil elfy na ostrově. Věděla jsem, že by ses tu "
 "nejspíš mohl dříve nebo později objevit."
 
 #. [message]: speaker=Meneldur
