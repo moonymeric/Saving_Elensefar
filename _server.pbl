@@ -8,7 +8,7 @@ passphrase=
 email=
 description= _ "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who attacked the city. He must gather an army willing to fight for him to regain Elensefar, his adopted homeland.
 "+"
-"+"This version of 'Saving Elensefar' is a fork from turin's original on the Wesnoth 1.2 add-ons server. It was created to serve as a simpler alternative to trewe's version and to emphasize more traditional gameplay and up-to-date graphics."
+"+ _ "Expert level, 4 to 22 scenarios (depending of route taken)"
 
 [feedback]
     topic_id=3072
