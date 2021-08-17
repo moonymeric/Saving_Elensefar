@@ -1,0 +1,14 @@
+Version 0.0.0 - Date 2004-08-27 - Wesnoth 1.0.? - Maintainer 'turin'
+* https://forums.wesnoth.org/viewtopic.php?f=8&t=2850
+
+Version 0.1.0 - Date 2004-09-12 - Wesnoth 1.0.? - Maintainer 'turin'
+* https://forums.wesnoth.org/viewtopic.php?f=8&t=3072
+
+Version 1.0.0 - Date 2007-03-18 - Wesnoth 1.2.? - Maintainer 'turin'
+* https://add-ons.wesnoth.org/1.2/
+
+Version 1.1.0 - Date 2007-07-11 - Wesnoth 1.3.4 - Maintainer 'turin'
+* ???
+
+Version 2.0.0 - Date 2021-04-14 - Wesnoth 1.14.15 - Maintainer 'MoonyDragon'
+* https://github.com/moonymeric/Saving_Elensefar
