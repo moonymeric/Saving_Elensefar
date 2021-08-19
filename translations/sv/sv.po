@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -2862,8 +2862,60 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Expertnivå, 4 - 22 scenarion.)"
 
-#~ msgid "Scipius"
-#~ msgstr "Scipius"
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Sjöman"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Lätt"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navigatör"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normalsvårt"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Amiral"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Utmanande"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Kampanjdesign"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Kampanjunderhåll"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "WML Bidragsgivare"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Grafisk design"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Översättningar"
 
 #~ msgid "Scenario Rules:"
 #~ msgstr "Scenarioregler:"
@@ -2981,6 +3033,27 @@ msgstr "(Expertnivå, 4 - 22 scenarion.)"
 #~ msgid "Unghnhhghhnghh."
 #~ msgstr "Unghnhhghhnghh."
 
+#~ msgid "Ahnnhnnhn..."
+#~ msgstr "Ahnnhnnhn..."
+
+#~ msgid "Ughnnnhnnhn..."
+#~ msgstr "Ughnnnhnnhn..."
+
+#~ msgid "Ughnhnhnhhn..."
+#~ msgstr "Ughnhnhnhhn..."
+
+#~ msgid "Ahnanzz..."
+#~ msgstr "Ahnanzz..."
+
+#~ msgid "Elvish Admiral"
+#~ msgstr "Alvamiral"
+
+#~ msgid "Elvish Mariner"
+#~ msgstr "Alvsjöman"
+
+#~ msgid "Elvish Navigator"
+#~ msgstr "Alvnavigatör"
+
 #~ msgid "One Week"
 #~ msgstr "En vecka"
 
@@ -3001,3 +3074,15 @@ msgstr "(Expertnivå, 4 - 22 scenarion.)"
 
 #~ msgid "Fight on!"
 #~ msgstr "Kom igen! Fortsätt slåss!"
+
+#~ msgid "War Galleon"
+#~ msgstr "Örlogsgaljon"
+
+#~ msgid ""
+#~ "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. "
+#~ "Their task is to hunt down pirates - or whoever they choose to call "
+#~ "pirates - and destroy them. "
+#~ msgstr ""
+#~ "Wesnoths kungliga flotta innehar ett flertal mäktiga örlogsgaljoner. "
+#~ "Deras uppgift är att jaga pirater - eller vilka de nu får för sig att "
+#~ "kalla pirater - och förgöra dem."

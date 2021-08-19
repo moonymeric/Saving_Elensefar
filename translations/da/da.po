@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2008-11-17 22:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -2862,23 +2862,69 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Ekspertniveau, 4 - 22 scenarier.)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Sømand"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Nem"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navigatør"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normal"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Admiral"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Udfordrende"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Kampagnedesign"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Kampagnevedligeholdelse"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "WML-bidragydere"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Tegninger og grafik"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Oversættelser"
+
 #~ msgid "Scenario Rules:"
 #~ msgstr "Scenarie regler:"
 
 #~ msgid "(easiest)"
 #~ msgstr "(nemmest)"
 
-#~ msgid "Mariner"
-#~ msgstr "Sømand"
-
-#~ msgid "Navigator"
-#~ msgstr "Navigatør"
-
 #~ msgid "(hardest)"
 #~ msgstr "(sværest)"
-
-#~ msgid "Admiral"
-#~ msgstr "Admiral"
 
 #~ msgid "Turns run out"
 #~ msgstr "Tiden løber ud"

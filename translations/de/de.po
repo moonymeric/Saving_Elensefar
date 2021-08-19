@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2015-11-21 13:54+0100\n"
 "Last-Translator: Cornelius Kölbel <cornelius.koelbel@netknights.it>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -2963,6 +2963,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Einstufung: Experte, 4 bis 22 Szenarien)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Seefahrer"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Einfach"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navigator"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normal"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Admiral"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Herausfordernd"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Kampagnengestaltung"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Pflege und Erweiterung der Kampagne"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "WML Beiträge"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Zeichnungen und grafische Gestaltung"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Übersetzungen"
+
 #~ msgid "Scenario Rules:"
 #~ msgstr "Szenario Regeln:"
 
@@ -2980,17 +3035,8 @@ msgstr "(Einstufung: Experte, 4 bis 22 Szenarien)"
 #~ msgid "(easiest)"
 #~ msgstr "(einfach)"
 
-#~ msgid "Mariner"
-#~ msgstr "Seefahrer"
-
-#~ msgid "Navigator"
-#~ msgstr "Navigator"
-
 #~ msgid "(hardest)"
 #~ msgstr "(fordernd)"
-
-#~ msgid "Admiral"
-#~ msgstr "Admiral"
 
 #~ msgid "Turns run out"
 #~ msgstr "Rundenlimit überschritten"
@@ -3158,21 +3204,6 @@ msgstr "(Einstufung: Experte, 4 bis 22 Szenarien)"
 
 #~ msgid "Saving Elensefar Terrain"
 #~ msgstr "Terrain von der Rettung Elensefars"
-
-#~ msgid "Campaign Design"
-#~ msgstr "Kampagnengestaltung"
-
-#~ msgid "WML Contribution"
-#~ msgstr "WML Beiträge"
-
-#~ msgid "Artwork and Graphic Design"
-#~ msgstr "Zeichnungen und grafische Gestaltung"
-
-#~ msgid "Translations"
-#~ msgstr "Übersetzungen"
-
-#~ msgid "Campaign Maintenance"
-#~ msgstr "Pflege und Erweiterung der Kampagne"
 
 #~ msgid ""
 #~ "<b>Warning:</b> This campaign functions differently from most others in a "

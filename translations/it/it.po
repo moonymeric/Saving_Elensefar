@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: saving-elensefar-it\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2006-04-02 12:15+0200\n"
 "Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -2909,23 +2909,69 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Livello per esperti, 4 - 22 scenari.)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Marinaio"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Facile"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navigatore"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normale"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Ammiraglio"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Impegnativo"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Progetto della campagna"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Manutenzione della campagna"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Contributi WML"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Disegnatori e contributi artistici"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Traduzioni"
+
 #~ msgid "Scenario Rules:"
 #~ msgstr "Regole dello scenario:"
 
 #~ msgid "(easiest)"
 #~ msgstr "(facile)"
 
-#~ msgid "Mariner"
-#~ msgstr "Marinaio"
-
-#~ msgid "Navigator"
-#~ msgstr "Navigatore"
-
 #~ msgid "(hardest)"
 #~ msgstr "(difficile)"
-
-#~ msgid "Admiral"
-#~ msgstr "Ammiraglio"
 
 #~ msgid "Turns run out"
 #~ msgstr "Fine dei turni"

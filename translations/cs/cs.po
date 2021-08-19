@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2021-05-11 22:05+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -2844,6 +2844,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Úroveň expert, 4 až 22 scénářů – podle zvolené cesty.)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Námořník"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Lehká"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navigátor"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normální"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Admirál"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Náročná"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Návrh tažení"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Údržba tažení"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Skriptování tažení"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Kresby a grafika"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Překlady"
+
 #~ msgid "The Explorer"
 #~ msgstr "Průzkumník"
 
@@ -2868,29 +2923,11 @@ msgstr "(Úroveň expert, 4 až 22 scénářů – podle zvolené cesty.)"
 #~ "bránit. Hele, ale stejně bychom měli udělat průzkum ostrova, abychom "
 #~ "získali jistotu."
 
-#~ msgid "Campaign Design"
-#~ msgstr "Návrh tažení"
-
-#~ msgid "Translations"
-#~ msgstr "Překlady"
-
-#~ msgid "Campaign Maintenance"
-#~ msgstr "Údržba tažení"
-
 #~ msgid "(easiest)"
 #~ msgstr "(lehká)"
 
-#~ msgid "Mariner"
-#~ msgstr "Námořník"
-
-#~ msgid "Navigator"
-#~ msgstr "Navigátor"
-
 #~ msgid "(hardest)"
 #~ msgstr "(těžká)"
-
-#~ msgid "Admiral"
-#~ msgstr "Admirál"
 
 #~ msgid "Turns run out"
 #~ msgstr "Vyprší limit"

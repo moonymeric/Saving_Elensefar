@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.10\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2011-11-27 12:57+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -2843,6 +2843,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "Gyakorlott szint, 4-22 pálya (+ 3 szöveges rész)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Tengerész"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Könnyű"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Hajóskapitány"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Átlagos"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Admirális"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Kihívást Jelentő"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Hadjárat kialakítása"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Hadjárat karbantartása"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "WML-kód hozzájárulók"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Illusztrációk és grafikai arculat"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Fordítás"
+
 #~ msgid "The Explorer"
 #~ msgstr "The Explorer"
 
@@ -2861,17 +2916,8 @@ msgstr "Gyakorlott szint, 4-22 pálya (+ 3 szöveges rész)"
 #~ msgid "(easiest)"
 #~ msgstr "(legkönnyebb)"
 
-#~ msgid "Mariner"
-#~ msgstr "Tengerész"
-
-#~ msgid "Navigator"
-#~ msgstr "Hajóskapitány"
-
 #~ msgid "(hardest)"
 #~ msgstr "(legnehezebb)"
-
-#~ msgid "Admiral"
-#~ msgstr "Admirális"
 
 #~ msgid "Saving Elensefar Terrain"
 #~ msgstr "Elensefar felszabadítása terep"

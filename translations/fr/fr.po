@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2019-07-05 23:18+0200\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: none\n"
@@ -2946,6 +2946,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Niveau expert, entre 4 et 22 scénarios.)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Marin"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Facile"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navigateur"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normal"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Amiral"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Difficile"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Design de la campagne"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Maintenance de la campagne"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Contribution WML"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Artwork et design graphique"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Traductions"
+
 #~ msgid "The Explorer"
 #~ msgstr "L'Exploratrice"
 
@@ -4013,41 +4068,17 @@ msgstr "(Niveau expert, entre 4 et 22 scénarios.)"
 #~ msgid "Ship Dock"
 #~ msgstr "Quai"
 
-#~ msgid "Campaign Design"
-#~ msgstr "Design de la campagne"
-
 #~ msgid "Lead Developer, Campaign Idea, Original Author"
 #~ msgstr "Développeur principal, Idée de campagne, Auteur initial"
-
-#~ msgid "WML Contribution"
-#~ msgstr "Contribution WML"
 
 #~ msgid "Code Borrowing, Patches, Script Ideas, Lua Hooks"
 #~ msgstr "Emprunt de Code, Correctifs, Idées de Script, Lua Hooks"
 
-#~ msgid "Artwork and Graphic Design"
-#~ msgstr "Artwork et design graphique"
-
 #~ msgid "Campaign Custom Units, Terrain"
 #~ msgstr "Unités Personnalisées de la Campagne, Terrain"
 
-#~ msgid "Translations"
-#~ msgstr "Traductions"
-
-#~ msgid "Campaign Maintenance"
-#~ msgstr "Maintenance de la campagne"
-
-#~ msgid "Mariner"
-#~ msgstr "Marin"
-
 #~ msgid "(easiest)"
 #~ msgstr "(facile)"
-
-#~ msgid "Navigator"
-#~ msgstr "Navigateur"
-
-#~ msgid "Admiral"
-#~ msgstr "Amiral"
 
 #~ msgid "(hardest)"
 #~ msgstr "(difficile)"

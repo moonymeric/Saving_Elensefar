@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2006-06-20 14:08+0900\n"
 "Last-Translator: Moroder <moroderwesnoth@gmail.com>\n"
 "Language-Team: none\n"
@@ -2899,23 +2899,69 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Nível Veterano, 4 até 22 cenários.)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Marinheiro"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Fácil"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navegador"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normal"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Almirante"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Desafiador"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Design da Camapanha"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Manutenção da Campanha"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Contribuições de WML"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Artwork e Design Gráfico"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Traduções"
+
 #~ msgid "Scenario Rules:"
 #~ msgstr "Regras do Cenário:"
 
 #~ msgid "(easiest)"
 #~ msgstr "(Fácil)"
 
-#~ msgid "Mariner"
-#~ msgstr "Marinheiro"
-
-#~ msgid "Navigator"
-#~ msgstr "Navegador"
-
 #~ msgid "(hardest)"
 #~ msgstr "(Difícil)"
-
-#~ msgid "Admiral"
-#~ msgstr "Almirante"
 
 #~ msgid "Turns run out"
 #~ msgstr "Fim dos Turnos"

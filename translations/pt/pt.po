@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2014-09-28 19:45-0000\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: none\n"
@@ -4105,6 +4105,83 @@ msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Nível Veterano, 4 até 22 cenários.)"
 
 #
+# File: Saving_Elensefar/_main.cfg, line: 36
+# File: Saving_Elensefar/_main.cfg, line: 32
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Marinheiro"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Fácil"
+
+#
+# File: Saving_Elensefar/_main.cfg, line: 37
+# File: Saving_Elensefar/_main.cfg, line: 33
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navegador"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normal"
+
+#
+# File: Saving_Elensefar/_main.cfg, line: 38
+# File: Saving_Elensefar/_main.cfg, line: 34
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Almirante"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Desafiante"
+
+#
+# File: Saving_Elensefar/credits.cfg, line: 6
+# File: Saving_Elensefar/credits.cfg, line: 6
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Projecto da Campanha"
+
+#
+# File: Saving_Elensefar/credits.cfg, line: 86
+# File: Saving_Elensefar/credits.cfg, line: 86
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Manutenção da Campanha"
+
+# File: Saving_Elensefar/credits.cfg, line: 14
+# File: Saving_Elensefar/credits.cfg, line: 14
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Contribuição de WML"
+
+# File: Saving_Elensefar/credits.cfg, line: 40
+# File: Saving_Elensefar/credits.cfg, line: 40
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Trabalho Artístico e Projecto Gráfico"
+
+#
+# File: Saving_Elensefar/credits.cfg, line: 57
+# File: Saving_Elensefar/credits.cfg, line: 57
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Traduções"
+
+#
 # File: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg, line: 97
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 347
 # File: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg, line: 94
@@ -4148,24 +4225,6 @@ msgstr "(Nível Veterano, 4 até 22 cenários.)"
 #~ msgstr "(mais fácil)"
 
 #
-# File: Saving_Elensefar/_main.cfg, line: 36
-# File: Saving_Elensefar/_main.cfg, line: 32
-#~ msgid "Mariner"
-#~ msgstr "Marinheiro"
-
-#
-# File: Saving_Elensefar/_main.cfg, line: 37
-# File: Saving_Elensefar/_main.cfg, line: 33
-#~ msgid "Navigator"
-#~ msgstr "Navegador"
-
-#
-# File: Saving_Elensefar/_main.cfg, line: 38
-# File: Saving_Elensefar/_main.cfg, line: 34
-#~ msgid "Admiral"
-#~ msgstr "Almirante"
-
-#
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #~ msgid "(hardest)"
@@ -4176,36 +4235,6 @@ msgstr "(Nível Veterano, 4 até 22 cenários.)"
 # File: Saving_Elensefar/_main.cfg, line: 61
 #~ msgid "Saving Elensefar Terrain"
 #~ msgstr "Terreno de “O Resgate de Elensefar”"
-
-#
-# File: Saving_Elensefar/credits.cfg, line: 6
-# File: Saving_Elensefar/credits.cfg, line: 6
-#~ msgid "Campaign Design"
-#~ msgstr "Projecto da Campanha"
-
-#
-# File: Saving_Elensefar/credits.cfg, line: 14
-# File: Saving_Elensefar/credits.cfg, line: 14
-#~ msgid "WML Contribution"
-#~ msgstr "Contribuição de WML"
-
-#
-# File: Saving_Elensefar/credits.cfg, line: 40
-# File: Saving_Elensefar/credits.cfg, line: 40
-#~ msgid "Artwork and Graphic Design"
-#~ msgstr "trabalho artístico e Projecto Gráfico"
-
-#
-# File: Saving_Elensefar/credits.cfg, line: 57
-# File: Saving_Elensefar/credits.cfg, line: 57
-#~ msgid "Translations"
-#~ msgstr "Traduções"
-
-#
-# File: Saving_Elensefar/credits.cfg, line: 86
-# File: Saving_Elensefar/credits.cfg, line: 86
-#~ msgid "Campaign Maintenance"
-#~ msgstr "Manutenção da Campanha"
 
 #
 # File: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg, line: 24

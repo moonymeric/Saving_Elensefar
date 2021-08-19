@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: iven, olga_flox, marat <maratelektron@rambler.ru>\n"
 "Language-Team: iven, olga_flox, kamardin, marat <maratelektron@rambler.ru>\n"
@@ -2909,6 +2909,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "(Для опытных игроков, от 4 до 22 сценариев.)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Моряк"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Лёгкий"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Штурман"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Нормальный"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Адмирал"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Сложный"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "оформление кампании"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Куратор кампании"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Авторы WML"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Графика и дизайн"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Переводы"
+
 #~ msgid "The Explorer"
 #~ msgstr "Странник"
 
@@ -2935,38 +2990,14 @@ msgstr "(Для опытных игроков, от 4 до 22 сценариев
 #~ msgid "Expected campaign length: about 12 scenarios (one year)"
 #~ msgstr "Ожидаемая длина кампании около 12 сценариев (один год)"
 
-#~ msgid "Mariner"
-#~ msgstr "Моряк"
-
 #~ msgid "(easiest)"
 #~ msgstr "(самый легкий)"
-
-#~ msgid "Navigator"
-#~ msgstr "Штурман"
-
-#~ msgid "Admiral"
-#~ msgstr "Адмирал"
 
 #~ msgid "(hardest)"
 #~ msgstr "(самый трудный)"
 
 #~ msgid "Saving Elensefar Terrain"
 #~ msgstr "Карты Спасения Эленсефара"
-
-#~ msgid "Campaign Design"
-#~ msgstr "оформление кампании"
-
-#~ msgid "WML Contribution"
-#~ msgstr "WML"
-
-#~ msgid "Artwork and Graphic Design"
-#~ msgstr "Художественные работы"
-
-#~ msgid "Translations"
-#~ msgstr "Переводы"
-
-#~ msgid "Campaign Maintenance"
-#~ msgstr "Куратор кампании"
 
 #~ msgid ""
 #~ "In this campaign you will play with multiple leaders each with his own "

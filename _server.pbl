@@ -1,4 +1,4 @@
-#textdomain wesnoth-Saving_Elensefar
+#textdomain wesnoth-se
 title= _ "Saving Elensefar"
 type="campaign"
 icon="units/transport/transport-galleon.png~RC(magenta>red)"

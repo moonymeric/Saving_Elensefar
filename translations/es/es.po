@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.12\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2014-10-25 22:32+0100\n"
 "Last-Translator: Pepe <donpepe1963@gmail.com>\n"
 "Language-Team: Spanish <kde-i18n-doc@kde.org>\n"
@@ -2924,6 +2924,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "Nivel experto, 4 — 22 escenarios (según sea la ruta que se tome)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "Marinero"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "Fácil"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "Navegante"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "Normal"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "Almirante"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "Desafiante"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "Diseño de campaña"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "Mantenimiento de la campaña"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "Contribución al WML"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "Trabajo artístico y diseño gráfico"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "Traducciones"
+
 #~ msgid "The Explorer"
 #~ msgstr "El Explorador"
 
@@ -2950,35 +3005,11 @@ msgstr "Nivel experto, 4 — 22 escenarios (según sea la ruta que se tome)"
 #~ msgid "(easiest)"
 #~ msgstr "(fácil)"
 
-#~ msgid "Mariner"
-#~ msgstr "Marinero"
-
-#~ msgid "Navigator"
-#~ msgstr "Navegante"
-
 #~ msgid "(hardest)"
 #~ msgstr "(difícil)"
 
-#~ msgid "Admiral"
-#~ msgstr "Almirante"
-
 #~ msgid "Saving Elensefar Terrain"
 #~ msgstr "Terreno de Salvando Elensefar"
-
-#~ msgid "Campaign Design"
-#~ msgstr "Diseño de campaña"
-
-#~ msgid "WML Contribution"
-#~ msgstr "Contribución al WML"
-
-#~ msgid "Artwork and Graphic Design"
-#~ msgstr "Trabajo artístico y diseño gráfico"
-
-#~ msgid "Translations"
-#~ msgstr "Traducciones"
-
-#~ msgid "Campaign Maintenance"
-#~ msgstr "Mantenimiento de la campaña"
 
 #~ msgid ""
 #~ "In this campaign you will play with multiple leaders each with his own "

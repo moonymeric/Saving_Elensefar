@@ -23,7 +23,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.12\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-18 20:24 UTC\n"
+"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
 "PO-Revision-Date: 2014-09-15 13:48+0900\n"
 "Last-Translator: oo <ooyooxei+ws@gmail.com>\n"
 "Language-Team: \n"
@@ -2817,6 +2817,61 @@ msgstr ""
 msgid "(Expert level, 4 - 22 scenarios.)"
 msgstr "上級者レベル、4 - 22シナリオ (選んだルートによる)"
 
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Mariner"
+msgstr "水夫"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:19
+msgid "Easy"
+msgstr "易しい"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Navigator"
+msgstr "航海長"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:20
+msgid "Normal"
+msgstr "ノーマル"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Admiral"
+msgstr "提督"
+
+#. [campaign]: id=Saving_Elensefar
+#: Saving_Elensefar/_main.cfg:21
+msgid "Challenging"
+msgstr "挑戦的"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:3
+msgid "Campaign Design"
+msgstr "キャンペーンデザイン"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "キャンペーンのメンテナンス"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:23
+msgid "WML Contributors"
+msgstr "WMLへの貢献"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:58
+msgid "Artwork and Graphics Design"
+msgstr "アートワークとグラフィックデザイン"
+
+#. [about]
+#: Saving_Elensefar/about.cfg:77
+msgid "Translations"
+msgstr "翻訳"
+
 #~ msgid "The Explorer"
 #~ msgstr "Explorer号"
 
@@ -2842,35 +2897,11 @@ msgstr "上級者レベル、4 - 22シナリオ (選んだルートによる)"
 #~ msgid "(easiest)"
 #~ msgstr "(最も簡単)"
 
-#~ msgid "Mariner"
-#~ msgstr "水夫"
-
-#~ msgid "Navigator"
-#~ msgstr "航海長"
-
-#~ msgid "Admiral"
-#~ msgstr "提督"
-
 #~ msgid "(hardest)"
 #~ msgstr "(最も難しい)"
 
 #~ msgid "Saving Elensefar Terrain"
 #~ msgstr "Elensefar救援の地形"
-
-#~ msgid "Campaign Design"
-#~ msgstr "キャンペーンデザイン"
-
-#~ msgid "WML Contribution"
-#~ msgstr "WMLへの貢献"
-
-#~ msgid "Artwork and Graphic Design"
-#~ msgstr "アートワークとグラフィックデザイン"
-
-#~ msgid "Translations"
-#~ msgstr "翻訳"
-
-#~ msgid "Campaign Maintenance"
-#~ msgstr "キャンペーンのメンテナンス"
 
 #~ msgid ""
 #~ "In this campaign you will play with multiple leaders each with his own "
