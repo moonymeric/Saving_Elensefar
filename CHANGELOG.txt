@@ -32,3 +32,9 @@ Version 2.1.0 - Date 2021-06-17 - Wesnoth 1.14.15 - Maintainer 'MoonyDragon'
 
 Version 2.1.1 - Date 2021-07-02 - Wesnoth 1.14.15+ - Maintainer 'MoonyDragon'
 * added compatibility with Wesnoth 1.15 and 1.16
+
+Version 2.2.0 - Date 2021-08-19 - Wesnoth 1.14.15+ - Maintainer 'MoonyDragon'
+* replaced Caravel with Transport Galleon
+* integrated allied sides in scenario 2 and 3
+* reimplemented expendable leaders and limited recruits
+* expanded existing translations

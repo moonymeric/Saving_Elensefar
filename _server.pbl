@@ -2,7 +2,7 @@
 title= _ "Saving Elensefar"
 type="campaign"
 icon="units/transport/transport-galleon.png~RC(magenta>red)"
-version="2.1.1"
+version="2.2.0"
 author="turin"
 passphrase=
 email=
