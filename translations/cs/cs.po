@@ -159,7 +159,7 @@ msgstr "Pokračujte... v boji... za mě..."
 #. [scenario]: id=r1_Sea_Battle
 #: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:3
 msgid "Sea Battle"
-msgstr " Námořní bitva"
+msgstr "Námořní bitva"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:389
