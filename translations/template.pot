@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-19 11:57 UTC\n"
+"POT-Creation-Date: 2021-08-22 10:21 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -124,7 +124,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:181
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:428
+#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:439
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:280
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:169
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:349
@@ -149,8 +149,18 @@ msgstr ""
 msgid "Sea Battle"
 msgstr ""
 
+#. [message]: speaker=narrator
+#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:386
+msgid "War Galleon"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:387
+msgid "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. Their task is to hunt down pirates - or whoever they choose to call pirates - and destroy them."
+msgstr ""
+
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:389
+#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:400
 msgid "They had 100 gold stored in their ship, and enough provisions to restock our ship."
 msgstr ""
 
