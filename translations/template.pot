@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-08-22 10:21 UTC\n"
+"POT-Creation-Date: 2021-09-21 00:29 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:129
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:91
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:160
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:119
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:114
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:93
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:178
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:93
@@ -65,7 +65,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:133
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:95
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:164
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:123
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:118
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:97
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:182
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:97
@@ -87,7 +87,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:137
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:99
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:168
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:127
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:122
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:101
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:186
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:101
@@ -124,14 +124,14 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:181
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:439
+#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:428
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:280
 #: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:169
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:349
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:286
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:281
 #: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:307
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:315
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:203
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:204
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:370
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:308
 #: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:287
@@ -149,18 +149,8 @@ msgstr ""
 msgid "Sea Battle"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:386
-msgid "War Galleon"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:387
-msgid "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. Their task is to hunt down pirates - or whoever they choose to call pirates - and destroy them."
-msgstr ""
-
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:400
+#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:389
 msgid "They had 100 gold stored in their ship, and enough provisions to restock our ship."
 msgstr ""
 
@@ -326,7 +316,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:155
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:114
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:109
 #: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:120
 #: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:139
 #: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:304
@@ -461,83 +451,83 @@ msgstr ""
 msgid "Narian"
 msgstr ""
 
-#. [message]: speaker=Narian
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:147
+#. [message]: speaker=Handran
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:142
 msgid "It is the traitor who killed Aldran and Thendol approaching! Prepare to destroy him."
 msgstr ""
 
 #. [message]: speaker=Narian
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:151
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:146
 msgid "Meneldur! I bear a message from the King! If you surrender now, your life will be spared. The King is even willing to aid you in your quest to regain Elensefar. But you must pledge allegiance to the Throne again, and agree to aid it in its battles."
 msgstr ""
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:155
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:150
 msgid "Hah! And what will you do with me and my kind, who have joined with Meneldur and are bound to him? Doubtlessly you would kill us."
 msgstr ""
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:159
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:154
 msgid "He is right. We can defeat these forces, and rid this area of their lordship."
 msgstr ""
 
 #. [message]: speaker=Handran
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:163
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:158
 msgid "Your ship has been captured by others of us. You do not know what awaits you further up the isle... I tell you, if you refuse this you are a dead man, whether I die or not."
 msgstr ""
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:167
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:162
 msgid "Your threats do not scare me. Prepare for battle, men!"
 msgstr ""
 
 #. [message]: speaker=Narian
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:171
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:166
 msgid "Very well, you have chosen. Handran, send a scout to the leader and tell her Meneldur has refused our offer. She will be most displeased."
 msgstr ""
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:187
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:182
 msgid "I wonder what that was all about..."
 msgstr ""
 
 #. [unit]: type=Swordsman, id=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:206
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:201
 msgid "Conscript"
 msgstr ""
 
 #. [message]: speaker=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:235
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:230
 msgid "Meneldur! It seems that our commanders and our best fighters have been killed. If you leave us now, we will probably die, since only they knew how to command our ship. Have mercy, and help us!"
 msgstr ""
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:239
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:234
 msgid "What would you have me do? Give you navigators to help you? Why would I do that for an enemy?"
 msgstr ""
 
 #. [message]: speaker=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:243
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:238
 msgid "Well, why don't you let us join you? There is nothing else for us to do."
 msgstr ""
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:247
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:242
 msgid "Wouldn't that make you a traitor?"
 msgstr ""
 
 #. [message]: speaker=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:251
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:246
 msgid "No, since I don't think you are traitors, and my commander is dead. It is just joining another battalion."
 msgstr ""
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:255
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:250
 msgid "Well, if he puts it that way, why should we refuse? We can always use fresh recruits."
 msgstr ""
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:259
+#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:254
 msgid "Very well... now, we will move further down the peninsula to regain our ship."
 msgstr ""
 
@@ -1145,12 +1135,12 @@ msgid "Whatever. We will see if he actually can raise anything, and if we come o
 msgstr ""
 
 #. [message]: speaker=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:162
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163
 msgid "Ha! See, I can resurrect the dead! Now fear me!"
 msgstr ""
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:166
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:167
 msgid "Amazing... so the stories are true!"
 msgstr ""
 
