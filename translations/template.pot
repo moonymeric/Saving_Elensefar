@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-10-28 19:00 UTC\n"
+"POT-Creation-Date: 2021-11-05 20:14 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -744,7 +744,7 @@ msgstr ""
 
 #. [part]
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:41
-msgid "Meneldur gathered around himself a crew of true Elensians; stout spearmen, and ruthless men of the saber. He also brought many of the archers from his elvish house out of the northlands, to sail with him on his ship."
+msgid "Meneldur gathered around himself a crew of true Elensians; stout spearmen, and ruthless men of the saber. He also brought many of the archer from his elvish house out of the northlands, to sail with him on his ship."
 msgstr ""
 
 #. [part]
@@ -1326,7 +1326,7 @@ msgstr ""
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:243
-msgid "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we must either land on an island or capture an enemy ship every 6 weeks."
+msgid "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
 
 #. [message]: speaker=Explorer
