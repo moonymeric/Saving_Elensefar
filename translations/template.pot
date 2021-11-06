@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-05 20:14 UTC\n"
+"POT-Creation-Date: 2021-11-06 20:01 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1438,7 +1438,7 @@ msgstr ""
 
 #. [message]: speaker=Explorer
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:750
-msgid "(Black the Red) This is the land I was talking about. Land here, and we will get the warriors we need."
+msgid "This is the land I was talking about. Land here, and we will get the warriors we need."
 msgstr ""
 
 #. [unit]: type=Orcish Warrior, id=Dal-Alkra
