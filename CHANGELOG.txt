@@ -30,11 +30,20 @@ Version 2.1.0 - Date 2021-06-17 - Wesnoth 1.14.15 - Maintainer 'MoonyDragon'
 * added czech translation by Septim
 * added more unit variety to recruit lists
 
-Version 2.1.1 - Date 2021-07-02 - Wesnoth 1.14.15+ - Maintainer 'MoonyDragon'
+Version 2.1.1 - Date 2021-07-02 - Wesnoth 1.14.15 - Maintainer 'MoonyDragon'
 * added compatibility with Wesnoth 1.15 and 1.16
 
-Version 2.2.0 - Date 2021-08-19 - Wesnoth 1.14.15+ - Maintainer 'MoonyDragon'
+Version 2.2.0 - Date 2021-08-19 - Wesnoth 1.14.15 - Maintainer 'MoonyDragon'
 * replaced Caravel with Transport Galleon
 * integrated allied sides in scenario 2 and 3
 * reimplemented expendable leaders and limited recruits
 * expanded existing translations
+
+Version 2.3.0 - Date 2021-11-07 - Wesnoth 1.16.0 - Maintainer 'MoonyDragon'
+* updated german, czech and japanese translations
+* added an improved english translation
+* changed leader recruits to side recruits
+* changed expendable leaders to loyal units
+* improved enemy recruits, leaders, portraits, ai and gold
+* added shroud hints and minor improvements to some maps
+* added xp bonus after completing an island
