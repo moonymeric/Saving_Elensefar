@@ -2388,9 +2388,7 @@ msgstr "Igen, a következő. Akkor készülj a halálra!"
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:149
 #, fuzzy
 msgid "Whatever. We will see if he actually can raise anything."
-msgstr ""
-"Végül is mindjárt meglátjuk, hogy képes-e bármit is megidézni, s kijutunk-e "
-"innen valaha is."
+msgstr "Végül is mindjárt meglátjuk, hogy képes-e bármit is megidézni."
 
 #. [message]: speaker=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163

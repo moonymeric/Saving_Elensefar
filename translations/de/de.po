@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-06 20:01 UTC\n"
-"PO-Revision-Date: 2021-11-05 22:59+0100\n"
-"Last-Translator: Erik Thomas Weber <e.t.weber@web.de>\n"
+"PO-Revision-Date: 2021-11-12 22:41+0100\n"
+"Last-Translator: MoonyDragon <e.t.weber@web.de>\n"
 "Language-Team: German <>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -1207,7 +1207,7 @@ msgstr "Madru"
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
 msgid "Move Meneldur to the Explorer"
-msgstr "Bewegt Meneldur zu seinem Schiff"
+msgstr "Bewege Meneldur zu seinem Schiff"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:264
@@ -1215,8 +1215,8 @@ msgid ""
 "Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
 "have to reach the ship!"
 msgstr ""
-"Orks! Orks greifen an! Es sind zu viele, wir können sie nicht alle besiegen, "
-"wir müssen das Schiff erreichen!"
+"Orks! Orks greifen an! Es sind zu viele, und wir können sie nicht alle"
+" besiegen. Wir müssen das Schiff erreichen!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:268
@@ -1256,7 +1256,7 @@ msgstr "Asknak"
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:214
 msgid ""
 "Defeat Bakrakha, the Orcish Warlord, and then survive until end of turns"
-msgstr "Besiegt Bakrakha und überlebt dann bis zur Rundenbegrenzung"
+msgstr "Besiege Bakrakha und überlebe dann bis zur Rundenbegrenzung"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:237

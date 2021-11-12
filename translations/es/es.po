@@ -2264,7 +2264,7 @@ msgstr ""
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:233
 #, fuzzy
 msgid "Orcs! Kill them!"
-msgstr "¡Orcos! Mátenlos!"
+msgstr "¡Orcos! ¿Tendrán algo que ver con el robo de nuestro barco?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:251

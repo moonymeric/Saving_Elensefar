@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-06 20:01 UTC\n"
-"PO-Revision-Date: 2021-11-06 20:16+0100\n"
-"Last-Translator: Erik Thomas Weber <e.t.weber@web.de>\n"
+"PO-Revision-Date: 2021-11-12 22:35+0100\n"
+"Last-Translator: MoonyDragon <e.t.weber@web.de>\n"
 "Language-Team: English <>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -1151,7 +1151,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
 msgid "Move Meneldur to the Explorer"
-msgstr ""
+msgstr "Move Meneldur to his ship"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:264
