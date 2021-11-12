@@ -108,14 +108,14 @@ msgstr "Morte de Black, o Ruivo"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:121
-#, fuzzy
+# fuzzy
 msgid "This island is completely dead. We cannot reprovision here."
 msgstr ""
 "Esta ilha está praticamente morto. Só podemos reabastecer devagar aqui."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:125
-#, fuzzy
+# fuzzy
 msgid ""
 "Yes, there is no one on this island, but what about that one to the west? "
 "The water is shallow enough to wade over there, let's see if there are "
@@ -260,7 +260,7 @@ msgstr "Muito bem que a batalha comece."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:140
-#, fuzzy
+# fuzzy
 msgid ""
 "We have plenty of time to restock the ship now. We can train our troops here "
 "for a few days."
@@ -1037,7 +1037,7 @@ msgstr "Batalha Naval"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:399
-#, fuzzy
+# fuzzy
 msgid ""
 "They had 100 gold stored in their ship, and enough provisions to restock our "
 "ship."
@@ -1183,7 +1183,7 @@ msgstr "Madru"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
-#, fuzzy
+# fuzzy
 msgid "Move Meneldur to the Explorer"
 msgstr "Mova Meneldur para o Explorador"
 
@@ -1959,7 +1959,7 @@ msgstr "Leva mais de 30 semanas para chegar às terras ocidentais"
 
 #. [note]
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:220
-#, fuzzy
+# fuzzy
 msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board the ship."
@@ -2230,7 +2230,7 @@ msgstr ""
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:233
-#, fuzzy
+# fuzzy
 msgid "Orcs! Kill them!"
 msgstr "Orcs! Será que estarão por detrás do roubo do nosso navio?"
 
@@ -2250,7 +2250,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:265
-#, fuzzy
+# fuzzy
 msgid "You find 100 gold pieces in the orc's castle."
 msgstr "Encontraste algumas peças de ouro no castelo orc."
 
@@ -2434,13 +2434,13 @@ msgstr "Seja como for. Veremos se pode mesmo conjurar qualquer coisa."
 
 #. [message]: speaker=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163
-#, fuzzy
+# fuzzy
 msgid "Ha! See, I can resurrect the dead! Now fear me!"
 msgstr "Ha! Veja, eu posso ressuscitar os mortos! Agora temam-me!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:167
-#, fuzzy
+# fuzzy
 msgid "Amazing... so the stories are true!"
 msgstr "Incrivel... então as histórias são verdadeiras!"
 
@@ -2706,7 +2706,7 @@ msgstr "Porque um navio de Elensefar carrega bandidos e ladrões?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:182
-#, fuzzy
+# fuzzy
 msgid ""
 "They come from the... less wealthy parts of Elensefar. But they are still "
 "fiercely loyal to it. They will be good fighters. I will join, if you'll "

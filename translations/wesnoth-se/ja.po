@@ -130,7 +130,7 @@ msgstr "ブラック・ザ・レッドの死"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:121
-#, fuzzy
+# fuzzy
 msgid "This island is completely dead. We cannot reprovision here."
 msgstr "この島はほぼ死にたえている。ここではゆっくりとしか補給できない。"
 
@@ -278,7 +278,7 @@ msgstr "けっこうだね。戦闘を開始しよう。"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:140
-#, fuzzy
+# fuzzy
 msgid ""
 "We have plenty of time to restock the ship now. We can train our troops here "
 "for a few days."
@@ -1188,7 +1188,7 @@ msgstr "マドルー"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
-#, fuzzy
+# fuzzy
 msgid "Move Meneldur to the Explorer"
 msgstr "メネルダーとマドルーをエクスプローラー号へ移動させよ (マップの南西)"
 
@@ -1239,7 +1239,7 @@ msgstr "アスクナック"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:214
-#, fuzzy
+# fuzzy
 msgid ""
 "Defeat Bakrakha, the Orcish Warlord, and then survive until end of turns"
 msgstr "南の将軍バクラクハーを倒せ。そしてターンの終わりまで生き残れ。"
@@ -1251,7 +1251,7 @@ msgstr "ターンが尽きて、バクラクハーがまだ生きている。"
 
 #. [message]: speaker=Bakrakha
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:251
-#, fuzzy
+# fuzzy
 msgid ""
 "So, little orc-maggots, you got so low as to call down some Wesfolk from the "
 "north to help with your trying to take over the castle!?! Not going to "
@@ -1263,7 +1263,7 @@ msgstr ""
 # BakrakraはBakrakhaのtypoと判断
 #. [message]: speaker=Sakdur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:255
-#, fuzzy
+# fuzzy
 msgid ""
 "We didn't call no human scum out of the north, though we could use their "
 "help! You been king far too long, Bakrakra! You aint got us meat, and you "
@@ -1285,7 +1285,7 @@ msgstr ""
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:263
-#, fuzzy
+# fuzzy
 msgid ""
 "I don't think we should get involved here. These orcs can fight each other, "
 "and they won't care if we wait here and restock."
@@ -1295,7 +1295,7 @@ msgstr ""
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:267
-#, fuzzy
+# fuzzy
 msgid ""
 "I don't think it's that simple. That orc in the castle has all the food, we "
 "can't restock from here."
@@ -1310,7 +1310,7 @@ msgstr "では提案は ?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:275
-#, fuzzy
+# fuzzy
 msgid ""
 "Well, we will definitely have to kill the orc in the castle, to get the "
 "food. But to get to him, we should probably go around the river, which leads "
@@ -1328,13 +1328,13 @@ msgstr "よし。さて、とにかく船に補給が終わるまで生き残ら
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:324
-#, fuzzy
+# fuzzy
 msgid "We have defeated all of the orcs; refill the ship, and we'll leave."
 msgstr "氏族の男たちを全員倒した。船に補給しろ。それから出発しよう。"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:365
-#, fuzzy
+# fuzzy
 msgid "We did not manage to kill the orc leader, and now we are out of food..."
 msgstr "うまく敵の指揮官を殺せなかった。そしてもう食料が尽きた……"
 
@@ -2244,7 +2244,7 @@ msgstr "オークだ !　やつらを殺せ !"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:251
-#, fuzzy
+# fuzzy
 msgid "A bridge! What do you think is across it?"
 msgstr "橋だ !　どこへ通じているんだ ?"
 
@@ -2445,7 +2445,7 @@ msgstr "そのとおり、おまえたちはそうすべきだ !　さて、�
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:149
-#, fuzzy
+# fuzzy
 msgid "Whatever. We will see if he actually can raise anything."
 msgstr ""
 "勝手にしてくれ。やつが実際になにかを呼び起こせるのか見てみよう。そしてわれわ"

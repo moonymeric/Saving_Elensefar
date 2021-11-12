@@ -106,7 +106,7 @@ msgstr "Véreskezű Kalóz elesik"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:121
-#, fuzzy
+# fuzzy
 msgid "This island is completely dead. We cannot reprovision here."
 msgstr ""
 "Ez a sziget szinte teljesen kihalt. Csak sokára tudjuk feltölteni a "
@@ -114,7 +114,7 @@ msgstr ""
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:125
-#, fuzzy
+# fuzzy
 msgid ""
 "Yes, there is no one on this island, but what about that one to the west? "
 "The water is shallow enough to wade over there, let's see if there are "
@@ -1157,7 +1157,7 @@ msgstr "Madru"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
-#, fuzzy
+# fuzzy
 msgid "Move Meneldur to the Explorer"
 msgstr "Meneldur eljut a hajójához, az Explorerhez"
 
@@ -2386,19 +2386,19 @@ msgstr "Igen, a következő. Akkor készülj a halálra!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:149
-#, fuzzy
+# fuzzy
 msgid "Whatever. We will see if he actually can raise anything."
 msgstr "Végül is mindjárt meglátjuk, hogy képes-e bármit is megidézni."
 
 #. [message]: speaker=Ak-Avanu
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163
-#, fuzzy
+# fuzzy
 msgid "Ha! See, I can resurrect the dead! Now fear me!"
 msgstr "Ha! Látod, fel tudom támasztani a halottakat! Most féljetek tőlem!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:167
-#, fuzzy
+# fuzzy
 msgid "Amazing... so the stories are true!"
 msgstr "Elképesztő... szóval a történetek igazak!"
 
