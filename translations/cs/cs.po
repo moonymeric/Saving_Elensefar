@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-06 20:01 UTC\n"
-"PO-Revision-Date: 2021-08-20 21:22+0200\n"
+"PO-Revision-Date: 2021-11-07 12:53+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -110,9 +110,8 @@ msgstr "Rudý Černes zemře"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:121
-#, fuzzy
 msgid "This island is completely dead. We cannot reprovision here."
-msgstr "Na tomto ostrově skoro nic není. Nemůžem tady doplnit zásoby."
+msgstr "Na tomto ostrově nic není. Nemůžem tady doplnit zásoby."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:125
@@ -258,7 +257,6 @@ msgstr "Tak dobře. Ať bitva započne. "
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:140
-#, fuzzy
 msgid ""
 "We have plenty of time to restock the ship now. We can train our troops here "
 "for a few days."
@@ -1165,9 +1163,8 @@ msgstr "Madru"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
-#, fuzzy
 msgid "Move Meneldur to the Explorer"
-msgstr "Přesuň Meneldura k Průzkumníkovi"
+msgstr "Přesuň Meneldura na Průzkumníka"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:264
@@ -1213,10 +1210,9 @@ msgstr "Ašknak"
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:214
-#, fuzzy
 msgid ""
 "Defeat Bakrakha, the Orcish Warlord, and then survive until end of turns"
-msgstr "Poraz Bakrakru, jižního válečného vůdce, a pak přežij do konce kol"
+msgstr "Poraz Bakrakru, skřetího válečného vůdce, a pak přežij do konce kol"
 
 #. [objective]: condition=lose
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:237
@@ -1225,27 +1221,26 @@ msgstr "Vyprší počet kol a Bakrakra bude stále naživu"
 
 #. [message]: speaker=Bakrakha
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:251
-#, fuzzy
 msgid ""
 "So, little orc-maggots, you got so low as to call down some Wesfolk from the "
 "north to help with your trying to take over the castle!?! Not going to "
 "happen on my watch!"
 msgstr ""
 "Takže vy, malí červi, jste se snížili k tomu, že jste si přivolali nějakýho "
-"ostrovana ze severu, aby vám pomohl zkusit ovládnout hrad!?! To se nestane, "
+"wesnoťana ze severu, aby vám zkusil pomoct ovládnout hrad!?! To se nestane, "
 "dokud tu na to dohlížim! "
 
 #. [message]: speaker=Sakdur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:255
-#, fuzzy
 msgid ""
 "We didn't call no human scum out of the north, though we could use their "
 "help! You been king far too long, Bakrakra! You aint got us meat, and you "
 "aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
 msgstr ""
-"Ze severu jsme si nepřivolávali žádnou lidskou spodinu, i když by nám byla k "
-"užitku! Jsi už příliš dlouho náčelníkem, Bakrakro! Syslíš si maso i půdu. "
-"Já, Ašknak, nebo dokonce i ten lich tady jsme schopný tomu velet líp než ty!"
+"My jsme si ze severu žádnou lidskou spodinu nepřivolali, i když by nám byla "
+"k užitku!\n"
+"Už si tu kraluješ moc dlouho, Bakrakro! Syslíš si maso i půdu. Já, Ašknak, "
+"nebo dokonce i ten lich tady jsme schopný tomu velet líp než ty!"
 
 #. [message]: speaker=Asknak
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:259
@@ -1258,22 +1253,20 @@ msgstr ""
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:263
-#, fuzzy
 msgid ""
 "I don't think we should get involved here. These orcs can fight each other, "
 "and they won't care if we wait here and restock."
 msgstr ""
-"Nemyslím si, že bychom se do toho měli plést. Tyhle klany budou spolu "
-"bojovat a nebudou se starat, jestli tu chvlíli budeme a doplníme zásoby."
+"Nemyslím si, že bychom se do toho měli plést. Tyhle skřeti se spolu budou "
+"mlátit a nebudou se starat, jestli tu chvlíli pobudeme a doplníme zásoby."
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:267
-#, fuzzy
 msgid ""
 "I don't think it's that simple. That orc in the castle has all the food, we "
 "can't restock from here."
 msgstr ""
-"Nemyslím si, že je to tak jednoduchý. Tady nemůžem doplnit zásoby, protože "
+"Nemyslím si, že je to tak jednoduchý. Nemůžem doplnit zásoby tady, protože "
 "všechno jídlo má ten maník na hradě."
 
 #. [message]: speaker=Meneldur
@@ -1283,15 +1276,14 @@ msgstr "Takže co navrhuješ udělat?"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:275
-#, fuzzy
 msgid ""
 "Well, we will definitely have to kill the orc in the castle, to get the "
 "food. But to get to him, we should probably go around the river, which leads "
 "us past all the other orcs. We might have to kill them all."
 msgstr ""
-"Abychom získali jídlo, budem muset určitě zabít toho náčelníka na hradě. Ale "
-"jestli se chcem k němu dostat, měli bychom nejspíš obejít řeku, což nás "
-"přivede ke všem ostatním členům klanů. Možná je budem muset všechny zabít."
+"No, abychom získali jídlo, budem muset určitě zabít toho skřeta na hradě. "
+"Ale jestli se chcem k němu dostat, měli bychom nejspíš obejít řeku, což nás "
+"přivede ke všem ostatním skřetům. Možná je budem muset všechny pobít."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:313
@@ -1300,15 +1292,13 @@ msgstr "Dobře, teď jen musíme vydržet dokud nedoplníme lodní zásoby."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:324
-#, fuzzy
 msgid "We have defeated all of the orcs; refill the ship, and we'll leave."
-msgstr "Porazili jsme všechny klanové bojovníky. Doplňte zásoby a odrazíme."
+msgstr "Porazili jsme všechny skřety. Doplňte zásoby a odrazíme."
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:365
-#, fuzzy
 msgid "We did not manage to kill the orc leader, and now we are out of food..."
-msgstr "Nepovedlo se nám zabít nepřátelského vůdce a teď jsme bez jídla..."
+msgstr "Nepovedlo se nám zabít skřetího vůdce a teď jsme bez jídla..."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:376
@@ -2122,8 +2112,8 @@ msgid ""
 "This is the land I was talking about. Land here, and we will get the "
 "warriors we need."
 msgstr ""
-"To je země, o které jsem mluvil. Tady přistaneme a získáme válečníky, které"
-" potřebujeme."
+"To je země, o které jsem mluvil. Tady přistaneme a získáme válečníky, které "
+"potřebujeme."
 
 #. [unit]: type=Orcish Warrior, id=Dal-Alkra
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:68
@@ -2205,9 +2195,8 @@ msgstr "Skřeti! Zabte je!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:251
-#, fuzzy
 msgid "A bridge! What do you think is across it?"
-msgstr "Most! Co může být na druhé straně?"
+msgstr "Most! Co tak může být na druhé straně?"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:255
@@ -2395,7 +2384,6 @@ msgstr "Ano, to byste měli! A teď se připravte na odchod ze života!"
 
 #. [message]: speaker=Madru
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:149
-#, fuzzy
 msgid "Whatever. We will see if he actually can raise anything."
 msgstr "Jak je libo. Uvidíme, jestli vlastně umí něco oživit."
 
