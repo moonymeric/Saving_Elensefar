@@ -1,0 +1,105 @@
+wesnoth-se-2.3.0-ja-14:
+
+ * Saving Elensefar 2.3.0版対応
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2021-11-07
+
+
+wesnoth-se-2.2.0-ja-13:
+
+ * Saving Elensefar 2.2.0版対応
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2021-08-20
+
+
+wesnoth-Saving_Elensefar-2.0.1-ja-12:
+
+ * Saving Elensefar 2.0.1版対応
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2021-05-08
+
+
+wesnoth-Saving_Elensefar-2.0.0-ja-11:
+
+ * Saving Elensefar 2.0.0版対応
+ * 和文二重ハイフンをKATAKANA-HIRAGANA DOUBLE HYPHENに変更。
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2021-04-15
+
+
+wesnoth-Saving_Elensefar-1.6.4a-ja-10:
+
+ * 名前の表記を一部修正
+ * 文字間空白や記号類など表示にかかわる修正
+ * 敬称のSirは卿でなくてサーにする
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2017-08-19
+
+
+wesnoth-Saving_Elensefar-1.6.4a-ja-9:
+
+ * 名前の表記を一部修正
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2017-04-12
+
+
+wesnoth-Saving_Elensefar-1.6.4a-ja-8:
+
+ * 名前の表記を一部修正
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2017-04-07
+
+
+wesnoth-Saving_Elensefar-1.6.4a-ja-7:
+
+ * 全体的に改訳
+ * 日本語表記ルール変更
+ * 役物・空白類の使い方変更
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2017-01-08
+
+
+wesnoth-Saving_Elensefar-1.6.4a-ja-6:
+
+ * BfW 1.12.5用語への修正抜けを修正
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2016-01-16
+
+
+wesnoth-Saving_Elensefar-1.6.4a-ja-5:
+
+ * Saving Elensefar 1.6.4a版対応
+ * 日本語表記の開きルール変更
+ * ダッシュ・ハイフンの表記修正
+ * BfW 1.12.5の用語にできるだけあわせた
+ * 翻訳くさい代名詞を修正
+ * ライセンスをGPLv3+に変更
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2016-01-03
+
+
+wesnoth-Saving_Elensefar-1.6.3-ja-4:
+
+ * Saving Elensefar 1.6.3版対応
+ * 訳文を一部修正
+ * 日本語になってない句読点を修正
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2015-07-03
+
+
+wesnoth-Saving_Elensefar-1.6.2c-ja-3:
+
+ * Saving Elensefar 1.6.2c版対応
+ * 訳文を一部修正
+ * 原文から変更なしの語句を空文字列にするのをやめる
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2014-11-30
+
+
+wesnoth-Saving_Elensefar-1.5.7-ja-2:
+
+ * 最初の正式公開版 (以前のものはライセンス的に不備があったの削除)
+
+-- OOTA, Masato <ooyooxei+ws@gmail.com>  2014-09-15
+
+

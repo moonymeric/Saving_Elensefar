@@ -23,153 +23,1044 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Saving Elensefar 2.2.0\n"
-"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-06 20:01 UTC\n"
-"PO-Revision-Date: 2021-08-20 19:23+0900\n"
+"Project-Id-Version: Saving Elensefar 2.3.0\n"
+"POT-Creation-Date: 2021-11-07 20:15+0900\n"
+"PO-Revision-Date: 2021-11-07 20:33+0900\n"
 "Last-Translator: OOTA, Masato <ooyooxei+ws@gmail.com>\n"
-"Language-Team: Japanese <>\n"
+"Language-Team: None\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Revision: 13\n"
+"X-Revision: 14\n"
 
-#. [scenario]: id=i4_Fire_Island
+#. [campaign]: id=Saving_Elensefar
 #. [label]
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:593
-msgid "Fire Island"
-msgstr "火の島"
+#. [scenario]: id=4_Saving_Elensefar
+#: _main.cfg:9 scenarios/4_Saving_Elensefar.cfg:3
+#: scenarios/r0_The_High_Seas.cfg:508
+msgid "Saving Elensefar"
+msgstr "エレンスファー救援"
 
-#. [unit]: type=Drake Flare, id=Dalakar
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:66
-msgid "Dalakar"
-msgstr "ダラカー"
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:10
+msgid "SE"
+msgstr "SE"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:18
+msgid ""
+"Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
+"attacked the city. He must gather an army willing to fight for him to regain "
+"Elensefar, his adopted homeland."
+msgstr ""
+"エレンスファーのエルフの船乗りであるメネルダーは、町を攻撃したオークによって"
+"海へ追いやられます。メネルダーは仲間となって戦ってくれる軍隊を集め、第 2 の故"
+"郷であるエレンスファーを取り戻さなければなりません。"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:20
+msgid "(Expert level, 4 - 22 scenarios.)"
+msgstr "(上級者レベル、4–22 シナリオ)"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:22
+msgid "Mariner"
+msgstr "船乗り"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:22
+msgid "Easy"
+msgstr "簡単"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:23
+msgid "Navigator"
+msgstr "航海長"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:23
+msgid "Normal"
+msgstr "ふつう"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:24
+msgid "Challenging"
+msgstr "挑戦的"
+
+#. [campaign]: id=Saving_Elensefar
+#: _main.cfg:24
+msgid "Admiral"
+msgstr "提督"
+
+#. [about]
+#: about.cfg:3
+msgid "Campaign Design"
+msgstr "キャンペーンデザイン"
+
+#. [about]
+#: about.cfg:10
+msgid "Campaign Maintenance"
+msgstr "キャンペーンの保守"
+
+#. [about]
+#: about.cfg:25
+msgid "WML Contributors"
+msgstr "WML への貢献者"
+
+#. [about]
+#: about.cfg:60
+msgid "Artwork and Graphics Design"
+msgstr "アートワークとグラフィックデザイン"
+
+#. [about]
+#: about.cfg:79
+msgid "Translations"
+msgstr "翻訳"
+
+#. [scenario]: id=1_Escaping_the_Orcs
+#: scenarios/1_Escaping_the_Orcs.cfg:3
+msgid "Escaping the Orcs"
+msgstr "オークからの逃亡"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:21
+msgid ""
+"Warning: This campaign functions differently from most others in a number of "
+"ways. You cannot recruit anyone in most scenarios, and in those you can what "
+"you can recruit is always different - what is on your recruit list does not "
+"carry over fron scenario to scenario. Also, moving from scenario to scenario "
+"is handled differently, with the help of an interactive bigmap."
+msgstr ""
+"注意 : このキャンペーンはいろいろな形でほかのほとんどのキャンペーンとは異なる"
+"振る舞いをします。ほとんどのシナリオではだれも雇用できません。できる場合でも"
+"ふつうとは異なった形での雇用になります。つまり、雇用リストにある者はシナリオ"
+"からシナリオへと持ち越されないのです。そのうえ、シナリオからシナリオへの移動"
+"の扱いも異なります。移動は大きなマップの上での操作によっておこなわれます。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:25
+msgid ""
+"Because of this, this campaign is inadvisable for players new to Wesnoth who "
+"want to gain an understanding of how the game normally works. However, it "
+"will prove an interesting experience for those who have played normal "
+"campaigns before."
+msgstr ""
+"このため、このキャンペーンはふつうのゲームのやりかたを学びたがっている "
+"Wesnoth の新規プレイヤーにはお勧めしません。しかし、すでにふつうのキャンペー"
+"ンをプレイした人には興味深い経験となることでしょう。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:29
+msgid ""
+"This is the story of the time when Elensefar was a province in the vast "
+"kingdom of Wesnoth. It is the story of a time of great forgetfulness, when "
+"much of what was once known had been forgotten, but also of great knowledge. "
+"It is the story of Meneldur the Mariner, who used the newfound knowledge to "
+"resurrect some of the old. But, it is, most of all, the story of the voyage "
+"of his ship, and what he encountered while traveling the high seas..."
+msgstr ""
+"これはエレンスファーが広大なウェスノス王国の一地方だった時代の物語です。ま"
+"た、大いなる忘却の時代の物語です。この時代は、かつて知られていたことの多くが"
+"忘れられ、すぐれた知識でさえ忘れさられたのでした。そして、これは船乗りメネル"
+"ダーの物語でもあります。メネルダーは新しく発見された知識を使い、古きなにもの"
+"かを生き返らせました。しかし、これはなににもまして、その航海、そして外洋を航"
+"海して出会った出来事の物語なのです。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:33
+msgid ""
+"Before the tale begins, it is important to know that none of the seafaring "
+"men or elves, including Meneldur, were willing to travel far out of sight of "
+"the coast. Instead, they remained near land, and sailed only north and "
+"south, for they dimly remembered tales from Haldric's day, of dragons, and "
+"sea serpents, and snake-men, who lurked on the islands that lay to the west "
+"of the continent."
+msgstr ""
+"話を始めるまえに、海に生きる男たちやエルフたち、たとえばメネルダーですが、そ"
+"のだれもが岸が見えないような遠くまで航海したいとは思っていなかったのだと知る"
+"ことが重要です。代わりに、船は陸の近くに留まり、南北にだけ帆走しました。これ"
+"はハルドリックの時代からほのかに記憶されていたお話のためです。それによれば、"
+"ドラゴンや海蛇、そして蛇男が、大陸の西にある島々に潜伏しているのでした。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:37
+msgid ""
+"Meneldur was born in the northlands, in Wesmere, but was outcast from the "
+"elvish lands because of a conflict with the High Council. Thus, although an "
+"elf, Meneldur had pledged his loyalty to Elensefar, and thus to Wesnoth "
+"(but, significantly, not to Weldyn)."
+msgstr ""
+"メネルダーは北の土地にあるウェスミアで生まれましたが、最高評議会との対立によ"
+"りエルフの土地から追放されてしまいました。そのため、エルフでありながらメネル"
+"ダーはエレンスファーに忠誠を誓っていました。そしてそれゆえ、ウェスノスにもで"
+"す (しかし意味深ではありますが、ウェルディンに、ではありませんでした)。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:41
+msgid ""
+"Meneldur gathered around himself a crew of true Elensians; stout spearmen, "
+"and ruthless men of the saber. He also brought many of the archer from his "
+"elvish house out of the northlands, to sail with him on his ship."
+msgstr ""
+"メネルダーは乗組員として真のエレンスファー人を集めました。がっしりした槍兵や"
+"非情なサーベル使いたちです。そのうえ自分の一族にいる射手を北の土地からたくさ"
+"ん連れだし、自分の船でいっしょに航海することにしました。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:45
+msgid ""
+"Now our story begins. On a night about 10 years after he first came to "
+"Elensefar, Meneldur returned to Elensefar from a trading voyage to the Bay "
+"of Pearls. When Meneldur had landed in Elensefar, he went to the castle to "
+"recieve directions from the Lord of Elensefar as to where his new voyage was "
+"to wend. He was to travel south to the Elven peninsula, and trade with the "
+"southern elves."
+msgstr ""
+"いま、わたしたちの物語が始まります。それはメネルダーが最初にエレンスファーに"
+"来てから 10 年ほどたったある夜のことです。メネルダーは真珠の入江との交易の航"
+"海からエレンスファーへ戻ってきました。そしてエレンスファーへ上陸して城に行"
+"き、エレンスファーの領主からの指示を仰ぎにいきました。それで新しい航海の行き"
+"先が決まるはずです。そうしてメネルダーはエルフの半島の南へ旅して、南のエルフ"
+"と交易をすることになりました。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:49
+msgid ""
+"After the meeting, as Meneldur and his men headed back to their ship, they "
+"noticed a strange sound. A harsh sound. The sound of orcs! Elensefar was "
+"under attack, with no provocation. The city had been quickly overrun, before "
+"most of the people had even noticed."
+msgstr ""
+"打ちあわせが終わり、メネルダーと仲間たちが船に戻ろうとしたところ、奇妙な音に"
+"気がつきました。耳障りな音です。オークの声だ !　エレンスファーは攻撃を受けて"
+"いましたが、一方的でした。町はただちに占領され、ほとんどの住民が気づいたのは"
+"そのあとです。"
+
+#. [part]
+#: scenarios/1_Escaping_the_Orcs.cfg:53
+msgid ""
+"Meneldur had only one option left - get back on his boat and flee. But there "
+"were already orcs blocking his path to the harbor..."
+msgstr ""
+"メネルダーには選択肢がひとつしかありませんでした。それは自分の船に戻って逃げ"
+"ることです。しかしすでに港へ行く道をふさぐようにオークがいました……"
+
+#. [unit]: type=Elvish Captain, id=Meneldur
+#. [unit]: type=Transport Galleon, id=Explorer
+#. [unit]: type=Transport Galleon, id=Meneldur_Ship
+#: scenarios/1_Escaping_the_Orcs.cfg:127 scenarios/f1-Attacked_at_Sea.cfg:70
+#: scenarios/r0_The_High_Seas.cfg:115
+msgid "Meneldur"
+msgstr "メネルダー"
+
+#. [unit]: type=Duelist, id=Madru
+#: scenarios/1_Escaping_the_Orcs.cfg:149
+msgid "Madru"
+msgstr "マドルー"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:88
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:90
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:366
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:88
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:91
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:112
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:100
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:88
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:88
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:86
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:121
-msgid "Defeat enemy leader"
-msgstr "敵の指揮官を倒せ"
+#: scenarios/1_Escaping_the_Orcs.cfg:235
+msgid "Move Meneldur to the Explorer"
+msgstr "メネルダーをエクスプローラー号へ移動させよ"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:93
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:95
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:335
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:371
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:240
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:219
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:93
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:96
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:117
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:161
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:114
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:105
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:129
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:93
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:93
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:91
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:126
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:148
+#: scenarios/1_Escaping_the_Orcs.cfg:240 scenarios/2_A_Naval_Engagement.cfg:126
+#: scenarios/3_Blackmore_the_Black.cfg:161 scenarios/4_Saving_Elensefar.cfg:335
+#: scenarios/i1_The_Swampland.cfg:93 scenarios/i2_Orc_Mountain.cfg:95
+#: scenarios/i3-1_Theft.cfg:105 scenarios/i3-2_Back_to_the_Ship.cfg:148
+#: scenarios/i4_Fire_Island.cfg:93 scenarios/i5-1_Traitors.cfg:93
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:129 scenarios/i6_Frozen_Lands.cfg:117
+#: scenarios/i7-1_Wesnothian_Forces.cfg:91
+#: scenarios/i7-2_A_Kings_Demand.cfg:114
+#: scenarios/i7-3_Off_the_Peninsula.cfg:96
+#: scenarios/i8_The_Desert_Island.cfg:93 scenarios/i9_The_Ruined_Port.cfg:219
+#: scenarios/r1_Sea_Battle.cfg:371
 msgid "Death of Meneldur"
 msgstr "メネルダーの死"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:97
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:99
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:339
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:375
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:244
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:223
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:97
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:100
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:121
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:165
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:118
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:109
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:133
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:97
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:97
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:95
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:130
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:152
+#: scenarios/1_Escaping_the_Orcs.cfg:244 scenarios/2_A_Naval_Engagement.cfg:130
+#: scenarios/3_Blackmore_the_Black.cfg:165 scenarios/4_Saving_Elensefar.cfg:339
+#: scenarios/i1_The_Swampland.cfg:97 scenarios/i2_Orc_Mountain.cfg:99
+#: scenarios/i3-1_Theft.cfg:109 scenarios/i3-2_Back_to_the_Ship.cfg:152
+#: scenarios/i4_Fire_Island.cfg:97 scenarios/i5-1_Traitors.cfg:97
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:133 scenarios/i6_Frozen_Lands.cfg:121
+#: scenarios/i7-1_Wesnothian_Forces.cfg:95
+#: scenarios/i7-2_A_Kings_Demand.cfg:118
+#: scenarios/i7-3_Off_the_Peninsula.cfg:100
+#: scenarios/i8_The_Desert_Island.cfg:97 scenarios/i9_The_Ruined_Port.cfg:223
+#: scenarios/r1_Sea_Battle.cfg:375
 msgid "Death of Madru"
 msgstr "マドルーの死"
 
+#. [message]: speaker=Meneldur
+#: scenarios/1_Escaping_the_Orcs.cfg:264
+msgid ""
+"Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
+"have to reach the ship!"
+msgstr ""
+"オークだ !　オークが攻撃している !　多すぎて、撃退するのは無理だ。船へ行かな"
+"ければ !"
+
+# 帆船時代の初期(?) CaptainとShipmasterがいた、らしい。
+# Captainは兵の隊長で、Shipmasterは軍に徴用された商船の船長。
+# このキャンペーンでも両者がいるので、隊長・船長とする。
+# Captain=キャプテン、Shipmaster=シップマスターにしてしまってもいいかもしれない。
+#. [message]: speaker=Madru
+#: scenarios/1_Escaping_the_Orcs.cfg:268
+msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
+msgstr "了解、隊長。みんな船へ。できるだけ急ぐんだ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/1_Escaping_the_Orcs.cfg:286
+msgid "Now, we go out to sea. I expect our city is doomed..."
+msgstr "さあ、海に出た。われわれの町は破滅だろうな……"
+
+#. [scenario]: id=2_A_Naval_Engagement
+#: scenarios/2_A_Naval_Engagement.cfg:3
+msgid "A Naval Engagement"
+msgstr "海戦"
+
+#. [message]: speaker=Explorer
+#. [unit]: type=Shadow Mage, id=Black
+#. [unit]: type=Transport Galleon, id=Black_Ship
+#: scenarios/2_A_Naval_Engagement.cfg:68 scenarios/f1-Attacked_at_Sea.cfg:85
+#: scenarios/r0_The_High_Seas.cfg:748
+msgid "Black the Red"
+msgstr "ブラック・ザ・レッド"
+
+#. [unit]: type=Lieutenant, id=Aldran
+#. [unit]: type=Transport Galleon, id=Aldran_Ship
+#: scenarios/2_A_Naval_Engagement.cfg:90 scenarios/f1-Attacked_at_Sea.cfg:100
+msgid "Aldran"
+msgstr "アルドラン"
+
+#. [objective]: condition=win
+#: scenarios/2_A_Naval_Engagement.cfg:121 scenarios/i1_The_Swampland.cfg:88
+#: scenarios/i2_Orc_Mountain.cfg:90 scenarios/i3-1_Theft.cfg:100
+#: scenarios/i4_Fire_Island.cfg:88 scenarios/i5-1_Traitors.cfg:88
+#: scenarios/i6_Frozen_Lands.cfg:112 scenarios/i7-1_Wesnothian_Forces.cfg:86
+#: scenarios/i7-3_Off_the_Peninsula.cfg:91
+#: scenarios/i8_The_Desert_Island.cfg:88 scenarios/r1_Sea_Battle.cfg:366
+msgid "Defeat enemy leader"
+msgstr "敵の指揮官を倒せ"
+
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:101
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:103
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:343
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:379
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:227
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:101
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:104
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:125
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:169
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:122
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:113
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:137
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:101
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:101
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:99
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:134
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:156
+#: scenarios/2_A_Naval_Engagement.cfg:134
+#: scenarios/3_Blackmore_the_Black.cfg:169 scenarios/4_Saving_Elensefar.cfg:343
+#: scenarios/i1_The_Swampland.cfg:101 scenarios/i2_Orc_Mountain.cfg:103
+#: scenarios/i3-1_Theft.cfg:113 scenarios/i3-2_Back_to_the_Ship.cfg:156
+#: scenarios/i4_Fire_Island.cfg:101 scenarios/i5-1_Traitors.cfg:101
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:137 scenarios/i6_Frozen_Lands.cfg:125
+#: scenarios/i7-1_Wesnothian_Forces.cfg:99
+#: scenarios/i7-2_A_Kings_Demand.cfg:122
+#: scenarios/i7-3_Off_the_Peninsula.cfg:104
+#: scenarios/i8_The_Desert_Island.cfg:101 scenarios/i9_The_Ruined_Port.cfg:227
+#: scenarios/r1_Sea_Battle.cfg:379
 msgid "Death of Black the Red"
 msgstr "ブラック・ザ・レッドの死"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:121
-# fuzzy
-msgid "This island is completely dead. We cannot reprovision here."
-msgstr "この島はほぼ死にたえている。ここではゆっくりとしか補給できない。"
+#: scenarios/2_A_Naval_Engagement.cfg:154
+msgid ""
+"Why do you stop us? We seek help. I come from Elensefar, which, as far as we "
+"can tell, was just captured by orcs!"
+msgstr ""
+"なぜわれわれを止める ?　われわれは助力を求めにいくところだ。わたしはエレンス"
+"ファーの者だが、わかっているかぎりでは、エレンスファーはちょうどオークに占領"
+"されたところなんだ !"
+
+#. [message]: speaker=Aldran
+#: scenarios/2_A_Naval_Engagement.cfg:158
+msgid ""
+"You are interfering with our mission; we are trying to chase down this "
+"magician pirate."
+msgstr ""
+"おまえたちはわれわれの任務をじゃましている。われわれはこの魔法使いの海賊を追"
+"いつめようとしているんだ。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:125
+#: scenarios/2_A_Naval_Engagement.cfg:162
 msgid ""
-"Yes, there is no one on this island, but what about that one to the west? "
-"The water is shallow enough to wade over there, let's see if there are "
-"people there."
+"I'm not a pirate! I also come from Elensefar, and I must have left port a "
+"few days before it was attacked. This is the first I've heard of it."
 msgstr ""
-"そうだ。だれもこの島にはいない。しかし西の島はどうだ ?　歩いて渡れるほど浅い"
-"から、だれかいないかどうか確かめよう。"
+"わたしは海賊じゃない !　わたしもエレンスファーの者だ。わたしが港を離れたの"
+"は、攻撃を受ける数日まえのことにちがいない。攻撃のことを聞いたのは初めてだか"
+"らな。"
+
+#. [message]: speaker=Aldran
+#: scenarios/2_A_Naval_Engagement.cfg:166
+msgid ""
+"You dog, don't bother us with your lies! You attacked a ship of the Royal "
+"Navy with your spells, and now you will pay for it!"
+msgstr ""
+"犬め、うそをついて面倒事を引き起こそうとするんじゃない !　おまえは海軍の船を"
+"呪文で攻撃したんだ。これからその代償を支払うことになる !"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:143
-msgid "What are these beasts? They look like miniature dragons!"
-msgstr "あの獣はなんだ ?　小型のドラゴンみたいだ !"
+#: scenarios/2_A_Naval_Engagement.cfg:170
+msgid ""
+"I need loyal warriors from Elensefar to help me on my quest. Black the Red, "
+"do you want to join me in retaking Elensefar from these orcs?"
+msgstr ""
+"わたしはエレンスファーに忠実で航海に協力してくれる戦士を求めています。ブラッ"
+"ク・ザ・レッド、オークからエレンスファーを取り戻すのに協力してくれますか ?"
+
+#. [message]: speaker=Aldran
+#: scenarios/2_A_Naval_Engagement.cfg:174
+msgid ""
+"Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
+msgstr ""
+"それならおまえは悪党だ !　ここにいるエレンスファー人はみんな同じだ。兵士た"
+"ち、こいつらを殺せ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/2_A_Naval_Engagement.cfg:178
+msgid "Why is a ship from Elensefar carrying bandits and thieves?"
+msgstr "エレンスファーの船が、なんで山賊や盗人を乗せているんだ ?"
+
+#. [message]: speaker=Black
+#: scenarios/2_A_Naval_Engagement.cfg:182
+msgid ""
+"They come from the... less wealthy parts of Elensefar. But they are still "
+"fiercely loyal to it. They will be good fighters. I will join, if you'll "
+"have me."
+msgstr ""
+"この者たちはエレンスファーの……比較的貧しい地域の出身なんだ。しかしエレンス"
+"ファーには猛烈な忠誠心をもっている。みんなよい戦士になることだろう。わたしは"
+"協力するつもりだ。わたしでよければだが。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/2_A_Naval_Engagement.cfg:186
+msgid ""
+"Very well. Thats not so different from my own crew. Aldran - we will not "
+"fight you if you do not attack us, but you must let us go on our way."
+msgstr ""
+"けっこうだ。こちらの乗組員ともそれほど違いはない。アルドラン、あなたが攻撃し"
+"てこなければ、戦うつもりはない。しかし留めだてはしないでくれ。"
+
+#. [message]: speaker=Aldran
+#: scenarios/2_A_Naval_Engagement.cfg:190
+msgid ""
+"Ha! I will bring you and your ally in to Weldyn to be tried for treason. And "
+"it does not matter it is two boats to one; I have already sent a boat to "
+"inform the King, and get reinforcements."
+msgstr ""
+"ハ !　おまえと仲間をウェルディンに引ったてて反逆罪のかどで裁判にかけてやる。"
+"2 対 1 などたいしたことはない。すでに王には通報船を送ったから、援軍が来る。"
+
+#. [message]: speaker=Black
+#: scenarios/2_A_Naval_Engagement.cfg:199
+msgid "Well, what is it anyway that you people want? Why did you help us?"
+msgstr ""
+"さて、とにかくきみたちが望んでいるのはなんなんだ ?　なぜわれわれを助けた ?"
+
+#. [message]: speaker=Meneldur
+#: scenarios/2_A_Naval_Engagement.cfg:203
+msgid ""
+"We go out to sea, to build up an army large enough to retake Elensefar. "
+"You're an Elensian, right? I think you owe us your help. We did just save "
+"you from death, and now we have the men of Wesnoth against us in return."
+msgstr ""
+"われわれは海へ出たんだが、それはエレンスファーを取り戻せるくらい大きな軍隊を"
+"作るためだ。あなたはエレンスファー人だな ?　あなたにはわれわれを助ける義務が"
+"あると思う。まさにわれわれが死から救ったんだからな。そしていまとなっては、そ"
+"のおかげでウェスノス兵を敵にまわすことになってしまった。"
+
+#. [message]: speaker=Black
+#: scenarios/2_A_Naval_Engagement.cfg:207
+msgid ""
+"Well, I have been in Elensefar, and owe some help to it. Very well. Here is "
+"what I will do. There is an island in the west that has many warriors on it "
+"who will be willing to help you; I will join you, and try to convince those "
+"warriors to also, if you grant me one request."
+msgstr ""
+"まあ、わたしはエレンスファーに住んでいたんだから、助ける義務があるな。けっこ"
+"うだ。それこそわれわれがしたいことだ。さて、西にある島には多くの戦士がいて、"
+"きみに協力してもかまわないと思うことだろう。わたしもきみたちに加わって、それ"
+"からその戦士たちを説得しよう。もしきみがわたしの要求をひとつ聞いてくれたら。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:147
+#: scenarios/2_A_Naval_Engagement.cfg:211
+msgid "Which is?"
+msgstr "なんだ ?"
+
+#. [message]: speaker=Black
+#: scenarios/2_A_Naval_Engagement.cfg:215
 msgid ""
-"They do not look like they belong on this island. Perhaps they came from the "
-"south? In any case, they don't look friendly."
-msgstr ""
-"この島のものには見えないな。ことによると南から来たのだろうか ?　いずれにせよ"
-"友好的ではなさそうだな。"
+"I can't tell you until we reach the Western isle I told you about. That's "
+"part of the fun."
+msgstr "わたしが言った西の島に着くまでは教えられない。楽しみにしておいてくれ。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i4_Fire_Island.cfg:151
-msgid "True. Well then, we should defeat them so we can reprovision!"
-msgstr "たしかに。まあそうすると、補給するには倒すべきだな !"
+#: scenarios/2_A_Naval_Engagement.cfg:219
+msgid ""
+"Oh, fine... 'I swear on Elensefar my city and on my honor as a Sailor that I "
+"will honor your request, whatever it may be, whenever we reach this Western "
+"island and you secure the help of the warriors that live there.' Happy?"
+msgstr ""
+"ああ、いいとも……｡「わたしの町であるエレンスファー、そして水夫の名誉にかけて誓"
+"おう。あなたの要求を受け入れる。それがなんであれ、その西の島に到着し、そこに"
+"住む戦士が協力を約束したときには」これで満足か ?"
+
+#. [message]: speaker=Black
+#: scenarios/2_A_Naval_Engagement.cfg:223
+msgid ""
+"Very much so. Now, I will move my troops to your boat (it is faster), and we "
+"will head on west..."
+msgstr ""
+"とても満足だ。さて、こちらの兵士をきみの船に移動させよう。そちらのほうが速"
+"い。では、西へ向かうとしようか……"
+
+#. [label]
+#. [scenario]: id=3_Blackmore_the_Black
+#: scenarios/3_Blackmore_the_Black.cfg:3 scenarios/r0_The_High_Seas.cfg:741
+msgid "Blackmore the Black"
+msgstr "ブラックモア・ザ・ブラック"
+
+#. [unit]: type=Lich, id=Ah-Reblak
+#: scenarios/3_Blackmore_the_Black.cfg:86
+msgid "Ah-Reblak"
+msgstr "ア゠レブラク"
+
+#. [unit]: type=Orcish Warlord, id=Bahtak
+#: scenarios/3_Blackmore_the_Black.cfg:108
+msgid "Bahtak"
+msgstr "バータック"
+
+#. [unit]: type=Orcish Warlord, id=Ahtanuk
+#: scenarios/3_Blackmore_the_Black.cfg:123
+msgid "Ahtanuk"
+msgstr "アータナック"
+
+#. [objective]: condition=win
+#: scenarios/3_Blackmore_the_Black.cfg:156 scenarios/4_Saving_Elensefar.cfg:330
+#: scenarios/i3-2_Back_to_the_Ship.cfg:143
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:124
+#: scenarios/i7-2_A_Kings_Demand.cfg:109
+msgid "Defeat enemy leaders"
+msgstr "敵の指揮官を倒せ"
+
+#. [objective]: condition=lose
+#: scenarios/3_Blackmore_the_Black.cfg:173 scenarios/4_Saving_Elensefar.cfg:347
+msgid "Death of Ah-Reblak"
+msgstr "ア゠レブラクの死"
+
+#. [message]: speaker=Meneldur
+#: scenarios/3_Blackmore_the_Black.cfg:193
+msgid ""
+"Black, why have you brought us here?!? This is just a remnant of a town, and "
+"there are no warriors here, just undead and orcs!"
+msgstr ""
+"ブラック、なぜここへ連れてきた ?!?　ただの町の残骸じゃないか。ここに戦士はい"
+"ない。アンデッドとオークだけだ !"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:197
+msgid ""
+"No, no, you are wrong there. This is no ruined city, this is Blackmore the "
+"Black, and for the past seventy years it has been the home of the Wesfolk "
+"who remained on this island."
+msgstr ""
+"いや、いや。きみはまちがっている。ここは廃墟の町じゃない。ここはブラックモ"
+"ア・ザ・ブラックだ。過去 70 年のあいだ、この島に残ったウェスフォークの故郷"
+"だった。"
+
+#. [message]: speaker=Madru
+#: scenarios/3_Blackmore_the_Black.cfg:201
+msgid ""
+"You mean those undead over there are 'Wesfolk'? As in the Wesfolk who came "
+"over with Lady Jessica?"
+msgstr ""
+"あなたの言っているのは、向こうにいるアンデッドが「ウェスフォーク」ということ"
+"か ?　レディー・ジェシカといっしょにやって来たウェスフォークと同じ ?"
+
+#. [message]: speaker=Meneldur
+#: scenarios/3_Blackmore_the_Black.cfg:205
+msgid ""
+"I would assume that is what he means, yes. So, Black, you've brought us here "
+"to have these Wesfolk help us?"
+msgstr ""
+"ブラックが言っているのはそうだと思う、そのとおりということだ。ではブラック、"
+"あのウェスフォークに助力してもらおうとしてここへ連れてきたのか ?"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:209
+msgid "Well, yes, something like that."
+msgstr "まあ、そうだ。そんなところだ。"
+
+# Blackはとりあえず弟ということにする
+#. [message]: speaker=Ah-Reblak
+#: scenarios/3_Blackmore_the_Black.cfg:213
+msgid ""
+"I see, brother, that you have returned with warriors. Are they to help us "
+"defeat these orcs?"
+msgstr ""
+"なるほど、ブラック。戦士をつれて戻ってきたんだ。その戦士がわれわれを助けてあ"
+"のオークを倒してくれるのか ?"
+
+#. [message]: speaker=Meneldur
+#: scenarios/3_Blackmore_the_Black.cfg:217
+msgid "What? That's not why we're here!"
+msgstr "なんだと ?　ここへ来た理由はそんなことじゃない !"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:221
+msgid ""
+"Well, yes it is. You have to help them secure this city before they will "
+"help you."
+msgstr ""
+"まあ、それはそうだが。助けてもらうまえに、きみたちが助けてこの町の安全を確保"
+"しなければならないんだ。"
+
+#. [message]: speaker=Ah-Reblak
+#: scenarios/3_Blackmore_the_Black.cfg:225
+msgid "Help them? Help Islefolk? Why would we do that?"
+msgstr "そいつらを助ける ?　アイルフォークを助ける ?　なぜそんなことを ?"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:229
+msgid ""
+"These are not Islefolk, brother, they are descendants of the Wesfolk who "
+"came over with Lady Jessica."
+msgstr ""
+"兄さん、この人たちはアイルフォークじゃない。レディー・ジェシカといっしょに"
+"行ったウェスフォークの子孫なんだ。"
+
+#. [message]: speaker=Ah-Reblak
+#: scenarios/3_Blackmore_the_Black.cfg:233
+msgid ""
+"What!? Followers of that deserter!? I can't believe you think we would help "
+"them!"
+msgstr ""
+"なに !?　逃亡者の子分か !?　そいつらを助けると思ったなんて、信じられないな !"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:237
+msgid ""
+"I didn't have a choice, they needed help, so I made a deal that we would "
+"help them if they helped us."
+msgstr ""
+"ほかに選択肢はなかった。この人たちには助力が必要だった。だからわれわれを助け"
+"れば、われわれも助けると取り引きしたんだ。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/3_Blackmore_the_Black.cfg:241
+msgid ""
+"Trust me, we don't like helping undead any more than you like helping us "
+"'deserters'."
+msgstr ""
+"信じろ､「逃亡者」を助けるのが好きじゃないようだが、こっちも負けないくらいアン"
+"デッドを助けたくないんだ。"
+
+#. [message]: speaker=Ah-Reblak
+#: scenarios/3_Blackmore_the_Black.cfg:245
+msgid ""
+"Fine. I'll help you do whatever it is you want to do, once we clear this "
+"land of the orcs."
+msgstr ""
+"わかった。おまえたちがなにを望んでいるにしても助けることにしよう。まずこの土"
+"地のオークを一掃してくれればな。"
+
+#. [message]: speaker=Ahtanuk
+#: scenarios/3_Blackmore_the_Black.cfg:249
+msgid "Int'resting council! But now, little men, its time to die. Get'm!"
+msgstr "おもしれえ協議だな !　だがちびども、死ぬ時間だ。やっちまえ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/3_Blackmore_the_Black.cfg:276
+msgid ""
+"Well, we've cleared the orcs away. Come on, now you have to hold up your end "
+"of the bargain."
+msgstr "さて、オークは片付けた。行こう。あなたには約束を果たしてもらう。"
+
+#. [message]: speaker=Ah-Reblak
+#: scenarios/3_Blackmore_the_Black.cfg:280
+msgid ""
+"Well, the orcs will probably be back soon... I think that we are going to "
+"end up dying here, no matter what you do. We have held up extraordinarily "
+"long already."
+msgstr ""
+"あー、おそらくオークがすぐに戻ってくる……。われわれは結局ここで死ぬことになる"
+"と思うんだが。たとえきみたちがどうしようとだ。われわれはすでに非常に長いあい"
+"だ耐えてきたんだ。"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:284
+msgid ""
+"That's true. I think it would be best if we could get enough ships to get "
+"off of this island. The one I went out on was our last, and we can't make "
+"more."
+msgstr ""
+"そのとおりだ。この島を出るために必要な船を集められればいちばんいいのだが。わ"
+"たしが出るのに使った船が最後の 1 隻だった。あれ以上は作れない。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/3_Blackmore_the_Black.cfg:288
+msgid ""
+"Well, I am a shipbuilder. I could help you build more ships, and then you "
+"could bring all of your people back east with us."
+msgstr ""
+"なあ、わたしは船大工なんだ。もっと船を作るのは手伝える。そうすれば全員東へつ"
+"れて行ける。"
+
+#. [message]: speaker=Black
+#: scenarios/3_Blackmore_the_Black.cfg:292
+msgid "That sounds good."
+msgstr "それはよさそうだ。"
+
+#. [message]: speaker=Madru
+#: scenarios/3_Blackmore_the_Black.cfg:296
+msgid "Then it is agreed. But after that, you have to help us fight the orcs!"
+msgstr ""
+"それでは合意した。しかしそのあとで、われわれに協力してオークと戦ってもらわな"
+"ければならない !"
+
+#. [unit]: type=Orcish Sovereign, id=Pakch-Glun
+#: scenarios/4_Saving_Elensefar.cfg:258
+msgid "Pakch-Glun"
+msgstr "パクヒ゠グラン"
+
+#. [unit]: type=Grand Marshal, id=Mathein
+#: scenarios/4_Saving_Elensefar.cfg:273
+msgid "Mathein"
+msgstr "マセイン"
+
+#. [unit]: type=Elvish High Lord, id=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:288
+msgid "Galiyon"
+msgstr "ガリヨン"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:368
+msgid ""
+"As the warriors landed the Explorer, they overheard the elves, men and orcs "
+"talking..."
+msgstr ""
+"戦士たちがエクスプローラー号から上陸すると、エルフや人間やオークの話が聞こえ"
+"てきた……"
+
+#. [message]: speaker=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:372
+msgid ""
+"Orc, you promised that, if we allied with you, you would free all the "
+"prisoners you took when you captured Elensefar. You have broken our pact!"
+msgstr ""
+"オーク、きみたちは約束した。われわれが味方すれば、エレンスファーを占領したと"
+"きに取った囚人をすべて解放すると。われわれは協定を守っていない !"
+
+#. [message]: speaker=Pakch-Glun
+#: scenarios/4_Saving_Elensefar.cfg:376
+msgid "Ag, elf-dog, you shuttup! I aint takin' orders fr'm you!"
+msgstr "アウー、エルフの犬め、黙ってろ !　おまえの命令は聞かない !"
+
+#. [message]: speaker=Mathein
+#: scenarios/4_Saving_Elensefar.cfg:380
+msgid ""
+"Listen, Pakch-Glun, if you don't fufill your side of the treaty, we will "
+"attack you again! And this time, we will probably win, since our "
+"reinforcements have arrived, and there are two armies to attack you."
+msgstr ""
+"聞け、パクヒ゠グラン。もし協定におけるきみの義務を果たさないなら、もう一度わ"
+"れわれは攻撃することになる !　そして今回は、おそらくわれわれが勝利する。われ"
+"われには援軍が到着したからな。きみたちを攻撃する軍隊は 2 つあるんだ。"
+
+#. [message]: speaker=Pakch-Glun
+#: scenarios/4_Saving_Elensefar.cfg:384
+msgid "Heh, shur. I'd like t' see you try!"
+msgstr "ヘッ、いいぜ。見せてみろよ !"
+
+#. [message]: speaker=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:388
+msgid "Mathein, shall we attack?"
+msgstr "マセイン、攻撃しようではないか ?"
+
+#. [message]: speaker=Mathein
+#: scenarios/4_Saving_Elensefar.cfg:392
+msgid "Yes. Pakch-Glun, prepare to die!"
+msgstr "ああ。パクヒ゠グラン、死ぬ用意をしろ !"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:397
+msgid ""
+"This was welcome news to the crew of the Explorer. However, although the "
+"elves, men and orcs would fight each other, Meneldur still had to fight all "
+"of them."
+msgstr ""
+"これはエクスプローラー号の乗員には歓迎すべき話だった。とはいえ、エルフ・人"
+"間・オークがおたがいに戦っとしても、メネルダーはその全員と戦わなければならな"
+"いのだった。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:422
+msgid ""
+"The first enemy we will encounter will be the elves. Show them no mercy!"
+msgstr "遭遇することになる最初の敵はエルフだ。慈悲を見せるな !"
+
+#. [message]: speaker=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:426
+msgid "And we will show you none. Prepare to meet your doom!"
+msgstr "そしてこちらも見せるものはなにもない。運命と向きあう用意をせよ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:435
+msgid ""
+"We have come to take back Elensefar from the orcs! But remember, the men of "
+"Wesnoth will no doubt try to stop us, as will the elves. We must fight them "
+"too."
+msgstr ""
+"オークからエレンスファーを取りかえしに戻ってきた !　しかし思い出してくれ。"
+"ウェスノス兵は疑いもなくわれわれを止めようとすることだろう。それはエルフも"
+"だ。だからどちらとも戦わなければならない。"
+
+#. [message]: speaker=Mathein
+#: scenarios/4_Saving_Elensefar.cfg:439
+msgid "Indeed we will. You are a traitor to your country, and must die as one!"
+msgstr ""
+"実際そうするつもりだ。おまえは国を裏切った。だからまちがいなく裏切り者として"
+"死ぬことになる !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:448
+msgid ""
+"We are in Elensefar's harbor, from where we will drive the orcs out into the "
+"faces of the elves. Although they are my brethren, we must not hold back "
+"from killing them because of it. Onward!"
+msgstr ""
+"エレンスファーの港に着いた。ここからオークをエルフの鼻先に追いたてよう。エル"
+"フはわたしの同胞だが、殺すのをためらうわけにはいかない。進め !"
+
+#. [message]: speaker=Pakch-Glun
+#: scenarios/4_Saving_Elensefar.cfg:452
+msgid ""
+"Listen t' that! He really thinks 'e can kill us! We'll show 'im! Kill the "
+"invader!"
+msgstr ""
+"あれを聞けよ !　やつはほんとうにおれたちを殺せると思ってるんだ !　見せてやろ"
+"うぜ !　あの侵略者を殺せ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:467
+msgid ""
+"What? There appear to be elves blocking our path! Elves, why are you in our "
+"way?"
+msgstr ""
+"なに ?　進路をエルフが妨害しているようだぞ !　エルフ、なぜわれわれを妨害す"
+"る ?"
+
+#. [message]: speaker=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:471
+msgid ""
+"We are here to kill you! After that, we will kill the orcs, but we must kill "
+"you first."
+msgstr ""
+"ここへはおまえを殺しに来たのだ !　われわれはオークを殺すつもりだが、最初にお"
+"まえを殺す必要があるな。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:475
+msgid ""
+"Are you mad?! Well, if you are, I have no time to reason with you. Prepare "
+"to die!"
+msgstr ""
+"狂ったのか ?!　まあ、そういうことなら、道理を説く時間はない。死ぬ用意をしろ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:484
+msgid ""
+"This looks like the area the men of Wesnoth have claimed to siege Elensefar "
+"from. Unfortunately, we must get past them to free the city."
+msgstr ""
+"ウェスノス兵がエレンスファーを包囲すると言っていた場所がここらしい。ざんねん"
+"ながら、町を解放するにはこれを突破しなければならないな。"
+
+#. [message]: speaker=Mathein
+#: scenarios/4_Saving_Elensefar.cfg:488
+msgid ""
+"You will not get past us while I am alive. And even if you do, the elves "
+"will stop you. If you must be a traitor, pick one nation to betray, not two!"
+msgstr ""
+"わたしが生きているあいだは突破などさせない。突破したとしても、エルフが止め"
+"る。裏切らなければならないなら、1 つの国にしておけ。2 つではなく !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:492
+msgid ""
+"What are you talking about? Oh, I see... my northern brethren have decided "
+"to attack me... Well, we will get past these Wesnothians first, and see what "
+"we can do then."
+msgstr ""
+"なにを言っているんだ ?　ああ、わかった……北の同胞がわたしを攻撃することにした"
+"のか……。まあ、このウェスノス人を最初に突破しよう。そうすればなにができるかわ"
+"かる。"
+
+#. [message]: speaker=Pakch-Glun
+#: scenarios/4_Saving_Elensefar.cfg:496
+msgid "Prepare to die, Elensian scum!"
+msgstr "死ぬ用意をしろ、エレンスファー人のくずめ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:505
+msgid ""
+"We are now in Elensefar's harbor. From now, we fight until the orcs are all "
+"out of our city! Then, it appears, we will have to deal with those "
+"Wesnothians who believe us to be traitors."
+msgstr ""
+"われわれはいまエレンスファーの港にいる。いまから、オークが町からまったくいな"
+"くなるまで戦うんだ !　それから、われわれが裏切ったと信じているあのウェスノス"
+"人に対処しなくてはならないようだ。"
+
+#. [message]: speaker=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:509
+msgid ""
+"Yes, please, do that. Then we will not have to deal with the orcs, and only "
+"with you!"
+msgstr ""
+"そうだな、ぜひそうしてくれ。そうすればわれわれがオークに手を出す必要はなくな"
+"り、おまえだけですむのだからな !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:513
+msgid "What?... Oh, its elves, from the northlands. What do you want?"
+msgstr "なんだって ?　……ああ、北の土地のエルフか。なにをしようとしているんだ ?"
+
+#. [message]: speaker=Galiyon
+#: scenarios/4_Saving_Elensefar.cfg:517
+msgid "You dead, traitor!"
+msgstr "おまえは死ぬのだ、裏切り者 !"
+
+#. [message]: speaker=Madru
+#: scenarios/4_Saving_Elensefar.cfg:521
+msgid "Whatever you say. We'll deal with you after we kill the orcs."
+msgstr "いったいなにを言っているんだか。オークを殺してからどうにかしよう。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:548
+msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
+msgstr ""
+"エレンスファーはわれわれのものになったようだ。しかしまだ倒さねばならない敵が"
+"いる。進め !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:561
+msgid ""
+"We have taken Elensefar and defeated the Wesnothians, but these Elves need "
+"attending to."
+msgstr ""
+"われわれはエレンスファーを占領し、ウェスノス人を倒した。しかしあのエルフには"
+"注意が必要だ。"
+
+#. [message]: speaker=second_unit
+#: scenarios/4_Saving_Elensefar.cfg:570
+msgid ""
+"The orcs had ransacked the city's coffers - now it's time for us to return "
+"the favor."
+msgstr "オークは町の金庫をあさり回っていた。恩返しをしてもらう時だ。"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:586
+msgid "You find 300 pieces of gold!"
+msgstr "300 ゴールド見つけた !"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:589
+msgid "You find 250 pieces of gold!"
+msgstr "250 ゴールド見つけた !"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:592 scenarios/4_Saving_Elensefar.cfg:654
+#: scenarios/4_Saving_Elensefar.cfg:722
+msgid "You find 200 pieces of gold!"
+msgstr "200 ゴールド見つけた !"
+
+#. [message]: speaker=Madru
+#: scenarios/4_Saving_Elensefar.cfg:616
+msgid "Good work, men. Onwards, we have to retake the city also!"
+msgstr "よくやった、みんな。進め、さらに町を取り戻さなければならない !"
+
+#. [message]: speaker=Madru
+#: scenarios/4_Saving_Elensefar.cfg:629
+msgid "Come on, we should go North and see if we can help defeat the elves."
+msgstr "行くぞ、北へ行って、エルフを倒すのを手伝えるか見てみなければ。"
+
+#. [message]: speaker=second_unit
+#: scenarios/4_Saving_Elensefar.cfg:638
+msgid "The Wesnothians had much gold in their camp. It is ours now!"
+msgstr ""
+"ウェスノス人は野営地にたくさんのゴールドを置いていた。いまはわれわれのもの"
+"だ !"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:657 scenarios/4_Saving_Elensefar.cfg:725
+msgid "You find 175 pieces of gold!"
+msgstr "175 ゴールド見つけた !"
+
+#. [message]: speaker=narrator
+#: scenarios/4_Saving_Elensefar.cfg:660 scenarios/4_Saving_Elensefar.cfg:728
+msgid "You find 150 pieces of gold!"
+msgstr "150 ゴールド見つけた !"
+
+#. [message]: speaker=Black
+#: scenarios/4_Saving_Elensefar.cfg:684
+msgid "Orcs still reside in the city! Come one, let us kill them too!"
+msgstr "オークがまだ町にいる !　行くぞ、オークも殺すんだ !"
+
+#. [message]: speaker=Black
+#: scenarios/4_Saving_Elensefar.cfg:697
+msgid ""
+"Come on, we should go South and see if we can help defeat the Wesnothians."
+msgstr "行くぞ、南へ行って、ウェスノス人を倒すのを手伝えるか見てみなければ。"
+
+#. [message]: speaker=second_unit
+#: scenarios/4_Saving_Elensefar.cfg:706
+msgid ""
+"It seems the elves brought some of their treasure out of the northlands. "
+"More for us!"
+msgstr "エルフは北の土地から宝物を持ってきていたようだ。たくさんある !"
+
+#. [message]: speaker=Madru
+#: scenarios/4_Saving_Elensefar.cfg:738
+msgid "There are no enemies left - we have succeeded in retaking Elensefar."
+msgstr "敵は残っていない。エレンスファーを取り戻すのに成功したんだ。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:742
+msgid ""
+"Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
+"help."
+msgstr ""
+"よし、エレンスファーはわれわれのものだ、ついに。さて、ブラック・ザ・レッド、"
+"あなたの助力に感謝する。"
+
+#. [message]: speaker=Black
+#: scenarios/4_Saving_Elensefar.cfg:746
+msgid ""
+"It was an honor to fight for you. I wonder where my people will go now... "
+"the orcs have surely taken our home by now."
+msgstr ""
+"きみのために戦ったのは名誉なことだった。これからわたしの仲間はどこに行くこと"
+"になるのだろうな……。われわれの故郷はまちがいなくオークに占領されているから"
+"な。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/4_Saving_Elensefar.cfg:750
+msgid ""
+"I'm sure we will have time to discuss that later. But for now, we must help "
+"those conquered by the orcs rebuild their city."
+msgstr ""
+"それについてはあとで話しあう時間をきっとつくる。しかしいまは、オークに制圧さ"
+"れていた人たちが町を再建するのを助けなければならない。"
 
 #. [scenario]: id=f1-Attacked_at_Sea
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:3
+#: scenarios/f1-Attacked_at_Sea.cfg:3
 msgid "Attacked at Sea"
 msgstr "海での攻撃"
 
 #. [part]
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:19
+#: scenarios/f1-Attacked_at_Sea.cfg:19
 msgid ""
 "The city had fallen, but Meneldur and his crew had escaped. Leaving the "
 "harbor, and looking back at the city, they noticed something strange. The "
@@ -184,7 +1075,7 @@ msgstr ""
 "ようでした。"
 
 #. [part]
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:23
+#: scenarios/f1-Attacked_at_Sea.cfg:23
 msgid ""
 "Meneldur was not sure exactly what this meant, but he knew one thing - if "
 "the city was not destroyed, then the people in it would not be either. Which "
@@ -199,101 +1090,180 @@ msgstr ""
 "戻ってくる。オークを倒し、そのとき残されたものがなんであろうと町を取り戻す"
 "と。"
 
-#. [unit]: type=Transport Galleon, id=Meneldur_Ship
-#. [unit]: type=Elvish Captain, id=Meneldur
-#. [unit]: type=Transport Galleon, id=Explorer
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:70
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:127
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:115
-msgid "Meneldur"
-msgstr "メネルダー"
-
-#. [unit]: type=Transport Galleon, id=Black_Ship
-#. [message]: speaker=Explorer
-#. [unit]: type=Shadow Mage, id=Black
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:85
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:748
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:68
-msgid "Black the Red"
-msgstr "ブラック・ザ・レッド"
-
-#. [unit]: type=Transport Galleon, id=Aldran_Ship
-#. [unit]: type=Lieutenant, id=Aldran
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:100
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:90
-msgid "Aldran"
-msgstr "アルドラン"
-
 #. [message]: id=Aldran_Ship
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:121
+#: scenarios/f1-Attacked_at_Sea.cfg:121
 msgid "Stop, pirate! Surrender, or die!"
 msgstr "止まれ、海賊 !　降伏しろ、さもなければ死ぬことになる !"
 
 #. [message]: id=Black_Ship
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:125
+#: scenarios/f1-Attacked_at_Sea.cfg:125
 msgid "Never!"
 msgstr "ないな !"
 
 #. [message]: id=Aldran_Ship
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:140
+#: scenarios/f1-Attacked_at_Sea.cfg:140
 msgid "Lower the gangplank! Throw the grapples! DON'T LET THEM ESCAPE!"
 msgstr "道板を下げろ !　引っかけかぎを投げろ !　<b>逃すな !</b>"
 
 #. [message]: id=Meneldur_Ship
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:150
+#: scenarios/f1-Attacked_at_Sea.cfg:150
 msgid "What's going on here?"
 msgstr "どうなっているんだ ?"
 
 #. [message]: id=Aldran_Ship
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:154
+#: scenarios/f1-Attacked_at_Sea.cfg:154
 msgid "So, you're getting involved too, eh? Stop that ship, men!"
-msgstr "それじゃあ、おまえたちも巻きこまれたいのか、ええ ?　その船も止まれ、おい !"
+msgstr ""
+"それじゃあ、おまえたちも巻きこまれたいのか、ええ ?　その船も止まれ、おい !"
 
-#. [scenario]: id=i2_Orc_Mountain
-#. [label]
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:543
-msgid "Orc Mountain"
-msgstr "オークの山"
+#. [scenario]: id=f2-Return_to_Elensefar
+#: scenarios/f2-Return_to_Elensefar.cfg:3
+msgid "Return to Elensefar"
+msgstr "エレンスファーへの帰還"
 
-#. [unit]: type=Orcish Warrior, id=Dur-Kal
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:68
-msgid "Dur-Kal"
-msgstr "ダー゠カル"
+#. [part]
+#: scenarios/f2-Return_to_Elensefar.cfg:19
+msgid ""
+"And so Meneldur helped the Wesfolk build ships. They built three sturdy "
+"galleons, which was enough to hold all of them. That is how few of that once "
+"great race remained."
+msgstr ""
+"そのようにして、メネルダーはウェスフォークが船を作るのを手伝い、3 隻の頑丈な"
+"ガレオンを作りました。これで全員を乗せるのに十分だったのです。かつての偉大な"
+"種族の生き残りとしては、なんとも少ない数でした。"
+
+#. [part]
+#: scenarios/f2-Return_to_Elensefar.cfg:23
+msgid ""
+"The necromancers who were on the ships cast a spell of darkness and "
+"swiftness over the boat. The next thing Meneldur and his men knew, they had "
+"reached the delta of the Great River, where Elensefar was built."
+msgstr ""
+"船に乗ったネクロマンサーたちは、船全体に暗闇と素早さの魔法をかけました。メネ"
+"ルダーと仲間が次に気がつくと、エレンスファーが建設された大いなる川の三角州に"
+"着いていました。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:123
-msgid "Orcs are here! Orcs, what do you know about the fall of Elensefar?"
-msgstr "オークがここに !　オーク、エレンスファー陥落についてなにか知っているか ?"
+#: scenarios/f2-Return_to_Elensefar.cfg:187
+msgid ""
+"Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
+"as we aided Blackmore. So... does anyone have an idea as to how to attack "
+"the city?"
+msgstr ""
+"さて、われわれはいまエレンスファーの港にいる……。エレンスファーを取り戻す時が"
+"来た。われわれがブラックモアで助力したのと同じことをするんだ。で……だれか町を"
+"攻撃する方法について考えはあるか ?"
 
-#. [message]: speaker=Dur-Kal
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:127
-msgid "Nothing, but I am glad to hear of it! Now prepare to die!"
-msgstr "なにも。しかしそれを聞いてうれしいぞ !　じゃあ、死ぬ用意をしろ !"
+#. [message]: speaker=Black
+#: scenarios/f2-Return_to_Elensefar.cfg:191
+msgid ""
+"Here; this is my plan. On the northern side of the river, there is a cave "
+"where smugglers hide their goods. I know some bandits who won't alert anyone "
+"if we land there."
+msgstr ""
+"これを見てくれ。これがわたしの計画だ。川の北側に上陸する。そこには密輸業者が"
+"品物を隠している洞窟がある。わたしの知る山賊たちは、われわれがそこに上陸して"
+"も知らせたりはしないだろう。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:131
-msgid "Very well. Let battle commence."
-msgstr "けっこうだね。戦闘を開始しよう。"
+#: scenarios/f2-Return_to_Elensefar.cfg:261
+msgid "But they won't help us?"
+msgstr "しかし助力してくれることはないだろうな ?"
+
+#. [message]: speaker=Black
+#: scenarios/f2-Return_to_Elensefar.cfg:265
+msgid ""
+"Uhm... no, probably not. But we would be rather secretive, they probably "
+"wouldn't notice us."
+msgstr ""
+"うーん……ああ、おそらくしないな。しかしわれわれはどちらかといえば隠れていくこ"
+"とになるから、おそらく気づかれないだろうな。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/f2-Return_to_Elensefar.cfg:269
+msgid "Madru, do you have any suggestions?"
+msgstr "マドルー、なにか提案は ?"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:140
-# fuzzy
+#: scenarios/f2-Return_to_Elensefar.cfg:273
 msgid ""
-"We have plenty of time to restock the ship now. We can train our troops here "
-"for a few days."
+"Well, we could always land on the south beach. There is a harbor there, and "
+"a quick route from there to inside the city."
 msgstr ""
-"敵はすべて倒したし、もう船に補給をする時間もたくさんある。ここで数日間は部隊"
-"を訓練できるな。"
+"ああ、南の岸に上陸したこともしょっちゅうあるだろう。港湾がそこにあるからな。"
+"それに市内に素早く行ける道もある。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/f2-Return_to_Elensefar.cfg:343
+msgid "But won't they see us there?"
+msgstr "しかしそこで発見されないか ?"
+
+#. [message]: speaker=Madru
+#: scenarios/f2-Return_to_Elensefar.cfg:347
+msgid ""
+"Yes, but what's wrong with a head on battle? I think we could defeat them."
+msgstr ""
+"される。しかし戦いの初めとしてはまちがってないだろう ?　その敵は倒せると思っ"
+"ている。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/f2-Return_to_Elensefar.cfg:351
+msgid ""
+"Well, I think maybe we should land right in Elensefar itself. That way, we "
+"can go around most of the orcish defenses, which are probably guarding the "
+"bridges to the city."
+msgstr ""
+"さて、わたしはエレンスファーそのものに上陸すべきかもしれないと思っている。そ"
+"の方法だと、オークの防衛軍の大部分を迂回できる。防衛軍はおそらく町に入る橋を"
+"守っているからな。"
+
+#. [message]: speaker=Madru
+#: scenarios/f2-Return_to_Elensefar.cfg:393
+msgid ""
+"That is a bold plan, but I'm not sure it will work. If you do not succeed "
+"immediately, you will have alerted the orcs to our presence without "
+"accomplishing anything."
+msgstr ""
+"大胆な計画だが、うまくいくとは思えない。すぐに進まなければ、なにもできないう"
+"ちにわれわれの存在がわかってしまうことだろう。"
+
+#. [message]: speaker=Black
+#: scenarios/f2-Return_to_Elensefar.cfg:398
+msgid "Hm... you are right there. Which plan should we use?"
+msgstr "うーむ……それぞれ言っていることは正しいな。どの計画を用いるべきか ?"
+
+#. [option]: speaker=Black
+#: scenarios/f2-Return_to_Elensefar.cfg:401
+msgid "I say we head north, as you proposed."
+msgstr "よし、北へ向かおう。あなたが提案したとおりに。"
+
+#. [option]: speaker=Black
+#: scenarios/f2-Return_to_Elensefar.cfg:411
+msgid "Madru's plan to head south sounds the best."
+msgstr "マドルーの計画のとおり南へ向かうのがいちばんなようだ。"
+
+#. [option]: speaker=Black
+#: scenarios/f2-Return_to_Elensefar.cfg:421
+msgid ""
+"Both of your plans were good, but I will stick to my own, and land in the "
+"harbor."
+msgstr ""
+"あなたたちの計画はどちらもよかったが、わたしの計画をやりとおそう。港へ上陸す"
+"る。"
+
+#. [message]: speaker=Madru
+#: scenarios/f2-Return_to_Elensefar.cfg:434
+msgid "Very well. Let us not waste any more time, we must fight now."
+msgstr "承知した。もうこれ以上時間を無駄にせず、戦わなければ。"
 
 #. [scenario]: id=f3-Epilogue
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:3
+#: scenarios/f3-Epilogue.cfg:3
 msgid "Epilogue"
 msgstr "エピローグ"
 
 # DarahanはDaharanのTypoと判断
 #. [part]
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:19
+#: scenarios/f3-Epilogue.cfg:19
 msgid ""
 "Meneldur, Black the Red, and Madru went to the Elensian palace, and searched "
 "the dungeons for prisoners taken by the orcs. They found many of the old "
@@ -309,7 +1279,7 @@ msgstr ""
 "いだに起きたことはなにも知りませんでした。"
 
 #. [part]
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:23
+#: scenarios/f3-Epilogue.cfg:23
 msgid ""
 "The three rescuers told him their tale, of how Elensefar was no longer a "
 "province of Wesnoth, and of how Undead were temporarily 'living' in the "
@@ -331,12 +1301,12 @@ msgstr ""
 "開いてくれたのだと。言うまでもなく、ダハランは裏切られたと感じていました。"
 
 #. [unit]: type=Grand Marshal, id=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:69
+#: scenarios/f3-Epilogue.cfg:69
 msgid "Daharan"
 msgstr "ダハラン"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:90
+#: scenarios/f3-Epilogue.cfg:90
 msgid ""
 "I still cannot believe that the men of Wesnoth, or the elves, would really "
 "fight to keep men of Elensefar from aiding Elensefar. What made them do it, "
@@ -347,7 +1317,7 @@ msgstr ""
 "なことをしたんだ ?　きみはどう考えている ?"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:94
+#: scenarios/f3-Epilogue.cfg:94
 msgid ""
 "Well, hatred of me, and the perception that I was a traitor to my race, was "
 "what fueled the elven attack."
@@ -356,12 +1326,13 @@ msgstr ""
 "の攻撃を煽ったのです。"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:98
+#: scenarios/f3-Epilogue.cfg:98
 msgid "They were willing to sacrifice a whole city to get revenge on one elf?"
-msgstr "エルフひとりに復讐するためには、町全体を生け贄にしてもかまわなかったと ?"
+msgstr ""
+"エルフひとりに復讐するためには、町全体を生け贄にしてもかまわなかったと ?"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:102
+#: scenarios/f3-Epilogue.cfg:102
 msgid ""
 "They did not think they were sacrificing it. They planned to attack the orcs "
 "right after they killed us; in fact, they were fighting the orcs at the same "
@@ -374,7 +1345,7 @@ msgstr ""
 "考えたからです。"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:106
+#: scenarios/f3-Epilogue.cfg:106
 msgid ""
 "So they made a peace with the orcs because they feared their own kind's "
 "death? Don't they know orcs cannot be trusted? All the elves who lived in "
@@ -385,7 +1356,7 @@ msgstr ""
 "全員殺されていたんだ。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:110
+#: scenarios/f3-Epilogue.cfg:110
 msgid ""
 "When you are in danger of being attacked, you do not think clearly. Their "
 "attack was a mixture of motives, I would say. Hatred of Meneldur, fear of an "
@@ -398,17 +1369,17 @@ msgstr ""
 "のすべてが、邪悪と同盟してもしかたがないとエルフに思わせたんだろう。"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:114
+#: scenarios/f3-Epilogue.cfg:114
 msgid "That does not excuse them, though, and they deserved to die."
 msgstr "それはいいわけにはならない、そうだとしてもな。エルフたちは死に値した。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:118
+#: scenarios/f3-Epilogue.cfg:118
 msgid "None of us are saying they did not."
 msgstr "だれもそうでないとは言っていません。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:122
+#: scenarios/f3-Epilogue.cfg:122
 msgid ""
 "I would. We do not know the circumstances of their peace treaty, nor even to "
 "say whether an alliance, if there had been one, would have been evil. After "
@@ -422,7 +1393,7 @@ msgstr ""
 "ます。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:126
+#: scenarios/f3-Epilogue.cfg:126
 msgid ""
 "They are only similar if you assume that undead are evil. Some are, true, "
 "but not all. Mine and my brother's are not."
@@ -431,7 +1402,7 @@ msgstr ""
 "るのは事実だが、全員ではない。わたしと兄はちがう。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:130
+#: scenarios/f3-Epilogue.cfg:130
 msgid ""
 "I may be your ally, but I will never say your undead are not evil. You are "
 "probably not, probably you are just decieved as to what really occurs with "
@@ -443,7 +1414,7 @@ msgstr ""
 "アンデッドは邪悪だ。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:134
+#: scenarios/f3-Epilogue.cfg:134
 msgid ""
 "Come on now. Well, it is true that the circumstances are not in truth "
 "similar, but they do appear to be. The elves may have thought they were."
@@ -452,7 +1423,7 @@ msgstr ""
 "ちはそう考えないことでしょう。エルフは考えたいように考えられます。"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:138
+#: scenarios/f3-Epilogue.cfg:138
 msgid ""
 "I see, Meneldur. Well, I can see, in a distorted way, why the elves attacked "
 "us. But why were the humans willing to discard our age-old alliance, and "
@@ -463,14 +1434,15 @@ msgstr ""
 "んだ ?　それにオークよりまえにわれわれを攻撃しようとした理由は ?"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:142
+#: scenarios/f3-Epilogue.cfg:142
 msgid ""
 "Well, we did attack them, multiple times. Although it was really self-"
 "defence."
-msgstr "えー、こちらが攻撃しました。何度もです。ほんとうに自衛のためだったとはいえ。"
+msgstr ""
+"えー、こちらが攻撃しました。何度もです。ほんとうに自衛のためだったとはいえ。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:146
+#: scenarios/f3-Epilogue.cfg:146
 msgid ""
 "They wished to defeat us first, then attack the orcs. Indeed, the elves and "
 "humans could have both had that plan. But the elves lost their temper right "
@@ -481,14 +1453,14 @@ msgstr ""
 "く、エルフはわれわれが到着したことでわれを失い、即座にオークを攻撃しました。"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:150
+#: scenarios/f3-Epilogue.cfg:150
 msgid "That is called treachery, and would not excuse a treaty with the orcs."
 msgstr ""
 "それを裏切りと呼ぶ。それにオークとの協定を結んだことへのいいわけにはならない"
 "だろう。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:154
+#: scenarios/f3-Epilogue.cfg:154
 msgid ""
 "I agree that it would be treachery, but I think it is not what they planned. "
 "The men of Wesnoth do not see good and evil as we do. To them, good is what "
@@ -504,7 +1476,7 @@ msgstr ""
 "北に州を作れるからです。"
 
 #. [message]: speaker=Daharan
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:158
+#: scenarios/f3-Epilogue.cfg:158
 msgid ""
 "Possibly. However, all of this is just speculation. We cannot know why they "
 "actually attacked us, can we? We can only guess."
@@ -514,12 +1486,12 @@ msgstr ""
 "きない。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:162
+#: scenarios/f3-Epilogue.cfg:162
 msgid "Which is why this is rather pointless."
 msgstr "それが要領を得ない理由です。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:166
+#: scenarios/f3-Epilogue.cfg:166
 msgid ""
 "Well, I must be going. I do not know where my people will go now; so few are "
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
@@ -530,7 +1502,7 @@ msgstr ""
 "しこの町にいるつもりはない。危険すぎる。だから北へ行くつもりだ。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f3-Epilogue.cfg:170
+#: scenarios/f3-Epilogue.cfg:170
 msgid ""
 "Very well. I suppose this council is ended, and the real work of Daharan's "
 "reign shall begin."
@@ -538,997 +1510,644 @@ msgstr ""
 "それはよかった。ではこの協議は終わったようです。これでダハラン治世の現実の仕"
 "事が始まることでしょう。"
 
-#. [scenario]: id=f2-Return_to_Elensefar
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:3
-msgid "Return to Elensefar"
-msgstr "エレンスファーへの帰還"
-
-#. [part]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:19
-msgid ""
-"And so Meneldur helped the Wesfolk build ships. They built three sturdy "
-"galleons, which was enough to hold all of them. That is how few of that once "
-"great race remained."
-msgstr ""
-"そのようにして、メネルダーはウェスフォークが船を作るのを手伝い、3 隻の頑丈な"
-"ガレオンを作りました。これで全員を乗せるのに十分だったのです。かつての偉大な"
-"種族の生き残りとしては、なんとも少ない数でした。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:23
-msgid ""
-"The necromancers who were on the ships cast a spell of darkness and "
-"swiftness over the boat. The next thing Meneldur and his men knew, they had "
-"reached the delta of the Great River, where Elensefar was built."
-msgstr ""
-"船に乗ったネクロマンサーたちは、船全体に暗闇と素早さの魔法をかけました。メネ"
-"ルダーと仲間が次に気がつくと、エレンスファーが建設された大いなる川の三角州に"
-"着いていました。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:187
-msgid ""
-"Well, now we are in the port of Elensefar... It is time to retake Elensefar, "
-"as we aided Blackmore. So... does anyone have an idea as to how to attack "
-"the city?"
-msgstr ""
-"さて、われわれはいまエレンスファーの港にいる……。エレンスファーを取り戻す時が"
-"来た。われわれがブラックモアで助力したのと同じことをするんだ。で……だれか町を"
-"攻撃する方法について考えはあるか ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:191
-msgid ""
-"Here; this is my plan. On the northern side of the river, there is a cave "
-"where smugglers hide their goods. I know some bandits who won't alert anyone "
-"if we land there."
-msgstr ""
-"これを見てくれ。これがわたしの計画だ。川の北側に上陸する。そこには密輸業者が"
-"品物を隠している洞窟がある。わたしの知る山賊たちは、われわれがそこに上陸して"
-"も知らせたりはしないだろう。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:261
-msgid "But they won't help us?"
-msgstr "しかし助力してくれることはないだろうな ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:265
-msgid ""
-"Uhm... no, probably not. But we would be rather secretive, they probably "
-"wouldn't notice us."
-msgstr ""
-"うーん……ああ、おそらくしないな。しかしわれわれはどちらかといえば隠れていくこ"
-"とになるから、おそらく気づかれないだろうな。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:269
-msgid "Madru, do you have any suggestions?"
-msgstr "マドルー、なにか提案は ?"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:273
-msgid ""
-"Well, we could always land on the south beach. There is a harbor there, and "
-"a quick route from there to inside the city."
-msgstr ""
-"ああ、南の岸に上陸したこともしょっちゅうあるだろう。港湾がそこにあるからな。"
-"それに市内に素早く行ける道もある。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:343
-msgid "But won't they see us there?"
-msgstr "しかしそこで発見されないか ?"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:347
-msgid ""
-"Yes, but what's wrong with a head on battle? I think we could defeat them."
-msgstr ""
-"される。しかし戦いの初めとしてはまちがってないだろう ?　その敵は倒せると思っ"
-"ている。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:351
-msgid ""
-"Well, I think maybe we should land right in Elensefar itself. That way, we "
-"can go around most of the orcish defenses, which are probably guarding the "
-"bridges to the city."
-msgstr ""
-"さて、わたしはエレンスファーそのものに上陸すべきかもしれないと思っている。そ"
-"の方法だと、オークの防衛軍の大部分を迂回できる。防衛軍はおそらく町に入る橋を"
-"守っているからな。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:393
-msgid ""
-"That is a bold plan, but I'm not sure it will work. If you do not succeed "
-"immediately, you will have alerted the orcs to our presence without "
-"accomplishing anything."
-msgstr ""
-"大胆な計画だが、うまくいくとは思えない。すぐに進まなければ、なにもできないう"
-"ちにわれわれの存在がわかってしまうことだろう。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:398
-msgid "Hm... you are right there. Which plan should we use?"
-msgstr "うーむ……それぞれ言っていることは正しいな。どの計画を用いるべきか ?"
-
-#. [option]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:401
-msgid "I say we head north, as you proposed."
-msgstr "よし、北へ向かおう。あなたが提案したとおりに。"
-
-#. [option]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:411
-msgid "Madru's plan to head south sounds the best."
-msgstr "マドルーの計画のとおり南へ向かうのがいちばんなようだ。"
-
-#. [option]
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:421
-msgid ""
-"Both of your plans were good, but I will stick to my own, and land in the "
-"harbor."
-msgstr ""
-"あなたたちの計画はどちらもよかったが、わたしの計画をやりとおそう。港へ上陸す"
-"る。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:434
-msgid "Very well. Let us not waste any more time, we must fight now."
-msgstr "承知した。もうこれ以上時間を無駄にせず、戦わなければ。"
-
-#. [scenario]: id=4_Saving_Elensefar
 #. [label]
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:508
-#: Saving_Elensefar/_main.cfg:9
-msgid "Saving Elensefar"
-msgstr "エレンスファー救援"
+#. [scenario]: id=i1_The_Swampland
+#: scenarios/i1_The_Swampland.cfg:3 scenarios/r0_The_High_Seas.cfg:525
+msgid "The Swampland"
+msgstr "沼の土地"
 
-#. [unit]: type=Orcish Sovereign, id=Pakch-Glun
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:258
-msgid "Pakch-Glun"
-msgstr "パクヒ゠グラン"
-
-#. [unit]: type=Grand Marshal, id=Mathein
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:273
-msgid "Mathein"
-msgstr "マセイン"
-
-#. [unit]: type=Elvish High Lord, id=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:288
-msgid "Galiyon"
-msgstr "ガリヨン"
-
-#. [objective]: condition=win
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:330
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:156
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:109
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:124
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:143
-msgid "Defeat enemy leaders"
-msgstr "敵の指揮官を倒せ"
-
-#. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:347
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:173
-msgid "Death of Ah-Reblak"
-msgstr "ア゠レブラクの死"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:368
-msgid ""
-"As the warriors landed the Explorer, they overheard the elves, men and orcs "
-"talking..."
-msgstr ""
-"戦士たちがエクスプローラー号から上陸すると、エルフや人間やオークの話が聞こえ"
-"てきた……"
-
-#. [message]: speaker=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:372
-msgid ""
-"Orc, you promised that, if we allied with you, you would free all the "
-"prisoners you took when you captured Elensefar. You have broken our pact!"
-msgstr ""
-"オーク、きみたちは約束した。われわれが味方すれば、エレンスファーを占領したと"
-"きに取った囚人をすべて解放すると。われわれは協定を守っていない !"
-
-#. [message]: speaker=Pakch-Glun
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:376
-msgid "Ag, elf-dog, you shuttup! I aint takin' orders fr'm you!"
-msgstr "アウー、エルフの犬め、黙ってろ !　おまえの命令は聞かない !"
-
-#. [message]: speaker=Mathein
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:380
-msgid ""
-"Listen, Pakch-Glun, if you don't fufill your side of the treaty, we will "
-"attack you again! And this time, we will probably win, since our "
-"reinforcements have arrived, and there are two armies to attack you."
-msgstr ""
-"聞け、パクヒ゠グラン。もし協定におけるきみの義務を果たさないなら、もう一度わ"
-"れわれは攻撃することになる !　そして今回は、おそらくわれわれが勝利する。われ"
-"われには援軍が到着したからな。きみたちを攻撃する軍隊は 2 つあるんだ。"
-
-#. [message]: speaker=Pakch-Glun
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:384
-msgid "Heh, shur. I'd like t' see you try!"
-msgstr "ヘッ、いいぜ。見せてみろよ !"
-
-#. [message]: speaker=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:388
-msgid "Mathein, shall we attack?"
-msgstr "マセイン、攻撃しようではないか ?"
-
-#. [message]: speaker=Mathein
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:392
-msgid "Yes. Pakch-Glun, prepare to die!"
-msgstr "ああ。パクヒ゠グラン、死ぬ用意をしろ !"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:397
-msgid ""
-"This was welcome news to the crew of the Explorer. However, although the "
-"elves, men and orcs would fight each other, Meneldur still had to fight all "
-"of them."
-msgstr ""
-"これはエクスプローラー号の乗員には歓迎すべき話だった。とはいえ、エルフ・人"
-"間・オークがおたがいに戦っとしても、メネルダーはその全員と戦わなければならな"
-"いのだった。"
+#. [unit]: type=Dark Sorcerer, id=Ak-Avanu
+#: scenarios/i1_The_Swampland.cfg:66
+msgid "Ak-Avanu"
+msgstr "アク゠アヴァヌ"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:422
+#: scenarios/i1_The_Swampland.cfg:121
 msgid ""
-"The first enemy we will encounter will be the elves. Show them no mercy!"
-msgstr "遭遇することになる最初の敵はエルフだ。慈悲を見せるな !"
-
-#. [message]: speaker=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:426
-msgid "And we will show you none. Prepare to meet your doom!"
-msgstr "そしてこちらも見せるものはなにもない。運命と向きあう用意をせよ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:435
-msgid ""
-"We have come to take back Elensefar from the orcs! But remember, the men of "
-"Wesnoth will no doubt try to stop us, as will the elves. We must fight them "
-"too."
+"What is this, a mage walks clad in black? Explain yourself! Are you of the "
+"red mages, or the white?"
 msgstr ""
-"オークからエレンスファーを取りかえしに戻ってきた !　しかし思い出してくれ。"
-"ウェスノス兵は疑いもなくわれわれを止めようとすることだろう。それはエルフも"
-"だ。だからどちらとも戦わなければならない。"
+"これはなんだ ?　黒いもので身を包んだ魔術師が歩いている。説明しろ !　あなたは"
+"赤魔術師か、白魔術師か ?"
 
-#. [message]: speaker=Mathein
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:439
-msgid "Indeed we will. You are a traitor to your country, and must die as one!"
-msgstr ""
-"実際そうするつもりだ。おまえは国を裏切った。だからまちがいなく裏切り者として"
-"死ぬことになる !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:448
+#. [message]: speaker=Ak-Avanu
+#: scenarios/i1_The_Swampland.cfg:125
 msgid ""
-"We are in Elensefar's harbor, from where we will drive the orcs out into the "
-"faces of the elves. Although they are my brethren, we must not hold back "
-"from killing them because of it. Onward!"
+"What? Do you mean to tell me that the great lich Jevyan does not reign on "
+"that continent, or that his mages no longer wear the robes of the "
+"necromancer?!?"
 msgstr ""
-"エレンスファーの港に着いた。ここからオークをエルフの鼻先に追いたてよう。エル"
-"フはわたしの同胞だが、殺すのをためらうわけにはいかない。進め !"
-
-#. [message]: speaker=Pakch-Glun
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:452
-msgid ""
-"Listen t' that! He really thinks 'e can kill us! We'll show 'im! Kill the "
-"invader!"
-msgstr ""
-"あれを聞けよ !　やつはほんとうにおれたちを殺せると思ってるんだ !　見せてやろ"
-"うぜ !　あの侵略者を殺せ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:467
-msgid ""
-"What? There appear to be elves blocking our path! Elves, why are you in our "
-"way?"
-msgstr ""
-"なに ?　進路をエルフが妨害しているようだぞ !　エルフ、なぜわれわれを妨害す"
-"る ?"
-
-#. [message]: speaker=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:471
-msgid ""
-"We are here to kill you! After that, we will kill the orcs, but we must kill "
-"you first."
-msgstr ""
-"ここへはおまえを殺しに来たのだ !　われわれはオークを殺すつもりだが、最初にお"
-"まえを殺す必要があるな。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:475
-msgid ""
-"Are you mad?! Well, if you are, I have no time to reason with you. Prepare "
-"to die!"
-msgstr "狂ったのか ?!　まあ、そういうことなら、道理を説く時間はない。死ぬ用意をしろ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:484
-msgid ""
-"This looks like the area the men of Wesnoth have claimed to siege Elensefar "
-"from. Unfortunately, we must get past them to free the city."
-msgstr ""
-"ウェスノス兵がエレンスファーを包囲すると言っていた場所がここらしい。ざんねん"
-"ながら、町を解放するにはこれを突破しなければならないな。"
-
-#. [message]: speaker=Mathein
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:488
-msgid ""
-"You will not get past us while I am alive. And even if you do, the elves "
-"will stop you. If you must be a traitor, pick one nation to betray, not two!"
-msgstr ""
-"わたしが生きているあいだは突破などさせない。突破したとしても、エルフが止め"
-"る。裏切らなければならないなら、1 つの国にしておけ。2 つではなく !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:492
-msgid ""
-"What are you talking about? Oh, I see... my northern brethren have decided "
-"to attack me... Well, we will get past these Wesnothians first, and see what "
-"we can do then."
-msgstr ""
-"なにを言っているんだ ?　ああ、わかった……北の同胞がわたしを攻撃することにした"
-"のか……。まあ、このウェスノス人を最初に突破しよう。そうすればなにができるかわ"
-"かる。"
-
-#. [message]: speaker=Pakch-Glun
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:496
-msgid "Prepare to die, Elensian scum!"
-msgstr "死ぬ用意をしろ、エレンスファー人のくずめ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:505
-msgid ""
-"We are now in Elensefar's harbor. From now, we fight until the orcs are all "
-"out of our city! Then, it appears, we will have to deal with those "
-"Wesnothians who believe us to be traitors."
-msgstr ""
-"われわれはいまエレンスファーの港にいる。いまから、オークが町からまったくいな"
-"くなるまで戦うんだ !　それから、われわれが裏切ったと信じているあのウェスノス"
-"人に対処しなくてはならないようだ。"
-
-#. [message]: speaker=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:509
-msgid ""
-"Yes, please, do that. Then we will not have to deal with the orcs, and only "
-"with you!"
-msgstr ""
-"そうだな、ぜひそうしてくれ。そうすればわれわれがオークに手を出す必要はなくな"
-"り、おまえだけですむのだからな !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:513
-msgid "What?... Oh, its elves, from the northlands. What do you want?"
-msgstr "なんだって ?　……ああ、北の土地のエルフか。なにをしようとしているんだ ?"
-
-#. [message]: speaker=Galiyon
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:517
-msgid "You dead, traitor!"
-msgstr "おまえは死ぬのだ、裏切り者 !"
+"なに ?　偉大なリッチ、ジェヴィヤンがあの大陸を統治していないと言っているの"
+"か ?　それとも、部下の魔術師たちがいまはネクロマンサーのローブを着ていないと"
+"いうことか ?!?"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:521
-msgid "Whatever you say. We'll deal with you after we kill the orcs."
-msgstr "いったいなにを言っているんだか。オークを殺してからどうにかしよう。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:548
-msgid "Elensefar may be ours, but there are still enemies to defeat. Onwards!"
+#: scenarios/i1_The_Swampland.cfg:129
+msgid ""
+"What? Why do you speak of those old tales as if they were real? And I "
+"suppose you think you are a real necromancer too."
 msgstr ""
-"エレンスファーはわれわれのものになったようだ。しかしまだ倒さねばならない敵が"
-"いる。進め !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:561
-msgid ""
-"We have taken Elensefar and defeated the Wesnothians, but these Elves need "
-"attending to."
-msgstr ""
-"われわれはエレンスファーを占領し、ウェスノス人を倒した。しかしあのエルフには"
-"注意が必要だ。"
-
-#. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:570
-msgid ""
-"The orcs had ransacked the city's coffers - now it's time for us to return "
-"the favor."
-msgstr "オークは町の金庫をあさり回っていた。恩返しをしてもらう時だ。"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:586
-msgid "You find 300 pieces of gold!"
-msgstr "300 ゴールド見つけた !"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:589
-msgid "You find 250 pieces of gold!"
-msgstr "250 ゴールド見つけた !"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:592
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:654
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:722
-msgid "You find 200 pieces of gold!"
-msgstr "200 ゴールド見つけた !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:616
-msgid "Good work, men. Onwards, we have to retake the city also!"
-msgstr "よくやった、みんな。進め、さらに町を取り戻さなければならない !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:629
-msgid "Come on, we should go North and see if we can help defeat the elves."
-msgstr "行くぞ、北へ行って、エルフを倒すのを手伝えるか見てみなければ。"
-
-#. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:638
-msgid "The Wesnothians had much gold in their camp. It is ours now!"
-msgstr ""
-"ウェスノス人は野営地にたくさんのゴールドを置いていた。いまはわれわれのもの"
-"だ !"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:657
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:725
-msgid "You find 175 pieces of gold!"
-msgstr "175 ゴールド見つけた !"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:660
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:728
-msgid "You find 150 pieces of gold!"
-msgstr "150 ゴールド見つけた !"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:684
-msgid "Orcs still reside in the city! Come one, let us kill them too!"
-msgstr "オークがまだ町にいる !　行くぞ、オークも殺すんだ !"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:697
-msgid ""
-"Come on, we should go South and see if we can help defeat the Wesnothians."
-msgstr "行くぞ、南へ行って、ウェスノス人を倒すのを手伝えるか見てみなければ。"
-
-#. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:706
-msgid ""
-"It seems the elves brought some of their treasure out of the northlands. "
-"More for us!"
-msgstr "エルフは北の土地から宝物を持ってきていたようだ。たくさんある !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:738
-msgid "There are no enemies left - we have succeeded in retaking Elensefar."
-msgstr "敵は残っていない。エレンスファーを取り戻すのに成功したんだ。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:742
-msgid ""
-"Yes, Elensefar is ours, finally. Well, Black the Red, we thank you for your "
-"help."
-msgstr ""
-"よし、エレンスファーはわれわれのものだ、ついに。さて、ブラック・ザ・レッド、"
-"あなたの助力に感謝する。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:746
-msgid ""
-"It was an honor to fight for you. I wonder where my people will go now... "
-"the orcs have surely taken our home by now."
-msgstr ""
-"きみのために戦ったのは名誉なことだった。これからわたしの仲間はどこに行くこと"
-"になるのだろうな……。われわれの故郷はまちがいなくオークに占領されているから"
+"なんだって ?　どうしてあんたはあの昔話のことを現実のものであるかのように話し"
+"ているんだ ?　それにあんたは自分が本物のネクロマンサーだとも思っているようだ"
 "な。"
 
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/4_Saving_Elensefar.cfg:750
+#. [message]: speaker=Black
+#: scenarios/i1_The_Swampland.cfg:133
 msgid ""
-"I'm sure we will have time to discuss that later. But for now, we must help "
-"those conquered by the orcs rebuild their city."
+"Why do you say he's not a necromancer? I've seen them before, haven't you?"
 msgstr ""
-"それについてはあとで話しあう時間をきっとつくる。しかしいまは、オークに制圧さ"
-"れていた人たちが町を再建するのを助けなければならない。"
+"なんでやつがネクロマンサーじゃないと言うんだ ?　わたしはネクロマンサーを以前"
+"見たことがある。きみたちはないのか ?"
 
-#. [scenario]: id=r1_Sea_Battle
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:3
-msgid "Sea Battle"
-msgstr "海の戦い"
+#. [message]: speaker=Meneldur
+#: scenarios/i1_The_Swampland.cfg:137
+msgid "Are you saying undead exist?"
+msgstr "アンデッドが実在すると言っているのか ?"
+
+#. [message]: speaker=Black
+#: scenarios/i1_The_Swampland.cfg:141
+msgid ""
+"Yes. And this guy looks real enough. I think we should treat him like an "
+"actual enemy."
+msgstr ""
+"そうとも。それにあいつは十分現実のものに見えるがな。やつは現実の敵とみなすべ"
+"きだと思うぞ。"
+
+#. [message]: speaker=Ak-Avanu
+#: scenarios/i1_The_Swampland.cfg:145
+msgid "Yes, you should! Now, prepare to die!"
+msgstr "そのとおり、おまえたちはそうすべきだ !　さて、死ぬ用意をせよ !"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/r1_Sea_Battle.cfg:399
-msgid ""
-"They had 100 gold stored in their ship, and enough provisions to restock our "
-"ship."
+#: scenarios/i1_The_Swampland.cfg:149
+msgid "Whatever. We will see if he actually can raise anything."
+msgstr "勝手にしてくれ。やつが実際になにかを呼び起こせるのか見てみよう。"
+
+#. [message]: speaker=Ak-Avanu
+#: scenarios/i1_The_Swampland.cfg:163
+msgid "Ha! See, I can resurrect the dead! Now fear me!"
 msgstr ""
-"この船には100ゴールドためこんであった。そのうえわれわれの船にじゅうぶん補充で"
-"きるだけの食料がある。"
-
-#. [scenario]: id=1_Escaping_the_Orcs
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:3
-msgid "Escaping the Orcs"
-msgstr "オークからの逃亡"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:21
-msgid ""
-"Warning: This campaign functions differently from most others in a number of "
-"ways. You cannot recruit anyone in most scenarios, and in those you can what "
-"you can recruit is always different - what is on your recruit list does not "
-"carry over fron scenario to scenario. Also, moving from scenario to scenario "
-"is handled differently, with the help of an interactive bigmap."
-msgstr ""
-"注意 : このキャンペーンはいろいろな形でほかのほとんどのキャンペーンとは異なる"
-"振る舞いをします。ほとんどのシナリオではだれも雇用できません。できる場合でも"
-"ふつうとは異なった形での雇用になります。つまり、雇用リストにある者はシナリオ"
-"からシナリオへと持ち越されないのです。そのうえ、シナリオからシナリオへの移動"
-"の扱いも異なります。移動は大きなマップの上での操作によっておこなわれます。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:25
-msgid ""
-"Because of this, this campaign is inadvisable for players new to Wesnoth who "
-"want to gain an understanding of how the game normally works. However, it "
-"will prove an interesting experience for those who have played normal "
-"campaigns before."
-msgstr ""
-"このため、このキャンペーンはふつうのゲームのやりかたを学びたがっている "
-"Wesnoth の新規プレイヤーにはお勧めしません。しかし、すでにふつうのキャンペー"
-"ンをプレイした人には興味深い経験となることでしょう。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:29
-msgid ""
-"This is the story of the time when Elensefar was a province in the vast "
-"kingdom of Wesnoth. It is the story of a time of great forgetfulness, when "
-"much of what was once known had been forgotten, but also of great knowledge. "
-"It is the story of Meneldur the Mariner, who used the newfound knowledge to "
-"resurrect some of the old. But, it is, most of all, the story of the voyage "
-"of his ship, and what he encountered while traveling the high seas..."
-msgstr ""
-"これはエレンスファーが広大なウェスノス王国の一地方だった時代の物語です。ま"
-"た、大いなる忘却の時代の物語です。この時代は、かつて知られていたことの多くが"
-"忘れられ、すぐれた知識でさえ忘れさられたのでした。そして、これは船乗りメネル"
-"ダーの物語でもあります。メネルダーは新しく発見された知識を使い、古きなにもの"
-"かを生き返らせました。しかし、これはなににもまして、その航海、そして外洋を航"
-"海して出会った出来事の物語なのです。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:33
-msgid ""
-"Before the tale begins, it is important to know that none of the seafaring "
-"men or elves, including Meneldur, were willing to travel far out of sight of "
-"the coast. Instead, they remained near land, and sailed only north and "
-"south, for they dimly remembered tales from Haldric's day, of dragons, and "
-"sea serpents, and snake-men, who lurked on the islands that lay to the west "
-"of the continent."
-msgstr ""
-"話を始めるまえに、海に生きる男たちやエルフたち、たとえばメネルダーですが、そ"
-"のだれもが岸が見えないような遠くまで航海したいとは思っていなかったのだと知る"
-"ことが重要です。代わりに、船は陸の近くに留まり、南北にだけ帆走しました。これ"
-"はハルドリックの時代からほのかに記憶されていたお話のためです。それによれば、"
-"ドラゴンや海蛇、そして蛇男が、大陸の西にある島々に潜伏しているのでした。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:37
-msgid ""
-"Meneldur was born in the northlands, in Wesmere, but was outcast from the "
-"elvish lands because of a conflict with the High Council. Thus, although an "
-"elf, Meneldur had pledged his loyalty to Elensefar, and thus to Wesnoth "
-"(but, significantly, not to Weldyn)."
-msgstr ""
-"メネルダーは北の土地にあるウェスミアで生まれましたが、最高評議会との対立によ"
-"りエルフの土地から追放されてしまいました。そのため、エルフでありながらメネル"
-"ダーはエレンスファーに忠誠を誓っていました。そしてそれゆえ、ウェスノスにもで"
-"す (しかし意味深ではありますが、ウェルディンに、ではありませんでした)。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:41
-msgid ""
-"Meneldur gathered around himself a crew of true Elensians; stout spearmen, "
-"and ruthless men of the saber. He also brought many of the archer from his "
-"elvish house out of the northlands, to sail with him on his ship."
-msgstr ""
-"メネルダーは乗組員として真のエレンスファー人を集めました。がっしりした槍兵や"
-"非情なサーベル使いたちです。そのうえ自分の一族にいる射手を北の土地からたくさ"
-"ん連れだし、自分の船でいっしょに航海することにしました。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:45
-msgid ""
-"Now our story begins. On a night about 10 years after he first came to "
-"Elensefar, Meneldur returned to Elensefar from a trading voyage to the Bay "
-"of Pearls. When Meneldur had landed in Elensefar, he went to the castle to "
-"recieve directions from the Lord of Elensefar as to where his new voyage was "
-"to wend. He was to travel south to the Elven peninsula, and trade with the "
-"southern elves."
-msgstr ""
-"いま、わたしたちの物語が始まります。それはメネルダーが最初にエレンスファーに"
-"来てから 10 年ほどたったある夜のことです。メネルダーは真珠の入江との交易の航"
-"海からエレンスファーへ戻ってきました。そしてエレンスファーへ上陸して城に行"
-"き、エレンスファーの領主からの指示を仰ぎにいきました。それで新しい航海の行き"
-"先が決まるはずです。そうしてメネルダーはエルフの半島の南へ旅して、南のエルフ"
-"と交易をすることになりました。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:49
-msgid ""
-"After the meeting, as Meneldur and his men headed back to their ship, they "
-"noticed a strange sound. A harsh sound. The sound of orcs! Elensefar was "
-"under attack, with no provocation. The city had been quickly overrun, before "
-"most of the people had even noticed."
-msgstr ""
-"打ちあわせが終わり、メネルダーと仲間たちが船に戻ろうとしたところ、奇妙な音に"
-"気がつきました。耳障りな音です。オークの声だ !　エレンスファーは攻撃を受けて"
-"いましたが、一方的でした。町はただちに占領され、ほとんどの住民が気づいたのは"
-"そのあとです。"
-
-#. [part]
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:53
-msgid ""
-"Meneldur had only one option left - get back on his boat and flee. But there "
-"were already orcs blocking his path to the harbor..."
-msgstr ""
-"メネルダーには選択肢がひとつしかありませんでした。それは自分の船に戻って逃げ"
-"ることです。しかしすでに港へ行く道をふさぐようにオークがいました……"
-
-#. [unit]: type=Duelist, id=Madru
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:149
-msgid "Madru"
-msgstr "マドルー"
-
-#. [objective]: condition=win
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:235
-# fuzzy
-msgid "Move Meneldur to the Explorer"
-msgstr "メネルダーとマドルーをエクスプローラー号へ移動させよ (マップの南西)"
+"ハ !　見ろ、わたしは死者をよみがえさせられるのだ!　さあ、われを恐れよ !"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:264
-msgid ""
-"Orcs! Orcs are attacking! There are too many, we can't fight them off, we "
-"have to reach the ship!"
-msgstr ""
-"オークだ !　オークが攻撃している !　多すぎて、撃退するのは無理だ。船へ行かな"
-"ければ !"
+#: scenarios/i1_The_Swampland.cfg:167
+msgid "Amazing... so the stories are true!"
+msgstr "驚きだ……。するとあの物語はほんとうだったのだ !"
 
-# 帆船時代の初期(?) CaptainとShipmasterがいた、らしい。
-# Captainは兵の隊長で、Shipmasterは軍に徴用された商船の船長。
-# このキャンペーンでも両者がいるので、隊長・船長とする。
-# Captain=キャプテン、Shipmaster=シップマスターにしてしまってもいいかもしれない。
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:268
-msgid "Aye aye, Cap'n. All men to the ship, quick as you can!"
-msgstr "了解、隊長。みんな船へ。できるだけ急ぐんだ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/1_Escaping_the_Orcs.cfg:286
-msgid "Now, we go out to sea. I expect our city is doomed..."
-msgstr "さあ、海に出た。われわれの町は破滅だろうな……"
-
-#. [scenario]: id=i9_The_Ruined_Port
 #. [label]
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:723
-msgid "The Ruined Port"
-msgstr "廃墟の港"
+#. [scenario]: id=i2_Orc_Mountain
+#: scenarios/i2_Orc_Mountain.cfg:3 scenarios/r0_The_High_Seas.cfg:543
+msgid "Orc Mountain"
+msgstr "オークの山"
 
-#. [unit]: type=Orcish Warlord, id=Bakrakha
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:160
-msgid "Bakrakha"
-msgstr "バクラクハー"
+#. [unit]: type=Orcish Warrior, id=Dur-Kal
+#: scenarios/i2_Orc_Mountain.cfg:68
+msgid "Dur-Kal"
+msgstr "ダー゠カル"
 
-#. [unit]: type=Orcish Warrior, id=Sakdur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:175
-msgid "Sakdur"
-msgstr "サクダー"
+#. [message]: speaker=Meneldur
+#: scenarios/i2_Orc_Mountain.cfg:123
+msgid "Orcs are here! Orcs, what do you know about the fall of Elensefar?"
+msgstr ""
+"オークがここに !　オーク、エレンスファー陥落についてなにか知っているか ?"
 
-#. [unit]: type=Orcish Warrior, id=Asknak
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:190
-msgid "Asknak"
-msgstr "アスクナック"
+#. [message]: speaker=Dur-Kal
+#: scenarios/i2_Orc_Mountain.cfg:127
+msgid "Nothing, but I am glad to hear of it! Now prepare to die!"
+msgstr "なにも。しかしそれを聞いてうれしいぞ !　じゃあ、死ぬ用意をしろ !"
 
-#. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:214
-# fuzzy
+#. [message]: speaker=Meneldur
+#: scenarios/i2_Orc_Mountain.cfg:131
+msgid "Very well. Let battle commence."
+msgstr "けっこうだね。戦闘を開始しよう。"
+
+#. [message]: speaker=Madru
+#: scenarios/i2_Orc_Mountain.cfg:140
 msgid ""
-"Defeat Bakrakha, the Orcish Warlord, and then survive until end of turns"
-msgstr "南の将軍バクラクハーを倒せ。そしてターンの終わりまで生き残れ。"
+"We have plenty of time to restock the ship now. We can train our troops here "
+"for a few days."
+msgstr ""
+"もう船に補給をする時間がたくさんある。ここで数日間は部隊を訓練できるな。"
+
+#. [label]
+#. [scenario]: id=i3-1_Theft
+#: scenarios/i3-1_Theft.cfg:3 scenarios/r0_The_High_Seas.cfg:561
+msgid "Theft"
+msgstr "窃盗"
+
+#. [unit]: type=Orcish Warrior, id=Dal-Alkra
+#: scenarios/i3-1_Theft.cfg:68
+msgid "Dal-Alkra"
+msgstr "ダル゠アルクラ"
+
+#. [event]
+#: scenarios/i3-1_Theft.cfg:81
+msgid "Srak"
+msgstr "スラク"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:237
-msgid "Turns run out and Bakrakha is still alive"
-msgstr "ターンが尽きて、バクラクハーがまだ生きている。"
-
-#. [message]: speaker=Bakrakha
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:251
-# fuzzy
-msgid ""
-"So, little orc-maggots, you got so low as to call down some Wesfolk from the "
-"north to help with your trying to take over the castle!?! Not going to "
-"happen on my watch!"
-msgstr ""
-"では、ちびのウジ虫。おまえは卑しすぎて、北のアイルフォークに助けを求めてまで"
-"城を取ろうとしているんだな !?!　おれの目が黒いうちはそんなことは許さない !"
-
-# BakrakraはBakrakhaのtypoと判断
-#. [message]: speaker=Sakdur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:255
-# fuzzy
-msgid ""
-"We didn't call no human scum out of the north, though we could use their "
-"help! You been king far too long, Bakrakra! You aint got us meat, and you "
-"aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
-msgstr ""
-"おれたちは北から人間のくずなど呼んでない。やつらを利用することはできるが"
-"な !　おまえは長く族長をやりすぎたんだ、バクラクハー !　おれたちに肉を渡さな"
-"いし、土地も渡さない。おれや、あのアスクナック、それにリッチだっておまえより"
-"はましだ !"
-
-#. [message]: speaker=Asknak
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:259
-msgid ""
-"That right. You' keeping all the food in your castle there, and we' tired of "
-"it. Its time to get a new king 'round 'ere!"
-msgstr ""
-"そうだ。おまえ、その城に食い物ぜんぶ取ってある。おれたち、嫌になった。ここは"
-"新しい王がいるときだ !"
+#: scenarios/i3-1_Theft.cfg:117 scenarios/i3-2_Back_to_the_Ship.cfg:160
+msgid "Death of Psison"
+msgstr "サイソンの死"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:263
-# fuzzy
+#: scenarios/i3-1_Theft.cfg:137
 msgid ""
-"I don't think we should get involved here. These orcs can fight each other, "
-"and they won't care if we wait here and restock."
+"Are there any inhabitants of this island? We come in peace, we just want to "
+"restock our ship and then be on our way..."
 msgstr ""
-"ここで巻きこまれるべきだとは思わない。この氏族たちはおたがいに戦っていればい"
-"い。われわれがここで補給が終わるまで待っても気にしないだろう。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:267
-# fuzzy
-msgid ""
-"I don't think it's that simple. That orc in the castle has all the food, we "
-"can't restock from here."
-msgstr ""
-"そう単純だとは思えないな。あの城にいるやつが食料をぜんぶもっている。ここでは"
-"補給できない。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:271
-msgid "So what do you suggest we do?"
-msgstr "では提案は ?"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:275
-# fuzzy
-msgid ""
-"Well, we will definitely have to kill the orc in the castle, to get the "
-"food. But to get to him, we should probably go around the river, which leads "
-"us past all the other orcs. We might have to kill them all."
-msgstr ""
-"そうだな、食料を得るためには城の族長を殺さなければならないのは明白だ。しかし"
-"やつのところへ行くためには、おそらく川を迂回しなければならない。そうすると氏"
-"族の男たち全員を通り抜けることになる。全員殺さなければならないかもしれない"
-"な。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:313
-msgid "Good, now we just have to survive until the ship is refilled."
-msgstr "よし。さて、とにかく船に補給が終わるまで生き残らなければならない。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:324
-# fuzzy
-msgid "We have defeated all of the orcs; refill the ship, and we'll leave."
-msgstr "氏族の男たちを全員倒した。船に補給しろ。それから出発しよう。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:365
-# fuzzy
-msgid "We did not manage to kill the orc leader, and now we are out of food..."
-msgstr "うまく敵の指揮官を殺せなかった。そしてもう食料が尽きた……"
+"この島に住民はいないのか ?　われわれは平和を求めて来た。ちょっと補給をして進"
+"みたい……"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i9_The_Ruined_Port.cfg:376
-msgid ""
-"Good, we have enough food now. We should go back out to sea, further north "
-"there are some people who might help us."
-msgstr ""
-"よし、必要なだけの食料を手に入れた。海に戻るべきだ。北の方にわれわれを助けて"
-"くれるかもしれない人びとがいる。"
+#: scenarios/i3-1_Theft.cfg:141
+msgid "Hey! What happened to The Explorer! She's gone!"
+msgstr "おい !　エクスプローラー号になにが起きたんだ !　行ってしまう !"
 
-#. [scenario]: id=i8_The_Desert_Island
+#. [message]: speaker=Madru
+#: scenarios/i3-1_Theft.cfg:145
+msgid "Someone must have stolen her. It looks like we're stuck on this island."
+msgstr "だれかが船を盗んだにちがいない。この島に足止めされたようだ。"
+
+#. [unit]: type=Merman Hoplite, id=Psison
+#: scenarios/i3-1_Theft.cfg:150
+msgid "Psison"
+msgstr "サイソン"
+
+#. [message]: speaker=Psison
+#: scenarios/i3-1_Theft.cfg:174
+msgid "Hello, I believe I can help."
+msgstr "こんにちは。わたしが助けられると思う。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i3-1_Theft.cfg:178
+msgid "Who are you, and what do you want?"
+msgstr "何者だ ?　なにが望みなんだ ?"
+
+#. [message]: speaker=Psison
+#: scenarios/i3-1_Theft.cfg:182
+msgid ""
+" I am the leader of a great tribe of mermen. I think it was the nagas, our "
+"enemies, who stole your boat. I will lend you the aid of my fighters to get "
+"it back."
+msgstr ""
+"マーフォークの偉大な部族の指導者です。あなたたちの船を盗んだのは、われわれの"
+"敵であるナーガだと思いますよ。取り戻すためにわたしの戦士たちの力をお貸ししま"
+"しょう。"
+
+#. [message]: speaker=second_unit
+#: scenarios/i3-1_Theft.cfg:199
+msgid "Hey, look, I see the boat! Nagas are moving it southwest."
+msgstr "おい、見ろ。船が見える !　ナーガが南西に移動させているんだ。"
+
+#. [message]: speaker=Srak
+#: scenarios/i3-1_Theft.cfg:208
+msgid ""
+"They've found us! Workers, get that boat out of here! We will secure time "
+"for your escape."
+msgstr ""
+"見つかったぞ !　労働者たち、船をここから出せ !　逃げる時間を作ってやる。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i3-1_Theft.cfg:233
+msgid "Orcs! Kill them!"
+msgstr "オークだ !　やつらを殺せ !"
+
+#. [message]: speaker=Black
+#: scenarios/i3-1_Theft.cfg:251
+msgid "A bridge! What do you think is across it?"
+msgstr "橋だ !　どこへ通じていると思う ?"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i3-1_Theft.cfg:255
+msgid ""
+"Probably our boat... but we need to defeat these orcs before we get it, or "
+"else they will attack us from behind."
+msgstr ""
+"おそらくはわれわれの船に……しかし取り戻すまえにオークを倒さなければ。さもない"
+"と背後から襲われることになる。"
+
+#. [message]: speaker=narrator
+#: scenarios/i3-1_Theft.cfg:265
+msgid "You find 100 gold pieces in the orc's castle."
+msgstr "オークの城で 100 ゴールド見つけました。"
+
 #. [label]
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:705
-msgid "The Desert Island"
-msgstr "砂漠の島"
+#. [scenario]: id=i3-2_Back_to_the_Ship
+#: scenarios/i3-2_Back_to_the_Ship.cfg:3 scenarios/r0_The_High_Seas.cfg:565
+msgid "Back to the Ship"
+msgstr "船に戻る"
 
-#. [unit]: type=Lich, id=Kar-Salazz
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:66
-msgid "Kar-Salazz"
-msgstr "カー゠サラーズ"
+#. [unit]: type=Orcish Warlord, id=Dur-Galba
+#: scenarios/i3-2_Back_to_the_Ship.cfg:90
+msgid "Dur-Galba"
+msgstr "ダー゠ガルバ"
 
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:121
-msgid ""
-"I see there are more undead! I wonder how many of these did not go all the "
-"way across with Jevyan?"
-msgstr ""
-"またアンデッドだ !　ジェヴィヤンといっしょに渡らなかったのがどれだけたくさん"
-"いるんだろうな。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:125
-msgid ""
-"I have seen several of these wandering undead where I come from. Haven't you?"
-msgstr ""
-"わたしの出身地では、さまようアンデッドがいくらか見られたが。きみは見たことが"
-"ないのか ?"
+#. [unit]: type=Naga Myrmidon, type=Naga Warrior, id=Slal
+#: scenarios/i3-2_Back_to_the_Ship.cfg:109
+msgid "Slal"
+msgstr "スラル"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:129
+#: scenarios/i3-2_Back_to_the_Ship.cfg:180
 msgid ""
-"Mostly I travel south to the southern continent, not west like this. There "
-"are no undead there!"
+"Time to get our ship back. These islands are inhabited, there should be a "
+"harbor *somewhere*."
 msgstr ""
-"たいていわたしは大陸の南の方へ旅していた。こんな西じゃない。そこにアンデッド"
-"はいないんだ !"
+"そろそろ船を取りかえす頃合いだ。この島には住民がいるな。<b>どこか</b>に港があ"
+"るはずだ。"
+
+#. [message]: speaker=Psison
+#: scenarios/i3-2_Back_to_the_Ship.cfg:185
+msgid ""
+"These Nagas don't leave us alone! They're here again, and the ship is here "
+"somewhere too."
+msgstr ""
+"あのナーガたちはわれわれを放ってはおかないぞ !　またここへ来る。それに船もこ"
+"このどこかにある。"
+
+#. [message]: speaker=second_unit
+#: scenarios/i3-2_Back_to_the_Ship.cfg:203
+msgid "Orcs! More orcs!"
+msgstr "オークだ !　またオーク !"
+
+#. [message]: speaker=Psison
+#: scenarios/i3-2_Back_to_the_Ship.cfg:221
+msgid "I knew there were nagas around here..."
+msgstr "この周りにナーガがいるのがわかった……"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:133
-msgid "I see..."
-msgstr "わかった……"
+#: scenarios/i3-2_Back_to_the_Ship.cfg:230
+msgid "Now, to the harbor, and back on to the ship!"
+msgstr "さて、港へ。船に戻ろう !"
 
-#. [message]: speaker=Kar-Salazz
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:137
+#. [message]: speaker=Psison
+#: scenarios/i3-2_Back_to_the_Ship.cfg:235
 msgid ""
-"Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy "
-"to defeatzz!"
+"I will leave you now, but the fighters who fought for you will still help "
+"you, they say."
 msgstr ""
-"シーぉれでは……わたシーぃとはあまり戦ったことがない ?　ああ、いいぞ。おまえた"
-"ちは簡単に倒シーぇるな !"
+"もうお別れだ。しかしあなたのために戦った戦士たちは、これからもあなたを助ける"
+"ことだろう。戦士たちがそう言っているぞ。"
 
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:141
-msgid "Why did he speak like a lizard?"
-msgstr "なんでやつはトカゲのように話すんだ ?"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:155
-msgid "What the...?"
-msgstr "なんだ…… ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i8_The_Desert_Island.cfg:159
-msgid "That must be why he spoke like that. He is partly a lizard!"
-msgstr "あいつがああしゃべる理由はあれにちがいない。部分的にトカゲなんだよ !"
-
-#. [scenario]: id=i7-3_Off_the_Peninsula
 #. [label]
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:673
-msgid "Off the Peninsula"
-msgstr "半島の先端"
+#. [scenario]: id=i4_Fire_Island
+#: scenarios/i4_Fire_Island.cfg:3 scenarios/r0_The_High_Seas.cfg:593
+msgid "Fire Island"
+msgstr "火の島"
 
-#. [unit]: type=Elvish Enchantress, id=Lomanyas
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:69
-msgid "Lomanyas"
-msgstr "ロマニヤス"
-
-#. [message]: speaker=Lomanyas
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:131
-msgid ""
-"I heard about your defeat of the elves on the isle, and I knew you'd "
-"probably show up here sooner or later."
-msgstr ""
-"島のエルフを倒したことは聞いたわ。だからおそらくあなたがここに姿を見せるのは"
-"時間の問題だと思ってた。"
+#. [unit]: type=Drake Flare, id=Dalakar
+#: scenarios/i4_Fire_Island.cfg:66
+msgid "Dalakar"
+msgstr "ダラカー"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:135
+#: scenarios/i4_Fire_Island.cfg:121
+msgid "This island is completely dead. We cannot reprovision here."
+msgstr "この島は完全に死にたえている。ここでは補給できない。"
+
+#. [message]: speaker=Black
+#: scenarios/i4_Fire_Island.cfg:125
 msgid ""
-"I might have known. You must be the leader of these men; I wouldn't put "
-"aligning with men below you, after you surrendered to orcs!"
+"Yes, there is no one on this island, but what about that one to the west? "
+"The water is shallow enough to wade over there, let's see if there are "
+"people there."
 msgstr ""
-"わたしもわかっていたと思う。あなたがあの人間たちの指揮官であるのはまちがいな"
-"いと。あなたのもとに人間たちを団結させたのはわたしではない。あなたがオークに"
-"降伏したあとでしたことだ !"
-
-#. [message]: speaker=Lomanyas
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:139
-msgid ""
-"'Surrendered' is not the way I would put it, but fine, have it your way."
-msgstr "「降伏」はわたしがそうした理由じゃない。でもいいわ。好きなように考えて。"
-
-#. [message]: speaker=Lomanyas
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:146
-msgid "So, it is the traitor returning to greet his foe. How pleasant."
-msgstr "では、反逆者が敵にあいさつしに戻って来たのね。なんてうれしいのかしら。"
+"そうだ。だれもこの島にはいない。しかし西の島はどうだ ?　歩いて渡れるほど浅い"
+"から、だれかいないかどうか確かめよう。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:150
-msgid ""
-"What are you doing here? My quarrel is with the Wesnothians, not with you."
-msgstr ""
-"ここでなにをしているんだ ?　わたしの争いはウェスノス人とのものだ。あなたとで"
-"はない。"
+#: scenarios/i4_Fire_Island.cfg:143
+msgid "What are these beasts? They look like miniature dragons!"
+msgstr "あの獣はなんだ ?　小型のドラゴンみたいだ !"
 
-#. [message]: speaker=Lomanyas
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:154
+#. [message]: speaker=Madru
+#: scenarios/i4_Fire_Island.cfg:147
 msgid ""
-"I am the men's captain, so those who quarrel with them quarrel with me. We "
-"elves and men have aligned to bring you down!"
+"They do not look like they belong on this island. Perhaps they came from the "
+"south? In any case, they don't look friendly."
 msgstr ""
-"わたしはあの人たちの隊長だから、わたしとの争いになるのよ。わたしたちエルフと"
-"人間はあなたを仕留めるために団結しているの !"
+"この島のものには見えないな。ことによると南から来たのだろうか ?　いずれにせよ"
+"友好的ではなさそうだな。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:158
-msgid "Think what you like. We will fight you if need be."
-msgstr "どうしたいか考えてくれ。必要ならわれわれは戦うつもりだ。"
+#: scenarios/i4_Fire_Island.cfg:151
+msgid "True. Well then, we should defeat them so we can reprovision!"
+msgstr "たしかに。まあそうすると、補給するには倒すべきだな !"
 
-#. [message]: speaker=Lomanyas
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:165
-msgid ""
-"Oh, and I see some of the Wesnothians you found are turncoats. Don't worry, "
-"they will die also."
-msgstr ""
-"ああ、あなたが見つけたウェスノス人の何人かは裏切り者のようね。心配しないで、"
-"その人たちも死ぬから。"
+#. [label]
+#. [scenario]: id=i5-1_Traitors
+#: scenarios/i5-1_Traitors.cfg:3 scenarios/r0_The_High_Seas.cfg:611
+msgid "Traitors"
+msgstr "反逆者"
 
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:186
-msgid ""
-"With Lomanyas dead, I think we have defeated all of the Elves who sail the "
-"sea. We probably won't see them until we reach Elensefar..."
-msgstr ""
-"ロマニヤスの死で、海を航海するエルフはすべて倒されたと思う。おそらくエレンス"
-"ファーに着くまでエルフを見ることはないだろう……"
+#. [unit]: type=Elvish Marshal, id=Kalandur
+#: scenarios/i5-1_Traitors.cfg:66
+msgid "Kalandur"
+msgstr "カランダー"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-3_Off_the_Peninsula.cfg:193
+#: scenarios/i5-1_Traitors.cfg:128
 msgid ""
-"It is unfortunate the elves have also decided to oppose us. I suspect there "
-"are more of them roaming the seas."
+"What? So, if it isn't my old friend Kalandur... are there any more "
+"Wesnothians on this island, or have they given up trying to stop us?"
 msgstr ""
-"エルフが敵対することにしたのは残念なことだ。海を放浪するエルフはもっといるこ"
-"とだろうしな。"
+"なんだ ?　旧友のカランダーじゃないか……。この島にはウェスノス人がもっといるの"
+"か ?　それともわれわれを止めようとするのをやめたのか ?"
 
+#. [message]: speaker=Kalandur
+#: scenarios/i5-1_Traitors.cfg:132
+msgid "There are none here, but trust me, they remain against you."
+msgstr ""
+"ここにはだれもいない。だが信じろ。ウェスノス人はまだおまえを追いかけている。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:136
+msgid ""
+"So say you. Well, Black, we'd better go. Its best not to kill more elves; "
+"even if we defeat them, it will just make the rest even angrier at us."
+msgstr ""
+"きみが言うなら。さて、ブラック、行ったほうがよさそうだ。エルフはもう殺さない"
+"ほうがいい。エルフを倒したとしても、残った者がさらに怒るだけだ。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:143
+msgid ""
+"What? So, if it isn't my old friend Kalandur. (we'd better get out of here, "
+"Madru...)"
+msgstr ""
+"なんだ ?　旧友のカランダーじゃないか。(ここから立ち去ったほうがいい、マドルー"
+"……)"
+
+#. [message]: speaker=Kalandur
+#: scenarios/i5-1_Traitors.cfg:147
+msgid "So we meet again, traitor elf! Prepare to die!"
+msgstr "ではまた会ったな。エルフの裏切り者 !　死ぬ用意をしろ !"
+
+#. [message]: speaker=Madru
+#: scenarios/i5-1_Traitors.cfg:151
+msgid "Whats going on here?"
+msgstr "ここはどうなっているんだ ?"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:155
+msgid ""
+"Kalandur here thinks I betrayed Elfkind by aiding Elensefar. He's going to "
+"fight us. We have to leave."
+msgstr ""
+"このカランダーはわたしがエレンスファーを助けることでエルフを裏切ったと考えて"
+"いるんだ。カランダーは戦おうとしている。だからわれわれは立ち去るべきだ。"
+
+#. [message]: speaker=Black
+#: scenarios/i5-1_Traitors.cfg:162
+msgid ""
+"Look, if we leave now, they'll just follow us and kill us. We have to defeat "
+"them!"
+msgstr ""
+"おい、いま立ち去ったら、あいつはとにかく追いかけてきてわれわれを殺すことだろ"
+"う。あいつは倒さなければ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:166
+msgid ""
+"If we leave, he will probably not follow us. He will report to his superiors "
+"- wherever they are."
+msgstr ""
+"立ち去ったら、おそらく追いかけてこない。上官に連絡するんだ。その上官がどこに"
+"いるにしろ。"
+
+#. [message]: speaker=Black
+#: scenarios/i5-1_Traitors.cfg:170
+msgid ""
+"And won't those superiors send out even more ships? If we let Kalandur get "
+"away, they will know where we are and where we are coming from."
+msgstr ""
+"そしてその上官はさらに追加の船を送らないのか ?　それにカランダーを行かせた"
+"ら、われわれがどこからどこに向かっているのか教えてやることになる。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:174
+msgid "Very well. Onward!"
+msgstr "よくわかったよ。進め !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:188
+msgid ""
+"So, we have slain an Elf! I do not like this - they are not evil, they are "
+"only following the commands of their twisted leader. Perhaps if we spare "
+"them their lives, they will join us after we defeat them."
+msgstr ""
+"とうとうエルフを殺してしまった !　こんなことはしたくない。エルフは悪人じゃな"
+"いし、おかしな指揮官に従っていただけなんだ。ひょっとすると、命を助けてやれ"
+"ば、指揮官を倒したあとで味方になってくれるかもしれないな。"
+
+#. [message]: speaker=Madru
+#: scenarios/i5-1_Traitors.cfg:197
+msgid ""
+"Look - there is a bridge here that Kalandur was guarding. I guess we should "
+"go across, but I don't have any idea what is there."
+msgstr ""
+"見ろ。ここにカランダーが守っていた橋がある。渡るべきなんだろうな。しかしあち"
+"らになにがあるかはわからない。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:201
+msgid "Nor do I. Probably more enemies."
+msgstr "わたしにもわからないが、おそらくさらなる敵だろうな。"
+
+#. [unit]: type=Elvish Hero, id=Danrer
+#: scenarios/i5-1_Traitors.cfg:206
+msgid "Danrer"
+msgstr "ダンラー"
+
+#. [message]: speaker=Danrer
+#: scenarios/i5-1_Traitors.cfg:230
+msgid ""
+"Wait! I know what's across that bridge - its more elves, who will want to "
+"kill you, and orcs."
+msgstr ""
+"待て !　その橋を渡るとなにがあるかは知っている。さらにエルフがいて、あなたた"
+"ちを殺したがっている。それからオークだ。"
+
+#. [message]: speaker=Madru
+#: scenarios/i5-1_Traitors.cfg:234
+msgid "Well then, we will have a common foe with these elves!"
+msgstr "さてそれでは、ここのエルフとは共通の敵がいるわけだ !"
+
+#. [message]: speaker=Danrer
+#: scenarios/i5-1_Traitors.cfg:238
+msgid ""
+"Um.. in a way... but in any case, I think that us elves who are still alive "
+"will join you. We can't go back to the elves now, because since we did not "
+"die they will think we are deserters."
+msgstr ""
+"うーん……ある意味では……しかしいずれにせよ、ここのまだ生きているエルフはあなた"
+"に協力すると思う。われわれはもうエルフのところへ戻ることができないんだ。生き"
+"ているのは脱走兵だと思われるからな。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-1_Traitors.cfg:242
+msgid "Then join us, if you wish to. We are always open to more fighters."
+msgstr ""
+"それではついて来るんだ、もしそうしたければ。いつだって戦士は受け入れている。"
+
+#. [message]: speaker=Danrer
+#: scenarios/i5-1_Traitors.cfg:247
+msgid ""
+"Gladly! Also, there is some gold here that Kalandur was saving... you can "
+"take it, since you did defeat him."
+msgstr ""
+"よろこんで !　それから、ここにカランダーがためていたゴールドがある……。倒して"
+"しまったんだから、持っていけるぞ。"
+
+#. [label]
+#. [scenario]: id=i5-2_A_Deadly_Alliance
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:3 scenarios/r0_The_High_Seas.cfg:615
+msgid "A Deadly Alliance"
+msgstr "死の同盟"
+
+#. [unit]: type=Elvish Marshal, id=Alandur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:87
+msgid "Alandur"
+msgstr "アランダー"
+
+#. [unit]: type=Orcish Warlord, id=Kra-Drano
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:102
+msgid "Kra-Drano"
+msgstr "クラ゠ドレイノ"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:157
+msgid ""
+"Alandur! I suppose you want to battle? Very well, but there are orcs here "
+"also. How about we kill them first, then battle?"
+msgstr ""
+"アランダー !　あなたは戦いたいのだろうな ?　それはけっこうなことだが、ここに"
+"はオークもいる。先にオークを倒すというのはどうだ。それから戦うというのは ?"
+
+#. [message]: speaker=Alandur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:161
+msgid ""
+"Well, if the orcs had not occupied Elensefar when they took it, but rather "
+"destroyed it, we would. But, those on the mainland have proved extremely "
+"resistant to attacks."
+msgstr ""
+"まあ、オークがエレンスファーを占領ではなく破壊していたのなら、そうしたことだ"
+"ろうな。しかし、本土のオークは攻撃に対して非常によく耐えることを証明してき"
+"た。"
+
+#. [message]: speaker=Madru
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:165
+msgid ""
+"Why does that matter? All that's important is that they're going to kill "
+"you, too!"
+msgstr ""
+"それがどうして関係するんだ ?　重要なことはオークがあんたたちも殺そうとしてい"
+"ることだけだ !"
+
+#. [message]: speaker=Alandur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:169
+msgid ""
+"No, we're currently concluding a peace treaty with the orcs. And it would be "
+"bad form to attack the relatives of those who you are trying to make a "
+"bargain with!"
+msgstr ""
+"ちがう。われわれは現在オークと平和条約を結ぼうとしているんだ。それに協定を結"
+"ぼうとしている相手の親類を攻撃するのは無作法だろう !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:173
+msgid "But these orcs are probably from a completely different tribe!"
+msgstr "しかしそのオークはおそらくまったく別の部族だ !"
+
+#. [message]: speaker=Alandur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:177
+msgid ""
+"We can't take that chance! These orcs claim to be allies with the ones in "
+"Elensefar, so we MUST ally with them."
+msgstr ""
+"賭けることはできない !　あのオークはエレンスファーにいる者と同盟していると主"
+"張している。だからあのオークとは同盟<b>しなければならない</b>んだ。"
+
+#. [message]: speaker=Kra-Drano
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:181
+msgid ""
+"Uh, yeah, of course... we be da same tribe... uh... Prepare to die, stupid "
+"dog-man!"
+msgstr ""
+"あー、えー、もちろん……おれたちは同じ部族だ……。うー……死ぬ用意をしろ、間抜けな"
+"犬男 !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:193
+msgid ""
+"So the elves, too, have given up trying to stop the orcs... it seems we are "
+"on our own against them. And these elves, since we are their enemies anyway, "
+"must die."
+msgstr ""
+"ではエルフも、オークを止めるのをあきらめたのか……。自分たちで対抗しろというこ"
+"とらしい。それにここのエルフたちは、どのみちわれわれを敵としたのだから、死ぬ"
+"のはまちがいない。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:200
+msgid ""
+"The elves are willing to surrender Elensefar to orcs, just because they "
+"began to lose a few battles? We really need to get back there, soon."
+msgstr ""
+"エルフはエレンスファーがオークに降伏してもかまわないのだな。二、三の戦いに負"
+"けはじめただけでか ?　われわれはほんとうに戻らなければならない、急いでだ。"
+
+#. [message]: speaker=Black
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:207
+msgid ""
+"If we can just get to the western isle I spoke of, we may be able to defeat "
+"this alliance."
+msgstr ""
+"とにかくわたしの言っていた西の島に着いてしまえば、その同盟を倒すことができる"
+"だろう。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:228
+msgid ""
+"With Alandur dead, I think we have defeated all of the Elves who sail the "
+"sea. We probably won't see them until we reach Elensefar... we will have "
+"many enemies when we get there."
+msgstr ""
+"アランダーが死んだから、海を航海していたエルフはすべて倒してしまったと思う。"
+"おそらくエレンスファーに着くまで見ることはないだろう……。着いたときには、多く"
+"の敵がいることだろうな。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i5-2_A_Deadly_Alliance.cfg:235
+msgid "Well, we won, but things might go badly for us later..."
+msgstr ""
+"さて、われわれは勝った。しかしあとでわれわれにとってはよくないことになるかも"
+"しれないな……"
+
+#. [label]
 #. [scenario]: id=i6_Frozen_Lands
-#. [label]
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:647
+#: scenarios/i6_Frozen_Lands.cfg:3 scenarios/r0_The_High_Seas.cfg:647
 msgid "The Frozen Lands"
 msgstr "凍った土地"
 
 #. [unit]: type=Dwarvish Steelclad, id=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:66
+#: scenarios/i6_Frozen_Lands.cfg:66
 msgid "Padrun"
 msgstr "パドラン"
 
 #. [unit]: type=Dwarvish Lord, id=Panenael
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:90
+#: scenarios/i6_Frozen_Lands.cfg:90
 msgid "Panenael"
 msgstr "パネネール"
 
 #. [message]: speaker=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:145
+#: scenarios/i6_Frozen_Lands.cfg:145
 msgid "Finally, a ship! You, in there, we wish to talk with you!"
 msgstr "ついに船が !　そこのあんた、話がしたい !"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:149
+#: scenarios/i6_Frozen_Lands.cfg:149
 msgid ""
 "What is it that you want, Dwarf? You know that elves are not usually very "
 "friendly with your kind."
@@ -1537,7 +2156,7 @@ msgstr ""
 "のは知っているだろう。"
 
 #. [message]: speaker=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:153
+#: scenarios/i6_Frozen_Lands.cfg:153
 msgid ""
 "I know this, but you are not only elves, there are some men among you, who "
 "usually help in return for gold. I need to ask your aid. We are in a "
@@ -1548,12 +2167,12 @@ msgstr ""
 "んだ。おれたちはやけくそな状態だからな。助けがないとみんな死ぬんだよ !"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:157
+#: scenarios/i6_Frozen_Lands.cfg:157
 msgid "Why? What's going on here?"
 msgstr "どうしてだ ?　ここはどうなっているんだ ?"
 
 #. [message]: speaker=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:161
+#: scenarios/i6_Frozen_Lands.cfg:161
 msgid ""
 "There is a lord ruling here, a cruel lord, and we decided to resist him, to "
 "so as not to be enslaved. But then he called in reinforcements from the "
@@ -1567,7 +2186,7 @@ msgstr ""
 "をやるよ。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:165
+#: scenarios/i6_Frozen_Lands.cfg:165
 msgid ""
 "Very well, we will try to help you - so give us command of your troops, that "
 "we may use them more effectively."
@@ -1576,7 +2195,7 @@ msgstr ""
 "えてくれ。そのほうが効果的に使える。"
 
 #. [message]: speaker=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:170
+#: scenarios/i6_Frozen_Lands.cfg:170
 msgid ""
 "Certainly! Also, we will give you what little gold we have, if it will help "
 "you..."
@@ -1585,12 +2204,12 @@ msgstr ""
 "し渡そう……"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:188
+#: scenarios/i6_Frozen_Lands.cfg:188
 msgid "Alright, men, lets go back to the ship now."
 msgstr "よし。みんな、船に戻ろう。"
 
 #. [message]: speaker=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:193
+#: scenarios/i6_Frozen_Lands.cfg:193
 msgid ""
 "Thank you for helping us regain our land! My men that were fighting with you "
 "will join you now, although I will be staying here."
@@ -1599,227 +2218,80 @@ msgstr ""
 "間はこれからもあんたらに協力するよ。おれはここに留まるつもりだけどな。"
 
 #. [message]: speaker=Padrun
-#: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:229
+#: scenarios/i6_Frozen_Lands.cfg:229
 msgid "Continue... the battle... for me..."
 msgstr "つづけてくれ……戦いを……わたしのために……"
 
-#. [scenario]: id=3_Blackmore_the_Black
 #. [label]
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:741
-msgid "Blackmore the Black"
-msgstr "ブラックモア・ザ・ブラック"
+#. [scenario]: id=i7-1_Wesnothian_Forces
+#: scenarios/i7-1_Wesnothian_Forces.cfg:3 scenarios/r0_The_High_Seas.cfg:665
+msgid "Wesnothian Forces"
+msgstr "ウェスノス軍"
 
-#. [unit]: type=Lich, id=Ah-Reblak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:86
-msgid "Ah-Reblak"
-msgstr "ア゠レブラク"
+#. [unit]: type=General, id=Thandor
+#: scenarios/i7-1_Wesnothian_Forces.cfg:64
+msgid "Thandor"
+msgstr "サンドー"
 
-#. [unit]: type=Orcish Warlord, id=Bahtak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:108
-msgid "Bahtak"
-msgstr "バータック"
-
-#. [unit]: type=Orcish Warlord, id=Ahtanuk
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:123
-msgid "Ahtanuk"
-msgstr "アータナック"
+#. [message]: speaker=Thandor
+#: scenarios/i7-1_Wesnothian_Forces.cfg:119
+msgid ""
+"Greetings, traitor. I have what I suppose you would consider good news; "
+"Elensefar is not yet destroyed. The orcs are using it as their base for "
+"attacking us."
+msgstr ""
+"ようこそ、反逆者。よい知らせだと思ってくれるはずの知らせがある。エレンス"
+"ファーはまだ破壊されていない。オークはわれわれを攻撃するための基地として使っ"
+"ているんだ。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:193
+#: scenarios/i7-1_Wesnothian_Forces.cfg:123
 msgid ""
-"Black, why have you brought us here?!? This is just a remnant of a town, and "
-"there are no warriors here, just undead and orcs!"
+"So that means you have heard of our suppposed rebellion. Let us not waste "
+"time; shall we commence battle?"
 msgstr ""
-"ブラック、なぜここへ連れてきた ?!?　ただの町の残骸じゃないか。ここに戦士はい"
-"ない。アンデッドとオークだけだ !"
+"そうすると、われわれの反乱のうわさを聞いたんだな。では時間を無駄にするのはや"
+"めよう。戦いを始めようか ?"
 
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:197
-msgid ""
-"No, no, you are wrong there. This is no ruined city, this is Blackmore the "
-"Black, and for the past seventy years it has been the home of the Wesfolk "
-"who remained on this island."
-msgstr ""
-"いや、いや。きみはまちがっている。ここは廃墟の町じゃない。ここはブラックモ"
-"ア・ザ・ブラックだ。過去 70 年のあいだ、この島に残ったウェスフォークの故郷"
-"だった。"
+#. [message]: speaker=Thandor
+#: scenarios/i7-1_Wesnothian_Forces.cfg:127
+msgid "Gladly. Prepare to die!"
+msgstr "よろこんで。死ぬ用意をしろ !"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:201
+#: scenarios/i7-1_Wesnothian_Forces.cfg:136
 msgid ""
-"You mean those undead over there are 'Wesfolk'? As in the Wesfolk who came "
-"over with Lady Jessica?"
+"I fear we must wipe out all of the Wesnothian troops on this isle, or they "
+"will follow us and attack our ship. Onward!"
 msgstr ""
-"あなたの言っているのは、向こうにいるアンデッドが「ウェスフォーク」ということ"
-"か ?　レディー・ジェシカといっしょにやって来たウェスフォークと同じ ?"
+"この島からウェスノスの部隊をすべてぬぐい去らなければならないと思う。そうしな"
+"いと、追跡されて船が攻撃されてしまう。では、進もう !"
 
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:205
-msgid ""
-"I would assume that is what he means, yes. So, Black, you've brought us here "
-"to have these Wesfolk help us?"
-msgstr ""
-"ブラックが言っているのはそうだと思う、そのとおりということだ。ではブラック、"
-"あのウェスフォークに助力してもらおうとしてここへ連れてきたのか ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:209
-msgid "Well, yes, something like that."
-msgstr "まあ、そうだ。そんなところだ。"
-
-# Blackはとりあえず弟ということにする
-#. [message]: speaker=Ah-Reblak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:213
-msgid ""
-"I see, brother, that you have returned with warriors. Are they to help us "
-"defeat these orcs?"
-msgstr ""
-"なるほど、ブラック。戦士をつれて戻ってきたんだ。その戦士がわれわれを助けてあ"
-"のオークを倒してくれるのか ?"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:217
-msgid "What? That's not why we're here!"
-msgstr "なんだと ?　ここへ来た理由はそんなことじゃない !"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:221
-msgid ""
-"Well, yes it is. You have to help them secure this city before they will "
-"help you."
-msgstr ""
-"まあ、それはそうだが。助けてもらうまえに、きみたちが助けてこの町の安全を確保"
-"しなければならないんだ。"
-
-#. [message]: speaker=Ah-Reblak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:225
-msgid "Help them? Help Islefolk? Why would we do that?"
-msgstr "そいつらを助ける ?　アイルフォークを助ける ?　なぜそんなことを ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:229
-msgid ""
-"These are not Islefolk, brother, they are descendants of the Wesfolk who "
-"came over with Lady Jessica."
-msgstr ""
-"兄さん、この人たちはアイルフォークじゃない。レディー・ジェシカといっしょに"
-"行ったウェスフォークの子孫なんだ。"
-
-#. [message]: speaker=Ah-Reblak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:233
-msgid ""
-"What!? Followers of that deserter!? I can't believe you think we would help "
-"them!"
-msgstr "なに !?　逃亡者の子分か !?　そいつらを助けると思ったなんて、信じられないな !"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:237
-msgid ""
-"I didn't have a choice, they needed help, so I made a deal that we would "
-"help them if they helped us."
-msgstr ""
-"ほかに選択肢はなかった。この人たちには助力が必要だった。だからわれわれを助け"
-"れば、われわれも助けると取り引きしたんだ。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:241
-msgid ""
-"Trust me, we don't like helping undead any more than you like helping us "
-"'deserters'."
-msgstr ""
-"信じろ､「逃亡者」を助けるのが好きじゃないようだが、こっちも負けないくらいアン"
-"デッドを助けたくないんだ。"
-
-#. [message]: speaker=Ah-Reblak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:245
-msgid ""
-"Fine. I'll help you do whatever it is you want to do, once we clear this "
-"land of the orcs."
-msgstr ""
-"わかった。おまえたちがなにを望んでいるにしても助けることにしよう。まずこの土"
-"地のオークを一掃してくれればな。"
-
-#. [message]: speaker=Ahtanuk
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:249
-msgid "Int'resting council! But now, little men, its time to die. Get'm!"
-msgstr "おもしれえ協議だな !　だがちびども、死ぬ時間だ。やっちまえ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:276
-msgid ""
-"Well, we've cleared the orcs away. Come on, now you have to hold up your end "
-"of the bargain."
-msgstr "さて、オークは片付けた。行こう。あなたには約束を果たしてもらう。"
-
-#. [message]: speaker=Ah-Reblak
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:280
-msgid ""
-"Well, the orcs will probably be back soon... I think that we are going to "
-"end up dying here, no matter what you do. We have held up extraordinarily "
-"long already."
-msgstr ""
-"あー、おそらくオークがすぐに戻ってくる……。われわれは結局ここで死ぬことになる"
-"と思うんだが。たとえきみたちがどうしようとだ。われわれはすでに非常に長いあい"
-"だ耐えてきたんだ。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:284
-msgid ""
-"That's true. I think it would be best if we could get enough ships to get "
-"off of this island. The one I went out on was our last, and we can't make "
-"more."
-msgstr ""
-"そのとおりだ。この島を出るために必要な船を集められればいちばんいいのだが。わ"
-"たしが出るのに使った船が最後の 1 隻だった。あれ以上は作れない。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:288
-msgid ""
-"Well, I am a shipbuilder. I could help you build more ships, and then you "
-"could bring all of your people back east with us."
-msgstr ""
-"なあ、わたしは船大工なんだ。もっと船を作るのは手伝える。そうすれば全員東へつ"
-"れて行ける。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:292
-msgid "That sounds good."
-msgstr "それはよさそうだ。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:296
-msgid "Then it is agreed. But after that, you have to help us fight the orcs!"
-msgstr ""
-"それでは合意した。しかしそのあとで、われわれに協力してオークと戦ってもらわな"
-"ければならない !"
-
+#. [label]
 #. [scenario]: id=i7-2_A_Kings_Demand
-#. [label]
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:3
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:669
+#: scenarios/i7-2_A_Kings_Demand.cfg:3 scenarios/r0_The_High_Seas.cfg:669
 msgid "A King's Demand"
 msgstr "王の要求"
 
 #. [unit]: type=Lieutenant, id=Handran
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:77
+#: scenarios/i7-2_A_Kings_Demand.cfg:77
 msgid "Handran"
 msgstr "ハンドラン"
 
 #. [unit]: type=General, id=Narian
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:92
+#: scenarios/i7-2_A_Kings_Demand.cfg:92
 msgid "Narian"
 msgstr "ナリアン"
 
 #. [message]: speaker=Handran
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:142
+#: scenarios/i7-2_A_Kings_Demand.cfg:142
 msgid ""
 "It is the traitor who killed Aldran and Thendol approaching! Prepare to "
 "destroy him."
 msgstr "アルドランとセンドルを殺した反逆者がやって来るぞ !　殺す用意をしろ。"
 
 #. [message]: speaker=Narian
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:146
+#: scenarios/i7-2_A_Kings_Demand.cfg:146
 msgid ""
 "Meneldur! I bear a message from the King! If you surrender now, your life "
 "will be spared. The King is even willing to aid you in your quest to regain "
@@ -1832,7 +2304,7 @@ msgstr ""
 "助力をすることに同意するのだ。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:150
+#: scenarios/i7-2_A_Kings_Demand.cfg:150
 msgid ""
 "Hah! And what will you do with me and my kind, who have joined with Meneldur "
 "and are bound to him? Doubtlessly you would kill us."
@@ -1841,13 +2313,13 @@ msgstr ""
 "にいるわれわれは ?　われわれを殺すつもりなのは疑いもないな。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:154
+#: scenarios/i7-2_A_Kings_Demand.cfg:154
 msgid ""
 "He is right. We can defeat these forces, and rid this area of their lordship."
 msgstr "そのとおりだ。あの軍隊は倒せるし、この地域への支配は取り除ける。"
 
 #. [message]: speaker=Handran
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:158
+#: scenarios/i7-2_A_Kings_Demand.cfg:158
 msgid ""
 "Your ship has been captured by others of us. You do not know what awaits you "
 "further up the isle... I tell you, if you refuse this you are a dead man, "
@@ -1858,12 +2330,12 @@ msgstr ""
 "が死んだところで無関係だ。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:162
+#: scenarios/i7-2_A_Kings_Demand.cfg:162
 msgid "Your threats do not scare me. Prepare for battle, men!"
 msgstr "あなたの脅迫は怖くない。みんな、戦闘準備だ !"
 
 #. [message]: speaker=Narian
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:166
+#: scenarios/i7-2_A_Kings_Demand.cfg:166
 msgid ""
 "Very well, you have chosen. Handran, send a scout to the leader and tell her "
 "Meneldur has refused our offer. She will be most displeased."
@@ -1872,17 +2344,17 @@ msgstr ""
 "ダーは提案を拒否したと伝えろ。たいそう立腹することだろうな。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:182
+#: scenarios/i7-2_A_Kings_Demand.cfg:182
 msgid "I wonder what that was all about..."
 msgstr "いったいどういうことなんだろうな……"
 
 #. [unit]: type=Swordsman, id=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:191
+#: scenarios/i7-2_A_Kings_Demand.cfg:191
 msgid "Conscript"
 msgstr "徴募兵"
 
 #. [message]: speaker=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:215
+#: scenarios/i7-2_A_Kings_Demand.cfg:215
 msgid ""
 "Meneldur! It seems that our commanders and our best fighters have been "
 "killed. If you leave us now, we will probably die, since only they knew how "
@@ -1893,7 +2365,7 @@ msgstr ""
 "知っていたのはみんな死んでしまったからだ。哀れに思って、助けてくれ !"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:219
+#: scenarios/i7-2_A_Kings_Demand.cfg:219
 msgid ""
 "What would you have me do? Give you navigators to help you? Why would I do "
 "that for an enemy?"
@@ -1902,7 +2374,7 @@ msgstr ""
 "をしてやらなければならないんだ ?"
 
 #. [message]: speaker=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:223
+#: scenarios/i7-2_A_Kings_Demand.cfg:223
 msgid ""
 "Well, why don't you let us join you? There is nothing else for us to do."
 msgstr ""
@@ -1910,12 +2382,12 @@ msgstr ""
 "んだ。"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:227
+#: scenarios/i7-2_A_Kings_Demand.cfg:227
 msgid "Wouldn't that make you a traitor?"
 msgstr "きみたちは裏切り者になるつもりか ?"
 
 #. [message]: speaker=Conscript
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:231
+#: scenarios/i7-2_A_Kings_Demand.cfg:231
 msgid ""
 "No, since I don't think you are traitors, and my commander is dead. It is "
 "just joining another battalion."
@@ -1924,7 +2396,7 @@ msgstr ""
 "部隊に参加するだけのことでしかない。"
 
 #. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:235
+#: scenarios/i7-2_A_Kings_Demand.cfg:235
 msgid ""
 "Well, if he puts it that way, why should we refuse? We can always use fresh "
 "recruits."
@@ -1933,23 +2405,309 @@ msgstr ""
 "てきたんだ。"
 
 #. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-2_A_Kings_Demand.cfg:239
+#: scenarios/i7-2_A_Kings_Demand.cfg:239
 msgid ""
 "Very well... now, we will move further down the peninsula to regain our ship."
 msgstr "けっこうだ……。さて、半島のさらに先に行って船を取り戻そう。"
 
+#. [label]
+#. [scenario]: id=i7-3_Off_the_Peninsula
+#: scenarios/i7-3_Off_the_Peninsula.cfg:3 scenarios/r0_The_High_Seas.cfg:673
+msgid "Off the Peninsula"
+msgstr "半島の先端"
+
+#. [unit]: type=Elvish Enchantress, id=Lomanyas
+#: scenarios/i7-3_Off_the_Peninsula.cfg:69
+msgid "Lomanyas"
+msgstr "ロマニヤス"
+
+#. [message]: speaker=Lomanyas
+#: scenarios/i7-3_Off_the_Peninsula.cfg:131
+msgid ""
+"I heard about your defeat of the elves on the isle, and I knew you'd "
+"probably show up here sooner or later."
+msgstr ""
+"島のエルフを倒したことは聞いたわ。だからおそらくあなたがここに姿を見せるのは"
+"時間の問題だと思ってた。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i7-3_Off_the_Peninsula.cfg:135
+msgid ""
+"I might have known. You must be the leader of these men; I wouldn't put "
+"aligning with men below you, after you surrendered to orcs!"
+msgstr ""
+"わたしもわかっていたと思う。あなたがあの人間たちの指揮官であるのはまちがいな"
+"いと。あなたのもとに人間たちを団結させたのはわたしではない。あなたがオークに"
+"降伏したあとでしたことだ !"
+
+#. [message]: speaker=Lomanyas
+#: scenarios/i7-3_Off_the_Peninsula.cfg:139
+msgid ""
+"'Surrendered' is not the way I would put it, but fine, have it your way."
+msgstr ""
+"「降伏」はわたしがそうした理由じゃない。でもいいわ。好きなように考えて。"
+
+#. [message]: speaker=Lomanyas
+#: scenarios/i7-3_Off_the_Peninsula.cfg:146
+msgid "So, it is the traitor returning to greet his foe. How pleasant."
+msgstr "では、反逆者が敵にあいさつしに戻って来たのね。なんてうれしいのかしら。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i7-3_Off_the_Peninsula.cfg:150
+msgid ""
+"What are you doing here? My quarrel is with the Wesnothians, not with you."
+msgstr ""
+"ここでなにをしているんだ ?　わたしの争いはウェスノス人とのものだ。あなたとで"
+"はない。"
+
+#. [message]: speaker=Lomanyas
+#: scenarios/i7-3_Off_the_Peninsula.cfg:154
+msgid ""
+"I am the men's captain, so those who quarrel with them quarrel with me. We "
+"elves and men have aligned to bring you down!"
+msgstr ""
+"わたしはあの人たちの隊長だから、わたしとの争いになるのよ。わたしたちエルフと"
+"人間はあなたを仕留めるために団結しているの !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i7-3_Off_the_Peninsula.cfg:158
+msgid "Think what you like. We will fight you if need be."
+msgstr "どうしたいか考えてくれ。必要ならわれわれは戦うつもりだ。"
+
+#. [message]: speaker=Lomanyas
+#: scenarios/i7-3_Off_the_Peninsula.cfg:165
+msgid ""
+"Oh, and I see some of the Wesnothians you found are turncoats. Don't worry, "
+"they will die also."
+msgstr ""
+"ああ、あなたが見つけたウェスノス人の何人かは裏切り者のようね。心配しないで、"
+"その人たちも死ぬから。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i7-3_Off_the_Peninsula.cfg:186
+msgid ""
+"With Lomanyas dead, I think we have defeated all of the Elves who sail the "
+"sea. We probably won't see them until we reach Elensefar..."
+msgstr ""
+"ロマニヤスの死で、海を航海するエルフはすべて倒されたと思う。おそらくエレンス"
+"ファーに着くまでエルフを見ることはないだろう……"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i7-3_Off_the_Peninsula.cfg:193
+msgid ""
+"It is unfortunate the elves have also decided to oppose us. I suspect there "
+"are more of them roaming the seas."
+msgstr ""
+"エルフが敵対することにしたのは残念なことだ。海を放浪するエルフはもっといるこ"
+"とだろうしな。"
+
+#. [label]
+#. [scenario]: id=i8_The_Desert_Island
+#: scenarios/i8_The_Desert_Island.cfg:3 scenarios/r0_The_High_Seas.cfg:705
+msgid "The Desert Island"
+msgstr "砂漠の島"
+
+#. [unit]: type=Lich, id=Kar-Salazz
+#: scenarios/i8_The_Desert_Island.cfg:66
+msgid "Kar-Salazz"
+msgstr "カー゠サラーズ"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i8_The_Desert_Island.cfg:121
+msgid ""
+"I see there are more undead! I wonder how many of these did not go all the "
+"way across with Jevyan?"
+msgstr ""
+"またアンデッドだ !　ジェヴィヤンといっしょに渡らなかったのがどれだけたくさん"
+"いるんだろうな。"
+
+#. [message]: speaker=Black
+#: scenarios/i8_The_Desert_Island.cfg:125
+msgid ""
+"I have seen several of these wandering undead where I come from. Haven't you?"
+msgstr ""
+"わたしの出身地では、さまようアンデッドがいくらか見られたが。きみは見たことが"
+"ないのか ?"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i8_The_Desert_Island.cfg:129
+msgid ""
+"Mostly I travel south to the southern continent, not west like this. There "
+"are no undead there!"
+msgstr ""
+"たいていわたしは大陸の南の方へ旅していた。こんな西じゃない。そこにアンデッド"
+"はいないんだ !"
+
+#. [message]: speaker=Black
+#: scenarios/i8_The_Desert_Island.cfg:133
+msgid "I see..."
+msgstr "わかった……"
+
+#. [message]: speaker=Kar-Salazz
+#: scenarios/i8_The_Desert_Island.cfg:137
+msgid ""
+"Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy "
+"to defeatzz!"
+msgstr ""
+"シーぉれでは……わたシーぃとはあまり戦ったことがない ?　ああ、いいぞ。おまえた"
+"ちは簡単に倒シーぇるな !"
+
+#. [message]: speaker=Madru
+#: scenarios/i8_The_Desert_Island.cfg:141
+msgid "Why did he speak like a lizard?"
+msgstr "なんでやつはトカゲのように話すんだ ?"
+
+#. [message]: speaker=Madru
+#: scenarios/i8_The_Desert_Island.cfg:155
+msgid "What the...?"
+msgstr "なんだ…… ?"
+
+#. [message]: speaker=Black
+#: scenarios/i8_The_Desert_Island.cfg:159
+msgid "That must be why he spoke like that. He is partly a lizard!"
+msgstr "あいつがああしゃべる理由はあれにちがいない。部分的にトカゲなんだよ !"
+
+#. [label]
+#. [scenario]: id=i9_The_Ruined_Port
+#: scenarios/i9_The_Ruined_Port.cfg:3 scenarios/r0_The_High_Seas.cfg:723
+msgid "The Ruined Port"
+msgstr "廃墟の港"
+
+#. [unit]: type=Orcish Warlord, id=Bakrakha
+#: scenarios/i9_The_Ruined_Port.cfg:160
+msgid "Bakrakha"
+msgstr "バクラクハー"
+
+#. [unit]: type=Orcish Warrior, id=Sakdur
+#: scenarios/i9_The_Ruined_Port.cfg:175
+msgid "Sakdur"
+msgstr "サクダー"
+
+#. [unit]: type=Orcish Warrior, id=Asknak
+#: scenarios/i9_The_Ruined_Port.cfg:190
+msgid "Asknak"
+msgstr "アスクナック"
+
+#. [objective]: condition=win
+#: scenarios/i9_The_Ruined_Port.cfg:214
+msgid ""
+"Defeat Bakrakha, the Orcish Warlord, and then survive until end of turns"
+msgstr "オークの将軍バクラクハーを倒せ。そしてターンの終わりまで生き残れ。"
+
+#. [objective]: condition=lose
+#: scenarios/i9_The_Ruined_Port.cfg:237
+msgid "Turns run out and Bakrakha is still alive"
+msgstr "ターンが尽きて、バクラクハーがまだ生きている。"
+
+#. [message]: speaker=Bakrakha
+#: scenarios/i9_The_Ruined_Port.cfg:251
+msgid ""
+"So, little orc-maggots, you got so low as to call down some Wesfolk from the "
+"north to help with your trying to take over the castle!?! Not going to "
+"happen on my watch!"
+msgstr ""
+"では、ちびのウジ虫オーク。おまえは卑しすぎて、北のウェスフォークに助けを求め"
+"てまで城を取ろうとしているんだな !?!　おれの目が黒いうちはそんなことは許さな"
+"い !"
+
+# BakrakraはBakrakhaのtypoと判断
+#. [message]: speaker=Sakdur
+#: scenarios/i9_The_Ruined_Port.cfg:255
+msgid ""
+"We didn't call no human scum out of the north, though we could use their "
+"help! You been king far too long, Bakrakra! You aint got us meat, and you "
+"aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
+msgstr ""
+"おれたちは北から人間のくずなど呼んでない。やつらを利用することはできるが"
+"な !　おまえは長く王をやりすぎたんだ、バクラクハー !　おれたちに肉を渡さない"
+"し、土地も渡さない。おれや、あのアスクナック、それにリッチだっておまえよりは"
+"ましだ !"
+
+#. [message]: speaker=Asknak
+#: scenarios/i9_The_Ruined_Port.cfg:259
+msgid ""
+"That right. You' keeping all the food in your castle there, and we' tired of "
+"it. Its time to get a new king 'round 'ere!"
+msgstr ""
+"そうだ。おまえ、その城に食い物ぜんぶ取ってある。おれたち、嫌になった。ここは"
+"新しい王がいるときだ !"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i9_The_Ruined_Port.cfg:263
+msgid ""
+"I don't think we should get involved here. These orcs can fight each other, "
+"and they won't care if we wait here and restock."
+msgstr ""
+"ここで巻きこまれるべきだとは思わない。このオークたちはおたがいに戦っていれば"
+"いい。われわれがここで補給が終わるまで待っても気にしないだろう。"
+
+#. [message]: speaker=Madru
+#: scenarios/i9_The_Ruined_Port.cfg:267
+msgid ""
+"I don't think it's that simple. That orc in the castle has all the food, we "
+"can't restock from here."
+msgstr ""
+"そう単純だとは思えないな。あの城にいるオークが食料をぜんぶもっている。ここで"
+"は補給できない。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i9_The_Ruined_Port.cfg:271
+msgid "So what do you suggest we do?"
+msgstr "では提案は ?"
+
+#. [message]: speaker=Madru
+#: scenarios/i9_The_Ruined_Port.cfg:275
+msgid ""
+"Well, we will definitely have to kill the orc in the castle, to get the "
+"food. But to get to him, we should probably go around the river, which leads "
+"us past all the other orcs. We might have to kill them all."
+msgstr ""
+"そうだな、食料を得るためには城にいるオークを殺さなければならないのは明白だ。"
+"しかしやつのところへ行くためには、おそらく川を迂回しなければならない。そうす"
+"るとほかのオークたち全員を通り抜けることになる。全員殺さなければならないかも"
+"しれないな。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i9_The_Ruined_Port.cfg:313
+msgid "Good, now we just have to survive until the ship is refilled."
+msgstr "よし。さて、とにかく船に補給が終わるまで生き残らなければならない。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i9_The_Ruined_Port.cfg:324
+msgid "We have defeated all of the orcs; refill the ship, and we'll leave."
+msgstr "オークを全員倒した。船に補給しろ。それから出発しよう。"
+
+#. [message]: speaker=Meneldur
+#: scenarios/i9_The_Ruined_Port.cfg:365
+msgid "We did not manage to kill the orc leader, and now we are out of food..."
+msgstr "うまくオークの指揮官を殺せなかった。そしてもう食料が尽きた……"
+
+#. [message]: speaker=Black
+#: scenarios/i9_The_Ruined_Port.cfg:376
+msgid ""
+"Good, we have enough food now. We should go back out to sea, further north "
+"there are some people who might help us."
+msgstr ""
+"よし、必要なだけの食料を手に入れた。海に戻るべきだ。北の方にわれわれを助けて"
+"くれるかもしれない人びとがいる。"
+
 #. [scenario]: id=r0_The_High_Seas
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:3
+#: scenarios/r0_The_High_Seas.cfg:3
 msgid "The High Seas"
 msgstr "外洋"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:197
+#: scenarios/r0_The_High_Seas.cfg:197
 msgid "Land in a harbor to reprovision."
 msgstr "港に上陸すると補給できます。"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:201
+#: scenarios/r0_The_High_Seas.cfg:201
+msgid "Until then you cannot return to Elensefar."
+msgstr "それまであなたはエレンスファーに戻れません。"
+
+#. [objective]: condition=win
+#: scenarios/r0_The_High_Seas.cfg:201
 msgid ""
 "Your long-term objective is to reach the lands in the West where Black the "
 "Red says there are allies, and have them join you."
@@ -1957,23 +2715,25 @@ msgstr ""
 "あなたの長期目標は、ブラック・ザ・レッドが言っていた味方のいる西の地に着い"
 "て、その味方を協力させることです。"
 
-#. [objective]: condition=win
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:201
-msgid "Until then you cannot return to Elensefar."
-msgstr "それまであなたはエレンスファーに戻れません。"
-
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:206
+#: scenarios/r0_The_High_Seas.cfg:206
 msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
 msgstr "補給なしで 6 週間 (6 ターン) のあいだ、海の上にいる"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:210
+#: scenarios/r0_The_High_Seas.cfg:210
 msgid "Take more than 30 weeks to reach the western lands"
 msgstr "西の地に着くまで 30 週以上かかる"
 
 #. [note]
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:220
+#: scenarios/r0_The_High_Seas.cfg:220
+msgid ""
+"Each of their ships has enough provisions to completely restock your ship."
+msgstr ""
+"ウェスノス船は、あなたの船の物資をいっぱいにできるだけの糧食を積んでいます。"
+
+#. [note]
+#: scenarios/r0_The_High_Seas.cfg:220
 msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board the ship."
@@ -1981,14 +2741,8 @@ msgstr ""
 "ウェスノスの船はあなたを追跡しています。その船から攻撃を受けると、船に乗りこ"
 "もうとします。"
 
-#. [note]
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:220
-msgid ""
-"Each of their ships has enough provisions to completely restock your ship."
-msgstr "ウェスノス船は、あなたの船の物資をいっぱいにできるだけの糧食を積んでいます。"
-
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:239
+#: scenarios/r0_The_High_Seas.cfg:239
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
 "it will be of no use to return at all. We have at most 30 weeks to get to "
@@ -2001,21 +2755,21 @@ msgstr ""
 "いるのは 5 週間だ。"
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:243
+#: scenarios/r0_The_High_Seas.cfg:243
 msgid ""
 "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
 "must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
 "それに、この船には一度に 6 週間分以上の糧食は積めない。だから 6 週間ごとに島"
-"に上陸するか、敵の船を拿捕しなければならない。"
+"に上陸するか、つねに敵の船を拿捕しなければならない。"
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:271
+#: scenarios/r0_The_High_Seas.cfg:271
 msgid "We have ran out of provisions.... *urgh*"
 msgstr "糧食を使いきった……<b>ウグッ</b>"
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:284
+#: scenarios/r0_The_High_Seas.cfg:284
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
@@ -2024,7 +2778,7 @@ msgstr ""
 "てしまう !"
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:301
+#: scenarios/r0_The_High_Seas.cfg:301
 msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
@@ -2033,22 +2787,15 @@ msgstr ""
 "らない。"
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:335
+#: scenarios/r0_The_High_Seas.cfg:335
 msgid ""
 "This island has no more enemies on it, but we can still reprovision here. "
 "That will still take time, though."
 msgstr "この島にはもう敵はいない。しかしここで補給はできる。時間はかかるが。"
 
-#. [label]
-#. [scenario]: id=i1_The_Swampland
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:525
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:3
-msgid "The Swampland"
-msgstr "沼の土地"
-
 # Madru
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:532
+#: scenarios/r0_The_High_Seas.cfg:532
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
@@ -2058,7 +2805,7 @@ msgstr ""
 
 # Meneldur
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:550
+#: scenarios/r0_The_High_Seas.cfg:550
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
@@ -2066,29 +2813,15 @@ msgstr ""
 "ここに最後に来たときには交易植民地があったんだが、なくなったようだ。それで"
 "も、古い囲い柵がまだここにあるはずだ。"
 
-#. [label]
-#. [scenario]: id=i3-1_Theft
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:561
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:3
-msgid "Theft"
-msgstr "窃盗"
-
-#. [label]
-#. [scenario]: id=i3-2_Back_to_the_Ship
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:565
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:3
-msgid "Back to the Ship"
-msgstr "船に戻る"
-
 # Black the Red
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:572
+#: scenarios/r0_The_High_Seas.cfg:572
 msgid "I think something is in the water..."
 msgstr "なにかが水中にいるように思える……"
 
 # Meneldur
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:600
+#: scenarios/r0_The_High_Seas.cfg:600
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
@@ -2096,49 +2829,29 @@ msgstr ""
 "伝説によれば、ハルドリックは旅の途中にここへ上陸したそうだ。そして何者かと"
 "戦った。それがなんだったにせよ、戦わずにすませたい……"
 
-#. [label]
-#. [scenario]: id=i5-1_Traitors
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:611
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:3
-msgid "Traitors"
-msgstr "反逆者"
-
-#. [label]
-#. [scenario]: id=i5-2_A_Deadly_Alliance
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:615
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:3
-msgid "A Deadly Alliance"
-msgstr "死の同盟"
-
 # Meneldur
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:626
+#: scenarios/r0_The_High_Seas.cfg:626
 msgid "This island looks vaguely elvish."
 msgstr "この島はかすかにエルフがいる感じがする。"
 
 # Meneldur
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:654
+#: scenarios/r0_The_High_Seas.cfg:654
 msgid "Does anything live in this frozen wasteland?"
 msgstr "この凍った荒れ地になにが住んでいるんだ ?"
 
-#. [label]
-#. [scenario]: id=i7-1_Wesnothian_Forces
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:665
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:3
-msgid "Wesnothian Forces"
-msgstr "ウェスノス軍"
-
 # Madru
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:684
+#: scenarios/r0_The_High_Seas.cfg:684
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
-msgstr "ウェスノスの前哨地のしるしが見える。こんな遠い南まで来ているのは妙だな……"
+msgstr ""
+"ウェスノスの前哨地のしるしが見える。こんな遠い南まで来ているのは妙だな……"
 
 # Madru
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:712
+#: scenarios/r0_The_High_Seas.cfg:712
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
@@ -2148,7 +2861,7 @@ msgstr ""
 
 # Black the Red
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:730
+#: scenarios/r0_The_High_Seas.cfg:730
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
@@ -2158,918 +2871,24 @@ msgstr ""
 
 # Black the Red
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:750
+#: scenarios/r0_The_High_Seas.cfg:750
 msgid ""
 "This is the land I was talking about. Land here, and we will get the "
 "warriors we need."
-msgstr "ここがわたしの話した土地だ。ここに上陸しろ。必要としている兵士が手に入ることだろう。"
-
-#. [unit]: type=Orcish Warrior, id=Dal-Alkra
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:68
-msgid "Dal-Alkra"
-msgstr "ダル゠アルクラ"
-
-#. [event]
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:81
-msgid "Srak"
-msgstr "スラク"
-
-#. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:117
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:160
-msgid "Death of Psison"
-msgstr "サイソンの死"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:137
-msgid ""
-"Are there any inhabitants of this island? We come in peace, we just want to "
-"restock our ship and then be on our way..."
 msgstr ""
-"この島に住民はいないのか ?　われわれは平和を求めて来た。ちょっと補給をして進"
-"みたい……"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:141
-msgid "Hey! What happened to The Explorer! She's gone!"
-msgstr "おい !　エクスプローラー号になにが起きたんだ !　行ってしまう !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:145
-msgid "Someone must have stolen her. It looks like we're stuck on this island."
-msgstr "だれかが船を盗んだにちがいない。この島に足止めされたようだ。"
-
-#. [unit]: type=Merman Hoplite, id=Psison
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:150
-msgid "Psison"
-msgstr "サイソン"
-
-#. [message]: speaker=Psison
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:174
-msgid "Hello, I believe I can help."
-msgstr "こんにちは。わたしが助けられると思う。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:178
-msgid "Who are you, and what do you want?"
-msgstr "何者だ ?　なにが望みなんだ ?"
-
-#. [message]: speaker=Psison
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:182
-msgid ""
-" I am the leader of a great tribe of mermen. I think it was the nagas, our "
-"enemies, who stole your boat. I will lend you the aid of my fighters to get "
-"it back."
-msgstr ""
-"マーフォークの偉大な部族の指導者です。あなたたちの船を盗んだのは、われわれの"
-"敵であるナーガだと思いますよ。取り戻すためにわたしの戦士たちの力をお貸ししま"
-"しょう。"
-
-#. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:199
-msgid "Hey, look, I see the boat! Nagas are moving it southwest."
-msgstr "おい、見ろ。船が見える !　ナーガが南西に移動させているんだ。"
-
-#. [message]: speaker=Srak
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:208
-msgid ""
-"They've found us! Workers, get that boat out of here! We will secure time "
-"for your escape."
-msgstr "見つかったぞ !　労働者たち、船をここから出せ !　逃げる時間を作ってやる。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:233
-msgid "Orcs! Kill them!"
-msgstr "オークだ !　やつらを殺せ !"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:251
-# fuzzy
-msgid "A bridge! What do you think is across it?"
-msgstr "橋だ !　どこへ通じているんだ ?"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:255
-msgid ""
-"Probably our boat... but we need to defeat these orcs before we get it, or "
-"else they will attack us from behind."
-msgstr ""
-"おそらくはわれわれの船に……しかし取り戻すまえにオークを倒さなければ。さもない"
-"と背後から襲われることになる。"
-
-#. [message]: speaker=narrator
-#: Saving_Elensefar/scenarios/i3-1_Theft.cfg:265
-msgid "You find 100 gold pieces in the orc's castle."
-msgstr "オークの城で 100 ゴールド見つけました。"
-
-#. [unit]: type=Elvish Marshal, id=Alandur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:87
-msgid "Alandur"
-msgstr "アランダー"
-
-#. [unit]: type=Orcish Warlord, id=Kra-Drano
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:102
-msgid "Kra-Drano"
-msgstr "クラ゠ドレイノ"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:157
-msgid ""
-"Alandur! I suppose you want to battle? Very well, but there are orcs here "
-"also. How about we kill them first, then battle?"
-msgstr ""
-"アランダー !　あなたは戦いたいのだろうな ?　それはけっこうなことだが、ここに"
-"はオークもいる。先にオークを倒すというのはどうだ。それから戦うというのは ?"
-
-#. [message]: speaker=Alandur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:161
-msgid ""
-"Well, if the orcs had not occupied Elensefar when they took it, but rather "
-"destroyed it, we would. But, those on the mainland have proved extremely "
-"resistant to attacks."
-msgstr ""
-"まあ、オークがエレンスファーを占領ではなく破壊していたのなら、そうしたことだ"
-"ろうな。しかし、本土のオークは攻撃に対して非常によく耐えることを証明してき"
-"た。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:165
-msgid ""
-"Why does that matter? All that's important is that they're going to kill "
-"you, too!"
-msgstr ""
-"それがどうして関係するんだ ?　重要なことはオークがあんたたちも殺そうとしてい"
-"ることだけだ !"
-
-#. [message]: speaker=Alandur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:169
-msgid ""
-"No, we're currently concluding a peace treaty with the orcs. And it would be "
-"bad form to attack the relatives of those who you are trying to make a "
-"bargain with!"
-msgstr ""
-"ちがう。われわれは現在オークと平和条約を結ぼうとしているんだ。それに協定を結"
-"ぼうとしている相手の親類を攻撃するのは無作法だろう !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:173
-msgid "But these orcs are probably from a completely different tribe!"
-msgstr "しかしそのオークはおそらくまったく別の部族だ !"
-
-#. [message]: speaker=Alandur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:177
-msgid ""
-"We can't take that chance! These orcs claim to be allies with the ones in "
-"Elensefar, so we MUST ally with them."
-msgstr ""
-"賭けることはできない !　あのオークはエレンスファーにいる者と同盟していると主"
-"張している。だからあのオークとは同盟<b>しなければならない</b>んだ。"
-
-#. [message]: speaker=Kra-Drano
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:181
-msgid ""
-"Uh, yeah, of course... we be da same tribe... uh... Prepare to die, stupid "
-"dog-man!"
-msgstr ""
-"あー、えー、もちろん……おれたちは同じ部族だ……。うー……死ぬ用意をしろ、間抜けな"
-"犬男 !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:193
-msgid ""
-"So the elves, too, have given up trying to stop the orcs... it seems we are "
-"on our own against them. And these elves, since we are their enemies anyway, "
-"must die."
-msgstr ""
-"ではエルフも、オークを止めるのをあきらめたのか……。自分たちで対抗しろというこ"
-"とらしい。それにここのエルフたちは、どのみちわれわれを敵としたのだから、死ぬ"
-"のはまちがいない。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:200
-msgid ""
-"The elves are willing to surrender Elensefar to orcs, just because they "
-"began to lose a few battles? We really need to get back there, soon."
-msgstr ""
-"エルフはエレンスファーがオークに降伏してもかまわないのだな。二、三の戦いに負"
-"けはじめただけでか ?　われわれはほんとうに戻らなければならない、急いでだ。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:207
-msgid ""
-"If we can just get to the western isle I spoke of, we may be able to defeat "
-"this alliance."
-msgstr ""
-"とにかくわたしの言っていた西の島に着いてしまえば、その同盟を倒すことができる"
+"ここがわたしの話した土地だ。ここに上陸しろ。必要としている兵士が手に入ること"
 "だろう。"
 
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:228
-msgid ""
-"With Alandur dead, I think we have defeated all of the Elves who sail the "
-"sea. We probably won't see them until we reach Elensefar... we will have "
-"many enemies when we get there."
-msgstr ""
-"アランダーが死んだから、海を航海していたエルフはすべて倒してしまったと思う。"
-"おそらくエレンスファーに着くまで見ることはないだろう……。着いたときには、多く"
-"の敵がいることだろうな。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-2_A_Deadly_Alliance.cfg:235
-msgid "Well, we won, but things might go badly for us later..."
-msgstr ""
-"さて、われわれは勝った。しかしあとでわれわれにとってはよくないことになるかも"
-"しれないな……"
-
-#. [unit]: type=Dark Sorcerer, id=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:66
-msgid "Ak-Avanu"
-msgstr "アク゠アヴァヌ"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:121
-msgid ""
-"What is this, a mage walks clad in black? Explain yourself! Are you of the "
-"red mages, or the white?"
-msgstr ""
-"これはなんだ ?　黒いもので身を包んだ魔術師が歩いている。説明しろ !　あなたは"
-"赤魔術師か、白魔術師か ?"
-
-#. [message]: speaker=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:125
-msgid ""
-"What? Do you mean to tell me that the great lich Jevyan does not reign on "
-"that continent, or that his mages no longer wear the robes of the "
-"necromancer?!?"
-msgstr ""
-"なに ?　偉大なリッチ、ジェヴィヤンがあの大陸を統治していないと言っているの"
-"か ?　それとも、部下の魔術師たちがいまはネクロマンサーのローブを着ていないと"
-"いうことか ?!?"
+#. [scenario]: id=r1_Sea_Battle
+#: scenarios/r1_Sea_Battle.cfg:3
+msgid "Sea Battle"
+msgstr "海の戦い"
 
 #. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:129
+#: scenarios/r1_Sea_Battle.cfg:399
 msgid ""
-"What? Why do you speak of those old tales as if they were real? And I "
-"suppose you think you are a real necromancer too."
+"They had 100 gold stored in their ship, and enough provisions to restock our "
+"ship."
 msgstr ""
-"なんだって ?　どうしてあんたはあの昔話のことを現実のものであるかのように話し"
-"ているんだ ?　それにあんたは自分が本物のネクロマンサーだとも思っているようだ"
-"な。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:133
-msgid ""
-"Why do you say he's not a necromancer? I've seen them before, haven't you?"
-msgstr ""
-"なんでやつがネクロマンサーじゃないと言うんだ ?　わたしはネクロマンサーを以前"
-"見たことがある。きみたちはないのか ?"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:137
-msgid "Are you saying undead exist?"
-msgstr "アンデッドが実在すると言っているのか ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:141
-msgid ""
-"Yes. And this guy looks real enough. I think we should treat him like an "
-"actual enemy."
-msgstr ""
-"そうとも。それにあいつは十分現実のものに見えるがな。やつは現実の敵とみなすべ"
-"きだと思うぞ。"
-
-#. [message]: speaker=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:145
-msgid "Yes, you should! Now, prepare to die!"
-msgstr "そのとおり、おまえたちはそうすべきだ !　さて、死ぬ用意をせよ !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:149
-# fuzzy
-msgid "Whatever. We will see if he actually can raise anything."
-msgstr ""
-"勝手にしてくれ。やつが実際になにかを呼び起こせるのか見てみよう。そしてわれわ"
-"れがここから出られるのかどうか。"
-
-#. [message]: speaker=Ak-Avanu
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163
-msgid "Ha! See, I can resurrect the dead! Now fear me!"
-msgstr "ハ !　見ろ、わたしは死者をよみがえさせられるのだ!　さあ、われを恐れよ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:167
-msgid "Amazing... so the stories are true!"
-msgstr "驚きだ……。するとあの物語はほんとうだったのだ !"
-
-#. [unit]: type=Elvish Marshal, id=Kalandur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:66
-msgid "Kalandur"
-msgstr "カランダー"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:128
-msgid ""
-"What? So, if it isn't my old friend Kalandur... are there any more "
-"Wesnothians on this island, or have they given up trying to stop us?"
-msgstr ""
-"なんだ ?　旧友のカランダーじゃないか……。この島にはウェスノス人がもっといるの"
-"か ?　それともわれわれを止めようとするのをやめたのか ?"
-
-#. [message]: speaker=Kalandur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:132
-msgid "There are none here, but trust me, they remain against you."
-msgstr "ここにはだれもいない。だが信じろ。ウェスノス人はまだおまえを追いかけている。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:136
-msgid ""
-"So say you. Well, Black, we'd better go. Its best not to kill more elves; "
-"even if we defeat them, it will just make the rest even angrier at us."
-msgstr ""
-"きみが言うなら。さて、ブラック、行ったほうがよさそうだ。エルフはもう殺さない"
-"ほうがいい。エルフを倒したとしても、残った者がさらに怒るだけだ。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:143
-msgid ""
-"What? So, if it isn't my old friend Kalandur. (we'd better get out of here, "
-"Madru...)"
-msgstr ""
-"なんだ ?　旧友のカランダーじゃないか。(ここから立ち去ったほうがいい、マドルー"
-"……)"
-
-#. [message]: speaker=Kalandur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:147
-msgid "So we meet again, traitor elf! Prepare to die!"
-msgstr "ではまた会ったな。エルフの裏切り者 !　死ぬ用意をしろ !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:151
-msgid "Whats going on here?"
-msgstr "ここはどうなっているんだ ?"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:155
-msgid ""
-"Kalandur here thinks I betrayed Elfkind by aiding Elensefar. He's going to "
-"fight us. We have to leave."
-msgstr ""
-"このカランダーはわたしがエレンスファーを助けることでエルフを裏切ったと考えて"
-"いるんだ。カランダーは戦おうとしている。だからわれわれは立ち去るべきだ。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:162
-msgid ""
-"Look, if we leave now, they'll just follow us and kill us. We have to defeat "
-"them!"
-msgstr ""
-"おい、いま立ち去ったら、あいつはとにかく追いかけてきてわれわれを殺すことだろ"
-"う。あいつは倒さなければ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:166
-msgid ""
-"If we leave, he will probably not follow us. He will report to his superiors "
-"- wherever they are."
-msgstr ""
-"立ち去ったら、おそらく追いかけてこない。上官に連絡するんだ。その上官がどこに"
-"いるにしろ。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:170
-msgid ""
-"And won't those superiors send out even more ships? If we let Kalandur get "
-"away, they will know where we are and where we are coming from."
-msgstr ""
-"そしてその上官はさらに追加の船を送らないのか ?　それにカランダーを行かせた"
-"ら、われわれがどこからどこに向かっているのか教えてやることになる。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:174
-msgid "Very well. Onward!"
-msgstr "よくわかったよ。進め !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:188
-msgid ""
-"So, we have slain an Elf! I do not like this - they are not evil, they are "
-"only following the commands of their twisted leader. Perhaps if we spare "
-"them their lives, they will join us after we defeat them."
-msgstr ""
-"とうとうエルフを殺してしまった !　こんなことはしたくない。エルフは悪人じゃな"
-"いし、おかしな指揮官に従っていただけなんだ。ひょっとすると、命を助けてやれ"
-"ば、指揮官を倒したあとで味方になってくれるかもしれないな。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:197
-msgid ""
-"Look - there is a bridge here that Kalandur was guarding. I guess we should "
-"go across, but I don't have any idea what is there."
-msgstr ""
-"見ろ。ここにカランダーが守っていた橋がある。渡るべきなんだろうな。しかしあち"
-"らになにがあるかはわからない。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:201
-msgid "Nor do I. Probably more enemies."
-msgstr "わたしにもわからないが、おそらくさらなる敵だろうな。"
-
-#. [unit]: type=Elvish Hero, id=Danrer
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:206
-msgid "Danrer"
-msgstr "ダンラー"
-
-#. [message]: speaker=Danrer
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:230
-msgid ""
-"Wait! I know what's across that bridge - its more elves, who will want to "
-"kill you, and orcs."
-msgstr ""
-"待て !　その橋を渡るとなにがあるかは知っている。さらにエルフがいて、あなたた"
-"ちを殺したがっている。それからオークだ。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:234
-msgid "Well then, we will have a common foe with these elves!"
-msgstr "さてそれでは、ここのエルフとは共通の敵がいるわけだ !"
-
-#. [message]: speaker=Danrer
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:238
-msgid ""
-"Um.. in a way... but in any case, I think that us elves who are still alive "
-"will join you. We can't go back to the elves now, because since we did not "
-"die they will think we are deserters."
-msgstr ""
-"うーん……ある意味では……しかしいずれにせよ、ここのまだ生きているエルフはあなた"
-"に協力すると思う。われわれはもうエルフのところへ戻ることができないんだ。生き"
-"ているのは脱走兵だと思われるからな。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:242
-msgid "Then join us, if you wish to. We are always open to more fighters."
-msgstr "それではついて来るんだ、もしそうしたければ。いつだって戦士は受け入れている。"
-
-#. [message]: speaker=Danrer
-#: Saving_Elensefar/scenarios/i5-1_Traitors.cfg:247
-msgid ""
-"Gladly! Also, there is some gold here that Kalandur was saving... you can "
-"take it, since you did defeat him."
-msgstr ""
-"よろこんで !　それから、ここにカランダーがためていたゴールドがある……。倒して"
-"しまったんだから、持っていけるぞ。"
-
-#. [unit]: type=General, id=Thandor
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:64
-msgid "Thandor"
-msgstr "サンドー"
-
-#. [message]: speaker=Thandor
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:119
-msgid ""
-"Greetings, traitor. I have what I suppose you would consider good news; "
-"Elensefar is not yet destroyed. The orcs are using it as their base for "
-"attacking us."
-msgstr ""
-"ようこそ、反逆者。よい知らせだと思ってくれるはずの知らせがある。エレンス"
-"ファーはまだ破壊されていない。オークはわれわれを攻撃するための基地として使っ"
-"ているんだ。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:123
-msgid ""
-"So that means you have heard of our suppposed rebellion. Let us not waste "
-"time; shall we commence battle?"
-msgstr ""
-"そうすると、われわれの反乱のうわさを聞いたんだな。では時間を無駄にするのはや"
-"めよう。戦いを始めようか ?"
-
-#. [message]: speaker=Thandor
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:127
-msgid "Gladly. Prepare to die!"
-msgstr "よろこんで。死ぬ用意をしろ !"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/i7-1_Wesnothian_Forces.cfg:136
-msgid ""
-"I fear we must wipe out all of the Wesnothian troops on this isle, or they "
-"will follow us and attack our ship. Onward!"
-msgstr ""
-"この島からウェスノスの部隊をすべてぬぐい去らなければならないと思う。そうしな"
-"いと、追跡されて船が攻撃されてしまう。では、進もう !"
-
-#. [scenario]: id=2_A_Naval_Engagement
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:3
-msgid "A Naval Engagement"
-msgstr "海戦"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:154
-msgid ""
-"Why do you stop us? We seek help. I come from Elensefar, which, as far as we "
-"can tell, was just captured by orcs!"
-msgstr ""
-"なぜわれわれを止める ?　われわれは助力を求めにいくところだ。わたしはエレンス"
-"ファーの者だが、わかっているかぎりでは、エレンスファーはちょうどオークに占領"
-"されたところなんだ !"
-
-#. [message]: speaker=Aldran
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:158
-msgid ""
-"You are interfering with our mission; we are trying to chase down this "
-"magician pirate."
-msgstr ""
-"おまえたちはわれわれの任務をじゃましている。われわれはこの魔法使いの海賊を追"
-"いつめようとしているんだ。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:162
-msgid ""
-"I'm not a pirate! I also come from Elensefar, and I must have left port a "
-"few days before it was attacked. This is the first I've heard of it."
-msgstr ""
-"わたしは海賊じゃない !　わたしもエレンスファーの者だ。わたしが港を離れたの"
-"は、攻撃を受ける数日まえのことにちがいない。攻撃のことを聞いたのは初めてだか"
-"らな。"
-
-#. [message]: speaker=Aldran
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:166
-msgid ""
-"You dog, don't bother us with your lies! You attacked a ship of the Royal "
-"Navy with your spells, and now you will pay for it!"
-msgstr ""
-"犬め、うそをついて面倒事を引き起こそうとするんじゃない !　おまえは海軍の船を"
-"呪文で攻撃したんだ。これからその代償を支払うことになる !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:170
-msgid ""
-"I need loyal warriors from Elensefar to help me on my quest. Black the Red, "
-"do you want to join me in retaking Elensefar from these orcs?"
-msgstr ""
-"わたしはエレンスファーに忠実で航海に協力してくれる戦士を求めています。ブラッ"
-"ク・ザ・レッド、オークからエレンスファーを取り戻すのに協力してくれますか ?"
-
-#. [message]: speaker=Aldran
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:174
-msgid ""
-"Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
-msgstr ""
-"それならおまえは悪党だ !　ここにいるエレンスファー人はみんな同じだ。兵士た"
-"ち、こいつらを殺せ !"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:178
-msgid "Why is a ship from Elensefar carrying bandits and thieves?"
-msgstr "エレンスファーの船が、なんで山賊や盗人を乗せているんだ ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:182
-msgid ""
-"They come from the... less wealthy parts of Elensefar. But they are still "
-"fiercely loyal to it. They will be good fighters. I will join, if you'll "
-"have me."
-msgstr ""
-"この者たちはエレンスファーの……比較的貧しい地域の出身なんだ。しかしエレンス"
-"ファーには猛烈な忠誠心をもっている。みんなよい戦士になることだろう。わたしは"
-"協力するつもりだ。わたしでよければだが。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:186
-msgid ""
-"Very well. Thats not so different from my own crew. Aldran - we will not "
-"fight you if you do not attack us, but you must let us go on our way."
-msgstr ""
-"けっこうだ。こちらの乗組員ともそれほど違いはない。アルドラン、あなたが攻撃し"
-"てこなければ、戦うつもりはない。しかし留めだてはしないでくれ。"
-
-#. [message]: speaker=Aldran
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:190
-msgid ""
-"Ha! I will bring you and your ally in to Weldyn to be tried for treason. And "
-"it does not matter it is two boats to one; I have already sent a boat to "
-"inform the King, and get reinforcements."
-msgstr ""
-"ハ !　おまえと仲間をウェルディンに引ったてて反逆罪のかどで裁判にかけてやる。"
-"2 対 1 などたいしたことはない。すでに王には通報船を送ったから、援軍が来る。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:199
-msgid "Well, what is it anyway that you people want? Why did you help us?"
-msgstr "さて、とにかくきみたちが望んでいるのはなんなんだ ?　なぜわれわれを助けた ?"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:203
-msgid ""
-"We go out to sea, to build up an army large enough to retake Elensefar. "
-"You're an Elensian, right? I think you owe us your help. We did just save "
-"you from death, and now we have the men of Wesnoth against us in return."
-msgstr ""
-"われわれは海へ出たんだが、それはエレンスファーを取り戻せるくらい大きな軍隊を"
-"作るためだ。あなたはエレンスファー人だな ?　あなたにはわれわれを助ける義務が"
-"あると思う。まさにわれわれが死から救ったんだからな。そしていまとなっては、そ"
-"のおかげでウェスノス兵を敵にまわすことになってしまった。"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:207
-msgid ""
-"Well, I have been in Elensefar, and owe some help to it. Very well. Here is "
-"what I will do. There is an island in the west that has many warriors on it "
-"who will be willing to help you; I will join you, and try to convince those "
-"warriors to also, if you grant me one request."
-msgstr ""
-"まあ、わたしはエレンスファーに住んでいたんだから、助ける義務があるな。けっこ"
-"うだ。それこそわれわれがしたいことだ。さて、西にある島には多くの戦士がいて、"
-"きみに協力してもかまわないと思うことだろう。わたしもきみたちに加わって、それ"
-"からその戦士たちを説得しよう。もしきみがわたしの要求をひとつ聞いてくれたら。"
-
-#. [message]: speaker=Madru
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:211
-msgid "Which is?"
-msgstr "なんだ ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:215
-msgid ""
-"I can't tell you until we reach the Western isle I told you about. That's "
-"part of the fun."
-msgstr "わたしが言った西の島に着くまでは教えられない。楽しみにしておいてくれ。"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:219
-msgid ""
-"Oh, fine... 'I swear on Elensefar my city and on my honor as a Sailor that I "
-"will honor your request, whatever it may be, whenever we reach this Western "
-"island and you secure the help of the warriors that live there.' Happy?"
-msgstr ""
-"ああ、いいとも……｡「わたしの町であるエレンスファー、そして水夫の名誉にかけて誓"
-"おう。あなたの要求を受け入れる。それがなんであれ、その西の島に到着し、そこに"
-"住む戦士が協力を約束したときには」これで満足か ?"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:223
-msgid ""
-"Very much so. Now, I will move my troops to your boat (it is faster), and we "
-"will head on west..."
-msgstr ""
-"とても満足だ。さて、こちらの兵士をきみの船に移動させよう。そちらのほうが速"
-"い。では、西へ向かうとしようか……"
-
-#. [unit]: type=Orcish Warlord, id=Dur-Galba
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:90
-msgid "Dur-Galba"
-msgstr "ダー゠ガルバ"
-
-#. [unit]: type=Naga Myrmidon, type=Naga Warrior, id=Slal
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:109
-msgid "Slal"
-msgstr "スラル"
-
-#. [message]: speaker=Meneldur
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:180
-msgid ""
-"Time to get our ship back. These islands are inhabited, there should be a "
-"harbor *somewhere*."
-msgstr ""
-"そろそろ船を取りかえす頃合いだ。この島には住民がいるな。<b>どこか</b>に港があ"
-"るはずだ。"
-
-#. [message]: speaker=Psison
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:185
-msgid ""
-"These Nagas don't leave us alone! They're here again, and the ship is here "
-"somewhere too."
-msgstr ""
-"あのナーガたちはわれわれを放ってはおかないぞ !　またここへ来る。それに船もこ"
-"このどこかにある。"
-
-#. [message]: speaker=second_unit
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:203
-msgid "Orcs! More orcs!"
-msgstr "オークだ !　またオーク !"
-
-#. [message]: speaker=Psison
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:221
-msgid "I knew there were nagas around here..."
-msgstr "この周りにナーガがいるのがわかった……"
-
-#. [message]: speaker=Black
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:230
-msgid "Now, to the harbor, and back on to the ship!"
-msgstr "さて、港へ。船に戻ろう !"
-
-#. [message]: speaker=Psison
-#: Saving_Elensefar/scenarios/i3-2_Back_to_the_Ship.cfg:235
-msgid ""
-"I will leave you now, but the fighters who fought for you will still help "
-"you, they say."
-msgstr ""
-"もうお別れだ。しかしあなたのために戦った戦士たちは、これからもあなたを助ける"
-"ことだろう。戦士たちがそう言っているぞ。"
-
-#. [about]
-#: Saving_Elensefar/about.cfg:3
-msgid "Campaign Design"
-msgstr "キャンペーンデザイン"
-
-#. [about]
-#: Saving_Elensefar/about.cfg:10
-msgid "Campaign Maintenance"
-msgstr "キャンペーンの保守"
-
-#. [about]
-#: Saving_Elensefar/about.cfg:25
-msgid "WML Contributors"
-msgstr "WML への貢献者"
-
-#. [about]
-#: Saving_Elensefar/about.cfg:60
-msgid "Artwork and Graphics Design"
-msgstr "アートワークとグラフィックデザイン"
-
-#. [about]
-#: Saving_Elensefar/about.cfg:79
-msgid "Translations"
-msgstr "翻訳"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:10
-msgid "SE"
-msgstr "SE"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:17
-msgid ""
-"Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who "
-"attacked the city. He must gather an army willing to fight for him to regain "
-"Elensefar, his adopted homeland."
-msgstr ""
-"エレンスファーのエルフの船乗りであるメネルダーは、町を攻撃したオークによって"
-"海へ追いやられます。メネルダーは仲間となって戦ってくれる軍隊を集め、第 2 の故"
-"郷であるエレンスファーを取り戻さなければなりません。"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:19
-msgid "(Expert level, 4 - 22 scenarios.)"
-msgstr "(上級者レベル、4–22 シナリオ)"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:21
-msgid "Mariner"
-msgstr "船乗り"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:21
-msgid "Easy"
-msgstr "簡単"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:22
-msgid "Navigator"
-msgstr "航海長"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:22
-msgid "Normal"
-msgstr "ふつう"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:23
-msgid "Admiral"
-msgstr "提督"
-
-#. [campaign]: id=Saving_Elensefar
-#: Saving_Elensefar/_main.cfg:23
-msgid "Challenging"
-msgstr "挑戦的"
-
-#~ msgid "Turns run out"
-#~ msgstr "ターンを使い切る"
-
-#~ msgid "Scenario Rules:"
-#~ msgstr "シナリオの規則: "
-
-#~ msgid "Grog Barrel"
-#~ msgstr "酒樽"
-
-#~ msgid "Remember, crew, the healing grog is stored in those barrels."
-#~ msgstr "船員共、覚えておけ。回復用の酒があの樽に入っている。"
-
-#~ msgid "Ah, some nice, refreshing grog! *gulp*"
-#~ msgstr "ああ、こりゃいい。景気付けの酒だ! <b>ぐびっ</b>"
-
-#~ msgid "Drinking the grog heals $temp.user_description!"
-#~ msgstr "酒を飲むとあなたのユニットは回復します!"
-
-#~ msgid "Do you really want to run away?"
-#~ msgstr "本当に逃げたいですか?"
-
-#~ msgid "Fall back!"
-#~ msgstr "退却だ!"
-
-#~ msgid "Fight on!"
-#~ msgstr "戦い抜け!"
-
-#~ msgid "We have unfinished business to attend to."
-#~ msgstr "やらなきゃいけないことが終わっていない。"
-
-#~ msgid "Black Galleon"
-#~ msgstr "黒いガレオン"
-
-#~ msgid "The Explorer"
-#~ msgstr "Explorer号"
-
-#~ msgid ""
-#~ "The Explorer is the craft of Meneldur the Mariner. Crafted with Elvish "
-#~ "skill, it moves faster in the water than most vessels, but is "
-#~ "structurally weaker, and will be sunk easier than a man-made ship."
-#~ msgstr ""
-#~ "Explorer号は水夫Meneldurの作品です。エルフの技術で作られたこの船は、ほとん"
-#~ "どの船より水の上を速く走ります。しかし構造的には弱く、人間の作った船より簡"
-#~ "単に沈みやすいです。"
-
-#~ msgid "War Galleon"
-#~ msgstr "戦闘用ガレオン"
-
-#~ msgid ""
-#~ "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. "
-#~ "Their task is to hunt down pirates - or whoever they choose to call "
-#~ "pirates - and destroy them. "
-#~ msgstr ""
-#~ "Wesnoth海軍は致命的な戦闘用ガレオンからなる強力な艦隊を保有しています。彼"
-#~ "らの任務は海賊 - あるいは彼らが海賊と呼ぶことにした誰でも - を追討し殺すこ"
-#~ "とです。"
-
-#~ msgid "ballista"
-#~ msgstr "バリスタ"
-
-#~ msgid "Elvish Mariner"
-#~ msgstr "エルフの水夫"
-
-#~ msgid ""
-#~ "Separated from Elvish society because of his love of the sea, the Elvish "
-#~ "Mariner has obtained command of a ship and often sails the seas in search "
-#~ "of adventure."
-#~ msgstr ""
-#~ "海が好きなためにエルフの社会から離れた、エルフの水夫は船の指揮権を得まし"
-#~ "た。そして冒険を求めて頻繁に航海しています。"
-
-#~ msgid "Elvish Navigator"
-#~ msgstr "エルフの航海長"
-
-#~ msgid ""
-#~ "The Elvish Navigator has removed himself from other Elves, except those "
-#~ "loyal to him more than to the Council, in order to become a captain of a "
-#~ "ship and go wherever he pleases. He does not follow orders he disagrees "
-#~ "with."
-#~ msgstr ""
-#~ "エルフの航海長は、船の隊長になり行きたい所へ行くために、他のエルフに背を向"
-#~ "けました。評議会より彼への忠誠が勝る者を除いてです。彼は納得できない命令に"
-#~ "は従いません。"
-
-#~ msgid "Elvish Admiral"
-#~ msgstr "エルフの提督"
-
-#~ msgid ""
-#~ "In command of the whole Elensian fleet, the Elvish Admiral follows the "
-#~ "orders of the Lord of Elensefar - when it suits him to do so. He has left "
-#~ "elvish land to join Elensefar, and for this is considered a traitor."
-#~ msgstr ""
-#~ "Elensefar艦隊全体を指揮するエルフの提督は、Elensefarの君主の指揮に従ってい"
-#~ "ます - そうするのが彼にふさわしければ。彼はElensefarに加わるためにエルフの"
-#~ "土地を離れました。そしてこれは裏切りだと考えられています。"
-
-#~ msgid "staff"
-#~ msgstr "杖"
-
-#~ msgid "Sailor"
-#~ msgstr "水夫"
-
-#~ msgid ""
-#~ "Sailors, who began traversing the ocean when they were young, are almost "
-#~ "as much at home in water as on land. In order to make all of the swift "
-#~ "movements required of a crewman, Sailors do not wear any armor. It would "
-#~ "only weigh them down, and would probably cause them to drown in they fell "
-#~ "in the deep. Their only weapon is their light rapier, which they sling "
-#~ "across their shoulder when not using it."
-#~ msgstr ""
-#~ "若い時に海を渡り始めた水夫のほとんどは陸上と同じ位水上に馴染んでいます。必"
-#~ "要な乗員を迅速に動かす必要性から、水夫はいかなる鎧も着ません。鎧は彼らを圧"
-#~ "するだけで、おそらくは深みに沈んで溺死することになってしまうでしょう。彼ら"
-#~ "は軽いレイピアだけで武装します。それを使わない時は肩から吊り下げています。"
-
-#~ msgid "Shipsmaster"
-#~ msgstr "船長"
-
-#~ msgid ""
-#~ "The master of whatever ship they are aboard, the Shipsmaster answers only "
-#~ "to the captain of the vessel. He does not do the manual labor that most "
-#~ "crewmen do, leaving that to those working beneath him, but still refuses "
-#~ "to wear armor or wield heavy weapons, as doing so would be only an "
-#~ "invitation for the sea to drown him. His weapon is his rapier, which he "
-#~ "wields with ferocious skill."
-#~ msgstr ""
-#~ "乗り組んだ船の全てを統率する船長は、船の隊長の要求以外には応じません。彼は"
-#~ "ほとんどの乗員が行う肉体労働をしません。彼より地位の低いものにやらせておき"
-#~ "ます。しかしそれでも鎧を着たり、重い武器を使ったりはしません。彼を溺死させ"
-#~ "るための海からの案内状でしかないからです。非常な技術を持つレイピアで武装し"
-#~ "ています。"
+"この船には 100 ゴールドためこんであった。そのうえわれわれの船にじゅうぶん補充"
+"できるだけの食料がある。"
