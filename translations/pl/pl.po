@@ -2948,11 +2948,9 @@ msgstr "Admirał"
 msgid "Challenging"
 msgstr "Trudny"
 
-#, fuzzy
 #~ msgid "(easiest)"
 #~ msgstr "(łatwy)"
 
-#, fuzzy
 #~ msgid "(hardest)"
 #~ msgstr "(trudny)"
 

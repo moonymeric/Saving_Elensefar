@@ -2897,11 +2897,9 @@ msgstr "Amiral"
 msgid "Challenging"
 msgstr "Utmanande"
 
-#, fuzzy
 #~ msgid "(easiest)"
 #~ msgstr "(lätt)"
 
-#, fuzzy
 #~ msgid "(hardest)"
 #~ msgstr "(svårt)"
 

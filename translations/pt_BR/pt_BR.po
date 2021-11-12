@@ -2934,11 +2934,9 @@ msgstr "Almirante"
 msgid "Challenging"
 msgstr "Desafiador"
 
-#, fuzzy
 #~ msgid "(easiest)"
 #~ msgstr "(Fácil)"
 
-#, fuzzy
 #~ msgid "(hardest)"
 #~ msgstr "(Difícil)"
 
