@@ -1,15 +1,134 @@
-#textdomain wesnoth-se
-title= _ "Saving Elensefar"
+title="Saving Elensefar"
 type="campaign"
 icon="units/transport/transport-galleon.png~RC(magenta>red)"
 version="2.3.0"
 author="turin"
 passphrase=
 email=
-description= _ "Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who attacked the city. He must gather an army willing to fight for him to regain Elensefar, his adopted homeland." + "
+description="Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who attacked the city. He must gather an army willing to fight for him to regain Elensefar, his adopted homeland." + "
 
-" + _ "(Expert level, 4 - 22 scenarios.)"
+" + "(Expert level, 4 - 22 scenarios.)"
 
 [feedback]
-    topic_id=3072
+    topic_id="3072"
 [/feedback]
+
+[language]
+    language="ca"
+    title="Salvem Elensefar!"
+    description="Meneldur, un mariner elf d'Elensefar, es veu abocat al mar pels mateixos orcs que havien atacat la ciutat. Haurà de reunir un exèrcit que estiga disposat a lluitar per Elensefar, la seua pàtria d'adopció." + "
+
+" + "(Nivel experto, 4 - 22 escenarios.)"
+[/language]
+
+[language]
+    language="cs"
+    title="Záchrana Elensefaru"
+    description="Meneldur, elfí námořník z Elensefaru, je vyhnán na moře skřety, kteří zaútočili na město. Musí shromáždit vojsko ochotné bojovat za osvobození Elensefaru, svého adoptivního domova." + "
+
+" + "(Úroveň expert, 4 až 22 scénářů.)"
+[/language]
+
+[language]
+    language="da"
+    title="Undsætning af Elensefar"
+    description="Meneldur, elvermariner fra Elensefar, fordrives ud på havet af de samme orker som angreb byen. Han må samle en hær, som er villig til at kæmpe for ham for at generobre Elensefar; hans adopterede hjemland." + "
+
+" + "(Ekspertniveau, 4 - 22 scenarier.)"
+[/language]
+
+[language]
+    language="de"
+    title="Die Rettung Elensefars"
+    description="Meneldur, ein elfischer Seefahrer von Elensefar, muss fliehen als Orks seine Stadt erobern. Er schwört sich, eine Armee aufzubauen, die stark genug ist, um seine adoptierte Heimat zu befreien." + "
+
+" + "(Einstufung: Experte, 4 bis 22 Szenarien)"
+[/language]
+
+[language]
+    language="en"
+    title="Saving Elensefar"
+    description="Meneldur, an elvish mariner of Elensefar, is driven out to sea by the orcs who attacked the city. He must gather an army willing to fight for him, and regain Elensefar, his adopted homeland." + "
+
+" + "(Expert level, 4 - 22 scenarios.)"
+[/language]
+
+[language]
+    language="es"
+    title="Salvando Elensefar"
+    description="Meneldur, un marino elfo de Elensefar, es expulsado al mar por los mismos orcos que atacaron la ciudad. Ha de reunir un ejército dispuesto a luchar por él para reconquistar Elensefar, su hogar adoptivo." + "
+
+" + "(Nivel experto, 4 - 22 escenarios.)"
+[/language]
+
+[language]
+    language="fr"
+    title="Sauver Elensefar"
+    description="Meneldur, marin elfe d'Elensefar, est acculé à la mer par les orcs qui ont attaqué la ville. Son but : réunir une armée prête à se battre avec lui pour reconquérir Elensefar, sa patrie d'adoption." + "
+
+" + "(Niveau expert, entre 4 et 22 scénarios.)"
+[/language]
+
+[language]
+    language="hu"
+    title="Elensefar Felszabadítása"
+    description="Meneldurt, Elensefar tünde hajósát a várost megtámadó orkok kikényszerítették a tengerre. Sereget kell gyűjtenie, amivel visszafoglalhatja Elensefart, választott hazáját." + "
+
+" + "(Gyakorlott szint, 4 - 22 pálya)"
+[/language]
+
+[language]
+    language="it"
+    title="Il salvataggio di Elensefar"
+    description="Meneldur, un marinaio degli elfi di Elensefar, è dovuto fuggire in mare per sfuggire agli stessi orchi che attaccarono la città. Deve radunare un'armata che combatta con lui per riguadagnare Elensefar, la sua patra adottiva." + "
+
+" + "(Livello per esperti, 4 - 22 scenari.)"
+[/language]
+
+[language]
+    language="ja"
+    title="エレンスファー救援"
+    description="エレンスファーのエルフの船乗りであるメネルダーは、町を攻撃したオークによって海へ追いやられます。メネルダーは仲間となって戦ってくれる軍隊を集め、第 2 の故郷であるエレンスファーを取り戻さなければなりません。" + "
+
+" + "(上級者レベル、4–22 シナリオ)"
+[/language]
+
+[language]
+    language="pl"
+    title="Ratując Elensefar"
+    description="Meneldur, elficki żeglarz z miasta Elensefar, uciekając przed orkami wypływa w morze. Musi zebrać armię gotową do walki u jego boku o odzyskanie Elensefaru, jego przybranej ojczyzny." + "
+
+" + "(Poziom zaawansowany, 4 - 22 scenariuszy.)"
+[/language]
+
+[language]
+    language="pt_BR"
+    title="O Resgate de Elensefar"
+    description="Meneldur, Marinheiro Élfico de Elensefar, é expulso para o mar pelos mesmo orcs que atacaram a cidade. Ele precisa formar um exército para lutar pela posse de Elensefar, sua terra natal por adoção." + "
+
+" + "(Nível Veterano, 4 até 22 cenários.)"
+[/language]
+
+[language]
+    language="pt"
+    title="O Resgate de Elensefar"
+    description="Meneldur, Marinheiro Elfo de Elensefar, é expulso para o mar pelos mesmo orcs que atacaram a sua cidade. Precisa agora de formar um exército para lutar pela posse de Elensefar, a sua terra natal por adopção." + "
+
+" + "(Nível Veterano, 4 até 22 cenários)"
+[/language]
+
+[language]
+    language="ru"
+    title="Спасение Эленсефара"
+    description="Безжалостные орки захватили Эленсефар. Эльфийскому моряку Мелендуру и его товарищам предстоит вырваться на свободу, собрать войско и вернуть город, который его приютил." + "
+
+" + "(Для опытных игроков, от 4 до 22 сценариев.)"
+[/language]
+
+[language]
+    language="sv"
+    title="Elensefars Undsättning"
+    description="Meneldur, alvsjöman från Elensefar, fördrivs till sjöss av samma orcher som anfaller staden. Han måste samla ihop en armé som är villig att slåss för att återta Elensefar, hans hem." + "
+
+" + "(Expertnivå, 4 - 22 scenarion.)"
+[/language]
