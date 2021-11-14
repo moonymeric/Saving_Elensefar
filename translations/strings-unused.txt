@@ -1,0 +1,114 @@
+# Strings used by Turin's original but obsoleted in MoonyDragon's version.
+# Listed for documentation and for possible use in the future.
+# #textdomain wesnoth-se
+
+# TURNS RUN OUT
+_ "Turns run out"
+
+# GROG BARRELS
+_ "Grog Barrel"
+_ "Remember, crew, the healing grog is stored in those barrels."
+_ "Ah, some nice, refreshing grog! *gulp*"
+_ "Drinking the grog heals $temp.user_description!"
+
+# ESCAPE OPTION
+_ "Do you really want to run away?"
+_ "Yes"
+_ "Fall back!"
+_ "No"
+_ "Fight on!"
+_ "We have unfinished business to attend to."
+
+# THE HIGH SEAS
+_ "One Week"
+_ "Scenario Rules:"
+
+# DEATH EVENTS
+_ "Unghnhhghhnghh."
+_ "Ahnnhnnhn..."
+_ "Ughnnnhnnhn..."
+_ "Ughnhnhnhhn..."
+_ "Ahnanzz..."
+
+# MECHANICAL UNIT TYPES
+_ "The Explorer"
+
+_ "Black Galleon"
+_ "The Explorer is the craft of Meneldur the Mariner. Crafted with Elvish skill, it moves faster in the water than most vessels, but is structurally weaker, and will be sunk easier than a man-made ship."
+
+_ "War Galleon"
+_ "The Royal Navy of Wesnoth owns a powerful fleet of deadly war galleons. Their task is to hunt down pirates - or whoever they choose to call pirates - and destroy them. "
+_ "ballista"
+
+# MENELDUR UNIT TYPES
+_ "Elvish Mariner"
+_ "Separated from Elvish society because of his love of the sea, the Elvish Mariner has obtained command of a ship and often sails the seas in search of adventure."
+
+_ "Elvish Navigator"
+_ "The Elvish Navigator has removed himself from other Elves, except those loyal to him more than to the Council, in order to become a captain of a ship and go wherever he pleases. He does not follow orders he disagrees with."
+
+_ "Elvish Admiral"
+_ "In command of the whole Elensian fleet, the Elvish Admiral follows the orders of the Lord of Elensefar - when it suits him to do so. He has left elvish land to join Elensefar, and for this is considered a traitor."
+_ "staff"
+
+# MADRU UNIT TYPES
+_ "Sailor"
+_ "Sailors, who began traversing the ocean when they were young, are almost as much at home in water as on land. In order to make all of the swift movements required of a crewman, Sailors do not wear any armor. It would only weigh them down, and would probably cause them to drown in they fell in the deep. Their only weapon is their light rapier, which they sling across their shoulder when not using it."
+
+_ "Shipsmaster"
+_ "The master of whatever ship they are aboard, the Shipsmaster answers only to the captain of the vessel. He does not do the manual labor that most crewmen do, leaving that to those working beneath him, but still refuses to wear armor or wield heavy weapons, as doing so would be only an invitation for the sea to drown him. His weapon is his rapier, which he wields with ferocious skill."
+_ "rapier"
+
+# OLD EPILOGUE
+_ "I still cannot believe that the men of Wesnoth, or the elves, would really fight to keep Elensefar under orcish control. What made them do it?"
+# "Well, hatred of me, and the perception that I was a traitor to my race, was what fueled the elven attack."
+_ "Again, why does that give them reason to sacrifice our city?"
+_ "That may not be the only reason. They did not initially instigate the orcish attack; as far as we can tell, their alliance came afterwards. And it was not really an alliance, from what I can tell. The elves thought they could not possibly defeat the orcs, so they made a peace treaty with them in order to not be attacked themselves."
+_ "So they allied with the orcs because they feared being attacked? Don't they know orcs cannot be trusted?"
+_ "When you are in danger of being attacked, you do not think clearly. Their attack was a mixture of motives, I would say. Hatred of Meneldur, fear of an orcish attack on their own country, and something else, I am not sure what, all made them willing to ally with evil."
+# "That does not excuse them, though, and they deserved to die."
+# "None of us are saying they did not."
+_ "I would. We do not know the circumstances of the alliance, nor even to say whether the alliance itself was evil. After all, our alliance with undead is not, from our view, evil, but the circumstances are very similar."
+# "They are only similar if you assume that undead are evil. Some are, true, but not all. Mine and my brother's are not."
+# "I may be your ally, but I will never say your undead are not evil. You are probably not, probably you are just decieved as to what really occurs with undeath. But undead are evil."
+# "Come on now. Well, it is true that the circumstances are not in truth similar, but they do appear to be. The elves may have thought they were."
+_ "I see, Meneldur. Well, I can see, in a distorted way, why the elves attacked us. But why were the humans willing to discard our old alliance in favor of one with orcs?"
+_ "Well, we did attack them, multiple times."
+_ "We are not even sure they planned on doing that. They may have wished to defeat us first, then attack the orcs. Indeed, the elves and humans could have both had that plan."
+_ "That is called treachery, and would not excuse alliance with the orcs."
+_ "I agree that it would be treachery, but I think it is not what they planned. The men of Wesnoth do not see good and evil as we do. To them, good is what benefits Wesnoth, and evil is what hurts it. They probably actually planned on an alliance with an orcish state, because that would allow them to create provinces in the north unopposed."
+# "Possibly. However, all of this is just speculation. We cannot know why they actually attacked us, can we? We can only guess."
+# "Which is why this is rather pointless."
+_ "Well, I must be going. I do have a ship to load, and an army to disarm."
+# "Very well. I suppose this council is ended, and the real work of Daharan's reign shall begin."
+
+# DUELIST UNIT TYPE
+_ "Duelist"
+_ "Duelists are masters of the art of swordplay. Their skill with the rapier allows them to attack and parry with only one hand, while they wield a crossbow in the other to shoot distant foes."
+_ "sabre"
+_ "crossbow"
+
+# DIFFICULTY
+_ "(easy)"
+_ "(medium)"
+_ "(hard)"
+
+# DAMAGE TYPES
+_ "blade"
+_ "impact"
+_ "pierce"
+
+# ABILITIES
+_ "skirmisher"
+_ "leadership"
+
+# TRAITS
+_ "strong, quick"
+_ "strong, intelligent"
+_ "strong, resilient"
+_ "quick, resilient"
+_ "quick, intelligent"
+_ "intelligent, resilient"
+
+# MACROS
+_ "{DESC}"
