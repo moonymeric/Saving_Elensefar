@@ -47,3 +47,8 @@ Version 2.3.0 - Date 2021-11-07 - Wesnoth 1.16.0 - Maintainer 'MoonyDragon'
 * improved enemy recruits, leaders, portraits, ai and gold
 * added shroud hints and minor improvements to some maps
 * added xp bonus after completing an island
+
+Version 2.3.1 - Date 2021-11-14 - Wesnoth 1.16.0 - Maintainer 'MoonyDragon'
+* implemented new translation file structure
+* updated czech and japanese translations
+* added translation support for the add-ons server
