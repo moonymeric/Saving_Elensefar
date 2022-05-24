@@ -1,12 +1,14 @@
 # translation of cs.po to
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2008.
-# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2009.
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2008 - 2011.
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 2008 - 2011, 2020 - 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-06 20:01 UTC\n"
-"PO-Revision-Date: 2021-11-07 12:53+0100\n"
+"PO-Revision-Date: 2022-05-24 18:26+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [scenario]: id=i4_Fire_Island
 #. [label]
@@ -1452,7 +1454,7 @@ msgid ""
 "With Lomanyas dead, I think we have defeated all of the Elves who sail the "
 "sea. We probably won't see them until we reach Elensefar..."
 msgstr ""
-"Teď když jsme zabili Lomanyas, myslím, že jsme pobili všechny elfy, co byli "
+"Teď, když jsme zabili Lomanyas, myslím, že jsme pobili všechny elfy, co byli "
 "schopní plout po moři. Asi už žádné nepotkáme, dokud se nevrátíme do "
 "Elensefaru..."
 
@@ -1522,7 +1524,7 @@ msgstr ""
 "Vládne tu lord, krutý lord a my jsme nechtěli být jím zotročeni a vzepřeli "
 "jsme se mu. Jenže pak si povolal posily ze severu a je teď příliš silný. "
 "Síly už nejsou vyrovnány a on se rozhodl, že se nás pokusí zničit! "
-"Zaplatíme, pokud nám pomůžete. "
+"Zaplatíme, pokud nám pomůžete."
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:165
@@ -1531,7 +1533,7 @@ msgid ""
 "we may use them more effectively."
 msgstr ""
 "Dobře tedy, pokusíme se vám pomoci. Předej nám velení tvých jednotek, abysme "
-"je mohli lépe využít. "
+"je mohli lépe využít."
 
 #. [message]: speaker=Padrun
 #: Saving_Elensefar/scenarios/i6_Frozen_Lands.cfg:170
@@ -1552,7 +1554,7 @@ msgid ""
 "Thank you for helping us regain our land! My men that were fighting with you "
 "will join you now, although I will be staying here."
 msgstr ""
-"Díky, že jste nám pomohli znovu získat naši zem! Moji muži, co bojovali "
+"Díky, že jste nám pomohli znovu získat naši zem! Moji druhové, co bojovali "
 "spolu s vámi, vás dál doprovodí, ačkoli já zůstanu tady."
 
 #. [message]: speaker=Padrun
@@ -1589,7 +1591,7 @@ msgid ""
 "there are no warriors here, just undead and orcs!"
 msgstr ""
 "Černesi, proč jsi nás sem zavedl? Vidím jen zbytky a trosky města a nejsou "
-"tu žádní válečníci, jen nemrtví a skřeti!  "
+"tu žádní válečníci, jen nemrtví a skřeti!"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:197
@@ -1643,12 +1645,12 @@ msgstr "Co? Proto jsme nepřišli!"
 msgid ""
 "Well, yes it is. You have to help them secure this city before they will "
 "help you."
-msgstr "Je to tak. Musíš jim pomoct zabezpečit toto město, než ti pomůžou. "
+msgstr "Je to tak. Musíš jim pomoct zabezpečit toto město, než ti pomůžou."
 
 #. [message]: speaker=Ah-Reblak
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:225
 msgid "Help them? Help Islefolk? Why would we do that?"
-msgstr "Pomáhat jim? Pomáhat Ostrovanům? Proč by jsme to dělali?"
+msgstr "Pomáhat jim? Pomáhat Ostrovanům? Proč bychom to dělali?"
 
 #. [message]: speaker=Black
 #: Saving_Elensefar/scenarios/3_Blackmore_the_Black.cfg:229
@@ -1664,7 +1666,7 @@ msgid ""
 "What!? Followers of that deserter!? I can't believe you think we would help "
 "them!"
 msgstr ""
-"Cože? Následovníci té dezertérky? Nemůžu věřit, že si myslíš, že bysme jim "
+"Cože? Následovníci té dezertérky? Nemůžu věřit, že si myslíš, že bychom jim "
 "pomohli!"
 
 #. [message]: speaker=Black
@@ -1902,7 +1904,7 @@ msgstr "Otevřené moře"
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:197
 msgid "Land in a harbor to reprovision."
-msgstr "Doplnit zásoby lze přistáním v přístavu. "
+msgstr "Doplnit zásoby lze přistáním v přístavu."
 
 #. [objective]: condition=win
 #: Saving_Elensefar/scenarios/r0_The_High_Seas.cfg:201
@@ -2606,7 +2608,7 @@ msgid ""
 "can tell, was just captured by orcs!"
 msgstr ""
 "Proč nás zastavujete? Hledáme pomoc. Jsme z Elensefaru, který je, aspoň co "
-"víme, právě obsazen skřety! "
+"víme, právě obsazen skřety!"
 
 #. [message]: speaker=Aldran
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:158
@@ -2648,7 +2650,7 @@ msgid ""
 "Outlaws, you mean! These Elensians are all the same. Troops, destroy them!"
 msgstr ""
 "Takže vlastně sháníš psance! Ti elensiáni jsou všichni stejná verbež. "
-"Vojáci, zničte je! "
+"Vojáci, zničte je!"
 
 #. [message]: speaker=Meneldur
 #: Saving_Elensefar/scenarios/2_A_Naval_Engagement.cfg:178
